@@ -22,3 +22,8 @@ To be even more cautious, we have decided to explicitly address each of the repu
 These symbolic paraphernalia are not intended to imply any collectivist/tribal/nationalist cohesion among individuals but rather to serve as exhortations to the exact opposite. Whereas other polities use mottos, watchwords, anthems, flags, coats of arms, national animals and so on to engender a sense of shared stake in the population, we use these elements to assert the individualist nature of our values and to encourage people to reject collectivist cultural maypoles.
 
 - *Magnificata*: We chose this name because we didn't want to overload the word "magna" in search engine results - ideally, people should easily be able to find information about the magna carta without dealing with overloaded results.
+
+## Republic, not Democracy.
+
+We specifically wanted to make it clear that we are a Republic and not a Democracy in the body of the document because one of the biggest problems liberty defenders have had to contend with in the American constitution is that it is never explicitly stated that the US Constitution is explicitly **not** a Democracy. It has even become common for US politicians to call the USA a Democracy or to speak highly of Democracy. The US constitution specifically calls itself a Republic and mandates that a "Republican form of government" be guaranteed to all of the states. We go further and make rectify the shortcoming of the US constitution by making it clear that we are intentionally **not** a Democracy.
+
