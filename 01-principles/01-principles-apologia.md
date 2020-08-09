@@ -1,5 +1,5 @@
 
-# Wellspring: Principles
+# Wellspring: Principles: Apologia
 
 ## Disclaimers and disavowals:
 
