@@ -20,8 +20,6 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
 - First month:
   - *Day 1*: Not A Democracy, but a Republic if you can keep it (`NoDembaR`) day.
   - *Day 2*: Common Law and Magna Carta (`Magnificata`) day.
-- Second month:
-  - *Day 1*: Jury Nullification day.
 - 2nd quarter month:
   - *Day 1*: Intentional Gridlock day.
   - *Day 15*: Outlawing Incremental Tyranny (`NoTyrannis`) day.
@@ -29,49 +27,44 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
   - *Day 1*: Private Property day.
   - *Day 15*: Rights are Unimpeded Capabilities, Not Obligations On Others (`RaNO`) day.
 - 3rd-quarter month:
-  - *Day 1*: Reason Grasps Reality (`ReGRe`) day.
-  - *Day 15*: Existence is Identity and Consciousness is Identification (`EIConId`) day.
+  - *Day 1*: Jury Nullification day.
+  - *Day 15*: Existence Exists (Exis) day.
 - Final month:
-  - *Penultimate day*: `Ayn Rand` our Mother (`ARoM`) day.
-  - *Last day*: `Aristotle` Our Father (`AroF`) day.
+  - *Penultimate day*: Reason Grasps Reality (`ReGRe`) day.
+  - *Final day*: Existence is Identity and Consciousness is Identification (`EIConId`) day.
 
 ## Rights
 
 ### Definition of Rights
 
-Rights are capabilities and nothing more. A "right" is an undertaking which a an indepagent is capable of performing on its own, if left unimpeded. That is, a right is something which an indepagent can perform "by right" of its own nature/design. A right is **not** a claim on the capabilities, mind or labour of **another** indepagent. Here are examples of rights:
-- Indepagents have a right to freedom of movement.  
-: Left unimpeded, most indepagents are capable of locomotion. It is therefore their right, **by right**, to move freely subject only to private property law.
-- Indepagents have a right to freedom of speech.
-: Left unimpeded, most indepagents are capable of speech/communication. It is therefore their right, **by right**, to speak freely subject only to private property law.
-- Indepagents have a right to freedom of labour.
-: Left unimpeded, most indepagents are capable of actuating their intentions through labour. It is therefore their right, **by right**, to labour freely subject only to private property law.
-- Indepagents have a right to freedom of contract/trade.
-: Left unimpeded, most indepagents are capable of co-operating and trading upon mutually agreeable terms. It is therefore their right, **by right**, to contract/trade subject only to private property law.
-- And so on.
+Rights are capabilities and nothing more. A "right" is an undertaking which a an indepagent is capable of performing on its own, if left unimpeded. That is, a right is something which an indepagent can perform "by right" of its own nature/design. A right is **not** a claim on the capabilities, mind or labour of **another** indepagent.
 
-Here are examples of things which are **not** the exercise of rights, but rather impositions of obligations on **other** indepagents -- i.e., they impede the free exercise of the rights of some **other** indepagent:
-- A "right to healthcare".
-: A claim to a "right to healthcare" amounts to a claim on the ability to compel a healthcare worker to perform medical labour on the indepagent claiming the right, *even if the healthcare worker does not voluntarily agree to be bound by the claim*.
-- A "right to housing".
-: A claim to a "right to housing" amounts to a claim on the labour of a construction worker to perform labour for the benefit of the indepagent claiming the right, or a claim to sieze the existing housing property owned by another indepagent, *even if the construction worker or landlord does not voluntarily agree to be bound by the claim*.
-- And so on.
+Rights and private property law go hand in hand; rights are capabilities, and private property law ensures that no indepagent's capabilities are used to injur another indepagent's ability to exercise their rights.
 
+### Definition of Private Property
+
+Private Property law is that set of restrictions which stem from the recognition that each indepagent owns its own self (both consciousness and "body") and the produce of its labour (both cognitive and physical). In order to protect the "persons" of indepagents and their labour, private property law secures each indepagent against interference in the forms of **force**, **duress** and **fraud**.
+
+The sovereignty of the individual may only be breached in the pursuit of:
+- The control of contagions and biohazards, as outlined in SovCBio law.
+- The preparedness of the nation for war, as outlined in SovWI law.
 
 ### Rights protected by this constitution
 
-WS recognizes only 3 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are types of indepagents.
+WS recognizes only 3 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are sub-types of indepagents.
 
 The right to:
 1. Think/associate/dissociate freely. There are no exceptions.
-2. Speak freely. The exception to this right is where speech is employed to command or request violation of private property by proxy (i.e. "incitement").
+2. Speak/communicate freely. The exceptions to this right are where speech is employed to command or request violation of private property by proxy (i.e. "incitement") and where speech violates SovWI Secrecy law. This shall not be construed to preclude civil liability incurred from speech, where speech causes damage to reputation and prospects (i.e, "libel/slander" etc).
 3. Act/labour/move freely. The exception is where action violates others' private property as defined by this Constitution. This right may be abridged in respect of the exceptions outlined in this constitution's definition of private property, but only in as much as is necessary to achieve such ends and no further.
 
 No other right is recognized before a Utopian court. Laws which force other persons' labour shall be unenforceable. E.g, laws to force a medical/insurance worker to labour for others (I.e, no right to healthcare). This shall not be construed to invalidate equitable legal remedies.
 
-## Private Property
+### Those things declared "unenforceable" by `WS`
 
-Private Property law is the proposition that each indepagent owns its own self (both consciousness and "body") and the produce of its labour (both cognitive and physical). In order to protect the "persons" of indepagents and their labour, private property law secures each indepagent against interference in the forms of **force**, **duress** and **fraud**.
+The defense, "forceful resistance of the unenforceable", even to lethality, shall form a perfect defense in every Utopian court where the injury is inflicted against one attempting to enforce a thing deemed "unenforceable" by this constitution.
+
+If in the act of defending an outlaw, a person harms another, the defendant shall have no defense.
 
 ## Republic, not Democracy
 
@@ -83,30 +76,55 @@ The rule of law (i.e., "Republicanism") is that form of government which equally
 - Monarchy
 : Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
 
-...You get the idea. `WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). We are a republic. We are ruled by a publicly published document. We are not ruled by arbitrary whim. All conagents are equally subject to the same document, which can be read, understood and **predicted** by all, and which applies equally to all and most importantly, which resists **impulsive** changes.
+...And so on. `WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). We are a republic. We are ruled by a publicly published document. We are not ruled by arbitrary whim. All conagents are equally subject to the same document, which can be read, understood and **predicted** by all, and which applies equally to all and most importantly, which resists **impulsive** changes.
 
-### The need for change
+## A word on "Equality"
 
-In a republic, changes to law may sometimes come rapidly where the values of an overwhelming majority demand those changes; otherwise they come after level headed consideration. We can already hear the chorus of historical examples (mainly from the USA's constitutional history) purporting to show that the intentionally inflexible nature of Republics denies individual sovereignty to oppressed groups. Allow us to address some of those arguments.
-- Slavery
-:
-- LGBT+ rights
-:
-- Womens' rights
-:
+`WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). WS explicitly does **not** value equality of opportunity or equality of outcome as policy goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the **private sector** via market mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through policy. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
 
-...And here are some arguments we will pre-empt by showing that we have also considered the rights of groups of entities which do not yet even exist, but may exist in the future:
-- Artificial Intelligences
-:
-- Extra-terrestrials
-:
+- Any law which pursues equality of outcome shall be unenforceable.
+- Any law which pursues equality of opportunity outside of equality of access to the courts for justice, shall be unenforceable.
 
-## Legally valid notion of "Morality"
+## Role of Government
 
-`WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). WS explicitly does **not** value equality of opportunity or equality of outcome as policy goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the private sector via market mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through policy. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
+Government is a corporation which provides internal policy, external defense and an externality auction market service, Courts/Franchisee Courts, an Ongoing Judicial Examination System, a standing army/navy/airforce, intelligence, diplomacy, Contagion and Biohazard Management (CBio), a service exchange auction and incentives for certain categories of insurance and products (using tax reductions only).
+ 
+Branches of govt: Diplomatic, Defense, Judicial, Informative and Legislative. There is no executive. Only the defensive and CBio branches shall have the power to deficit spend. Deficit spending by any other branch shall be directly funded by its employees.
 
+No regulatory committee (not even "independent" ones) shall be established by govt or given power to create or change law or bye-law.
 
-Equality is a false doctrine which destroys liberty. Judeo-christian morality does not state that all men are equal. It states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator in spite of inadequacies clearly visible in him; not because he is your equal. A fool could see with the naked eye no two humans are equal. Laws which seek to equalise outcomes or correct the imbalances in ability caused by nature shall be unenforceable.
+## Courts
 
-This constitution however, not being founded on torah, but on private property morality, states that every man is sovereign and his private property rights absolute without exception. Upon this foundation no two humans are equal, but every claim of individual sovereignty over private property is equally sacrosanct, because the dignity, liberty and potential of every person is worth protecting.
+Courts are nationalized because private property law should enjoy a uniform, undisputed monopoly.
+
+Courts may be franchised to provide greater coverage. All courts without exception shall be lex-libertas courts. Appellate courts shall have larger (in number) juries than lower courts.
+
+## Natural Resources ("Natureses")
+
+Natural resources as defined by this Constitution includes all naturally occurring assets, from airspace and electromagnetic waves to land to waterways (not an exhaustive list).
+
+All natural resources originally belong to the government. The government may grant title to such resources to any legal person. Such title may not subsquently be unilaterally withdrawn by the government after it is given out. The government shall however maintain a registry of all such title owners and the transfer of title shall be registered with the government. The government may tax title holders. A title holder may voluntarily relinquish title to an allocated natural resource back to the government at any time.
+
+Since government must track the locations of allocated natureses, it shall have the power to invent and control the polity's addressing scheme for natural resources for consistency. Notwithstanding, private addressing and naming schemes may be layered on top of government's scheme by private legal persons.
+
+All such units of natural resource owned by the government shall be listed on the exchange and sold there. The branches of government shall bid for title to natural resources the same way as all other legal persons and shall have no elevated privileges in the bidding. It is intentional that this may allow acquisition to be gratis.
+
+The sale of natural resources confers ownership of such natural resources in a multi-dimensional manner. For example, in the case of land, the sale should be in units of 3 dimensional cubes of land stretching from the surface to some distance below it, and not from the surface to the center of the earth. This allows another buyer to purchase another stretch of blocks beneath that stretch of blocks owned by the legal person closest to the surface and so on.
+
+The sale of land shall also, if necessary be accompanied by a sale of suffucient airspace if there is to be construction of a structure above ground as well. A structure must be built within the confines of the allocated space purchased by its owner. This enables airlines to purchase routes or rent routes owned by other legal persons and so on, thereby solving co-ordination problems.
+
+A valuable natural treasure contained within a purchased natural resource which was previously undiscovered shall be counted as being part of the containing natural resource and shall incur no additional price on the owner after discovery. Notwithstanding, government shall have the right to modify tax rates at its discretion, subject to applicable laws.
+
+Utopia does not honour title held by or on behalf of foreign govts and/or their agents/agencies except as needed for diplomacy. When expropriating such titles, they shall be listed on the externality auction.
+
+## The right to leave
+
+Citizens have a right to claim access to the "Right to leave" program. Indepagents who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred on their behalf to effectuate the program. While the indepagent is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the applicant loses citizenship. The right to leave program grants:
+
+- One way travel to a destination chosen by the applicant.
+  - Should the applicant desire to relocate to a different domicile location during the 2 years, no new transportation coverage shall be offered or granted.
+- 2 years' coverage of accomodations. The level of comfort afforded shall be subject to the legislature.
+  - The coverage shall be given in monetary form.
+  - There is no requirement that the applicant spend the money on accomodations; merely that they leave the jurisdiction.
+- It is up to the applicant to procure any authorization for residency, transit, etc required to reach and domicile themselves in their end destination.
 
