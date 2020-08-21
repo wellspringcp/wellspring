@@ -66,7 +66,7 @@ No other right is recognized before a Utopian court. Laws which force other pers
 
 The defense, "forceful resistance of the unenforceable", even to lethality, shall form a perfect defense in every Utopian court where the injury is inflicted against one attempting to enforce a thing deemed "unenforceable" by this constitution.
 
-> If in the act of defending an outlaw, a person harms another, the defendant shall have no defense.
+> [Experimental] If in the act of defending an outlaw, a person harms another, the defendant shall have no defense.
 
 ## Republic, not Democracy
 
@@ -99,7 +99,7 @@ No regulatory committee (not even supposedly "independent" ones) shall be establ
 
 Courts are nationalized because private property law should enjoy a uniform, undisputed monopoly.
 
-Courts may be franchised to provide greater coverage. All courts without exception shall be lex-libertas courts. Appellate courts shall have larger (in number) juries than lower courts.
+Courts may be franchised to provide greater coverage. All courts without exception shall be lex-libertas courts. [Experimental] Appellate courts shall have larger (in number) juries than lower courts.
 
 ## Natural Resources ("Natureses")
 
@@ -124,9 +124,9 @@ Utopia does not honour title held by or on behalf of foreign govts and/or their 
 Citizens have a right to claim access to the "Right to leave" program. Indepagents who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred on their behalf to effectuate the program. While the indepagent is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the applicant loses citizenship. The right to leave program grants:
 
 - One way travel to a destination chosen by the applicant.
-  - Should the applicant desire to relocate to a different domicile location during the 2 years, no new transportation coverage shall be offered or granted.
+  - Should the applicant desire to relocate to a different domicile location during the 2 years, no new transportation coverage shall be offered or granted; however the accomodations funds will continue being paid according to the original schedule.
 - 2 years' coverage of accomodations. The level of comfort afforded shall be subject to the legislature.
   - The coverage shall be given in monetary form.
   - There is no requirement that the applicant spend the money on accomodations; merely that they leave the jurisdiction.
-- It is up to the applicant to procure any authorization for residency, transit, etc required to reach and domicile themselves in their end destination.
+- It is up to the applicant to procure any visas/authorization for residency, transit, etc required to reach and domicile themselves in their end destination.
 
