@@ -13,6 +13,7 @@ Wellspring, hereafter "`WS`", exists to improve upon the mistakes of the forerun
 ## Symbols, celebrations and rituals.
 
 Motto: The individual outranks the collective.
+
 Pledge of Allegiance: "I swear by my life and my love of it that I will never attempt to force, threaten or defraud another indeperson into living for me."
 
 Republic Holidays: Each of the cornerstone principles of the republic shall have its own holiday to keep it in remembrance. Working on a republic holiday incurs no penalty.
@@ -22,13 +23,13 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
   - *Day 2*: Common Law and Magna Carta (`Magnificata`) day.
 - 2nd quarter month:
   - *Day 1*: Gridlock is Intentional (`GrInt`) day.
-  - *Day 15*: Outlawing Incremental Tyranny (`NoTyrannis`) day.
+  - *Day 15*: Outlawing Incremental Tyranny (`Sic semper tyrannis`/`Sictember`) day.
 - Middle month:
   - *Day 1*: Private Property Law (`PrivaLa`) day.
   - *Day 15*: Rights are Unimpeded Capabilities, Not Obligations On Others (`RaNO`) day.
 - 3rd-quarter month:
   - *Day 1*: Jury Nullification day.
-  - *Day 15*: Existence Exists (Exis) day.
+  - *Day 15*: Existence Exists (`Exis`) day.
 - Final month:
   - *Penultimate day*: Reason Grasps Reality (`ReGRe`) day.
   - *Final day*: Existence is Identity and Consciousness is Identification (`EIConId`) day.
