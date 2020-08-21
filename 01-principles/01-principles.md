@@ -66,15 +66,15 @@ No other right is recognized before a Utopian court. Laws which force other pers
 
 The defense, "forceful resistance of the unenforceable", even to lethality, shall form a perfect defense in every Utopian court where the injury is inflicted against one attempting to enforce a thing deemed "unenforceable" by this constitution.
 
-If in the act of defending an outlaw, a person harms another, the defendant shall have no defense.
+> If in the act of defending an outlaw, a person harms another, the defendant shall have no defense.
 
 ## Republic, not Democracy
 
 The rule of law (i.e., "Republicanism") is that form of government which equally subjects **all** conagents to a publicly published body of law (constitution + legislation) which all conagents can read and make preparations to govern themselves by. It differs from other forms of government in that every other form of government is rule by whim - whether rule by whim of a single individual or rule by whim of a group or collection of groups.
 - Democracy
-: Rule of some defined majority. In a democracy the changing whims of some defined majority **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling majority occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some subset of the judiciary.
+: Rule of some defined majority. In a democracy the changing whims of some defined majority **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling majority occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of that defined majority.
 - Kakistocracy
-: Rule of judges. In a Kakistocracy, the changing whims of some subset of the Judiciary **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling group in the Judiciary occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some defined majority.
+: Rule of judges. In a Kakistocracy, the changing whims of some subset of the Judiciary **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling group in the Judiciary occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of that subset of the judiciary.
 - Monarchy
 : Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
 
@@ -82,18 +82,18 @@ The rule of law (i.e., "Republicanism") is that form of government which equally
 
 ## A word on "Equality"
 
-`WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). WS explicitly does **not** value equality of opportunity or equality of outcome as policy goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the **private sector** via market mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through policy. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
+`WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). WS explicitly does **not** value equality of opportunity or equality of outcome as legislative goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the **private sector** via market mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through law. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
 
 - Any law which pursues equality of outcome shall be unenforceable.
 - Any law which pursues equality of opportunity outside of equality of access to the courts for justice, shall be unenforceable.
 
 ## Role of Government
 
-Government is a corporation which provides internal policy, external defense and an externality auction market service, Courts/Franchisee Courts, an Ongoing Judicial Examination System, a standing army/navy/airforce, intelligence, diplomacy, Contagion and Biohazard Management (CBio), a service exchange auction and incentives for certain categories of insurance and products (using tax reductions only).
+Government is a corporation which provides internal policy, external defense and an externality auction market service, Courts/Franchisee Courts, a standing army/navy/airforce, intelligence, diplomacy, Contagion and Biohazard Management (CBio), a service exchange auction and incentives for certain categories of insurance and products (using tax reductions only).
  
-Branches of govt: Diplomatic, Defense, Judicial, Informative and Legislative. There is no executive. Only the defensive and CBio branches shall have the power to deficit spend. Deficit spending by any other branch shall be directly funded by its employees.
+Branches of govt: Diplomatic, Defense, Judicial, Informative and Legislative. There is no executive. Only the military and CBio branches shall have the power to deficit spend. Deficit spending by any other branch shall be directly funded by its employees.
 
-No regulatory committee (not even "independent" ones) shall be established by govt or given power to create or change law or bye-law.
+No regulatory committee (not even supposedly "independent" ones) shall be established by govt or given power to create or change law or bye-law.
 
 ## Courts
 
