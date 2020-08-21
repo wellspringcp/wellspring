@@ -38,26 +38,27 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
 
 ### Definition of Rights
 
-Rights are capabilities and nothing more. A "right" is an undertaking which a an indepagent is capable of performing on its own, if left unimpeded. That is, a right is something which an indepagent can perform "by right" of its own nature/design. A right is **not** a claim on the capabilities, mind or labour of **another** indepagent.
+Rights are capabilities and nothing more. A "right" is an undertaking which an indepagent is capable of performing on its own, if left unimpeded. That is, a right is something which an indepagent can perform "by right" of its own nature/design. A right is **not** a claim on the capabilities, mind/consciouness or labour of **another** indepagent.
 
 Rights and private property law go hand in hand; rights are capabilities, and private property law ensures that no indepagent's capabilities are used to injur another indepagent's ability to exercise their rights.
 
 ### Definition of Private Property
 
-Private Property law is that set of restrictions which stem from the recognition that each indepagent owns its own self (both consciousness and "body") and the produce of its labour (both cognitive and physical). In order to protect the "persons" of indepagents and their labour, private property law secures each indepagent against interference in the forms of **force**, **duress** and **fraud**.
+Private Property law is that set of restrictions which stem from the recognition of the sovereignty of every indepagent over its own self (both consciousness and "body") and the produce of its labour (both cognitive and physical). In order to protect the sovereignty of indepagents, private property law secures each indepagent against interference in the forms of **force**, **duress** and **fraud**.
 
 The sovereignty of the individual may only be breached in the pursuit of:
-- The control of contagions and biohazards, as outlined in SovCBio law.
-- The preparedness of the nation for war, as outlined in SovWI law.
+- The control of contagions and biohazards, as outlined in `SovCBio` law.
+- The preparedness of the nation for war, as outlined in `SovWI` law.
 
 ### Rights protected by this constitution
 
-WS recognizes only 3 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are sub-types of indepagents.
+WS recognizes only 4 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are sub-types of indepagents.
 
 The right to:
 1. Think/associate/dissociate freely. There are no exceptions.
-2. Speak/communicate freely. The exceptions to this right are where speech is employed to command or request violation of private property by proxy (i.e. "incitement") and where speech violates SovWI Secrecy law. This shall not be construed to preclude civil liability incurred from speech, where speech causes damage to reputation and prospects (i.e, "libel/slander" etc).
-3. Act/labour/move freely. The exception is where action violates others' private property as defined by this Constitution. This right may be abridged in respect of the exceptions outlined in this constitution's definition of private property, but only in as much as is necessary to achieve such ends and no further.
+2. Speak/communicate freely. The exceptions to this right are where speech is employed to command or request violation of private property by proxy (i.e. "incitement") and where speech violates SovWI Secrecy law. *This shall not be construed to preclude civil liability incurred from speech, where factually incorrect speech causes damage to reputation and prospects (i.e, "libel/slander" etc).*
+3. Contract freely. The exceptions to this right are those outlined in the Contract Law. 
+4. Act/labour/move freely. The exception is where action violates others' private property as defined by this Constitution. This right may be abridged in respect of the exceptions outlined in this constitution's definition of private property, but only in as much as is necessary to achieve such ends and no further.
 
 No other right is recognized before a Utopian court. Laws which force other persons' labour shall be unenforceable. E.g, laws to force a medical/insurance worker to labour for others (I.e, no right to healthcare). This shall not be construed to invalidate equitable legal remedies.
 
