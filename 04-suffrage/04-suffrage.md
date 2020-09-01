@@ -12,7 +12,7 @@ A qualifying natures is any of a subset of recognized natureses which is defined
 
 > Apologia: For practical purposes, it is really only expected that land and waterways will ever be on this list. But if for example, it becomes trendy to build and dwell subterraneously, or to live in hovering cities in the sky, it might become necessary to update the list.
 
-Eligibility to vote is derived from paying taxes on a qualifying natures or paying rent to the landlord of a qualifying natures.
+Eligibility to vote is derived from paying taxes on a qualifying natures or paying rent to the landlord of a qualifying natures. The government or landlord shall provide receipts for taxes and rents on qualifying natureses, respectively. The government may also choose to keep its own records of qualifying natures rental payments aside from those maintained by landlords.
 
 ### Agency
 
