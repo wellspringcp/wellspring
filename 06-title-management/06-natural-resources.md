@@ -6,7 +6,7 @@ All natural resources originally belong to the government. The government shall 
 
 Since government must track the locations of allocated natureses, it shall have the power to invent and control the polity's addressing scheme for natural resources for consistency. Notwithstanding, private addressing and naming schemes may be layered on top of government's scheme by private legal persons.
 
-All such units of natural resource owned by the government shall be listed on the exchange and sold there. The branches of government shall bid for title to natural resources the same way as all other legal persons and shall have no elevated privileges in the bidding. It is intentional that this may allow acquisition to be gratis.
+All such units of natural resource owned by the government shall be listed on the exchange and sold there. The branches of government shall bid for title to natural resources the same way as all other legal persons and shall have no elevated privileges in the bidding with the sole exception of the Military branch, when acting under the auspices of SovWI law. It is intentional that this may allow acquisition to be gratis.
 
 The sale of natural resources confers ownership of such natural resources in a multi-dimensional manner. For example, in the case of land, the sale should be in units of 3 dimensional cubes of land stretching from the surface to some distance below it, and not from the surface to the center of the earth. This allows another buyer to purchase another stretch of blocks beneath that stretch of blocks owned by the legal person closest to the surface and so on.
 
