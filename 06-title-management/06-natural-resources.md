@@ -14,4 +14,4 @@ The sale of land shall also, if necessary be accompanied by a sale of suffucient
 
 A valuable natural treasure contained within a purchased natural resource which was previously undiscovered shall be counted as being part of the containing natural resource and shall incur no additional price on the owner after discovery. Notwithstanding, government shall have the right to modify tax rates at its discretion, subject to applicable laws.
 
-Utopia does not honour title held by or on behalf of foreign govts and/or their agents/agencies except as needed for diplomacy. When expropriating such titles, they shall be listed on the externality auction.
+`WS` does not honour title held by or on behalf of foreign govts and/or their agents/agencies except as needed for diplomacy. When expropriating such titles, they shall be listed on the externality auction.
