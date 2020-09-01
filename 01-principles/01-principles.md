@@ -23,7 +23,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
   - *Day 2*: Common Law and Magna Carta (`Magnificata`) day.
 - 2nd quarter month:
   - *Day 1*: Gridlock is Intentional (`GrInt`) day.
-  - *Day 15*: Outlawing Incremental Tyranny (`Sic semper tyrannis`/`Sictember`) day.
+  - *Day 15*: Outlawing Incremental Tyranny (`Sic semper tyrannis`/`Sicsember`) day.
 - Middle month:
   - *Day 1*: Private Property Law (`PrivaLa`) day.
   - *Day 15*: Rights are Unimpeded Capabilities, Not Obligations On Others (`RaNO`) day.
