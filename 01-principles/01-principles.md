@@ -28,7 +28,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
   - *Day 1*: Private Property Law (`PrivaLa`) day.
   - *Day 15*: Rights are Unimpeded Capabilities, Not Obligations On Others (`RaNO`) day.
 - 3rd-quarter month:
-  - *Day 1*: Jury Nullification day.
+  - *Day 1*: Tyranny is unenforceable day.
   - *Day 15*: Existence Exists (`Exis`) day.
 - Final month:
   - *Penultimate day*: Reason Grasps Reality (`ReGRe`) day.
@@ -57,7 +57,7 @@ WS recognizes only 4 fundamental rights; they only apply to indepagents. No othe
 The right to:
 1. Think/associate/dissociate freely. There are no exceptions.
 2. Speak/communicate freely. The exceptions to this right are where speech is employed to command or request violation of private property by proxy (i.e. "incitement") and where speech violates SovWI Secrecy law. *This shall not be construed to preclude civil liability incurred from speech, where factually incorrect speech causes damage to reputation and prospects (i.e, "libel/slander" etc).*
-3. Contract freely. The exceptions to this right are those outlined in the Contract Law. 
+3. Contract/trade freely. The exceptions to this right are those outlined in the Contract Law. 
 4. Act/labour/move freely. The exception is where action violates others' private property as defined by this Constitution. This right may be abridged in respect of the exceptions outlined in this constitution's definition of private property, but only in as much as is necessary to achieve such ends and no further.
 
 No other right is recognized before a Utopian court. Laws which force other persons' labour shall be unenforceable. E.g, laws to force a medical/insurance worker to labour for others (I.e, no right to healthcare). This shall not be construed to invalidate equitable legal remedies.
@@ -71,21 +71,20 @@ The defense, "forceful resistance of the unenforceable", even to lethality, shal
 ## Republic, not Democracy
 
 The rule of law (i.e., "Republicanism") is that form of government which equally subjects **all** conagents to a publicly published body of law (constitution + legislation) which all conagents can read and make preparations to govern themselves by. It differs from other forms of government in that every other form of government is rule by whim - whether rule by whim of a single individual or rule by whim of a group or collection of groups.
-- Democracy
-: Rule of some defined majority. In a democracy the changing whims of some defined majority **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling majority occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of that defined majority.
-- Kakistocracy
-: Rule of judges. In a Kakistocracy, the changing whims of some subset of the Judiciary **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling group in the Judiciary occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of that subset of the judiciary.
-- Monarchy
-: Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
 
-...And so on. `WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). We are a republic. We are ruled by a publicly published document. We are not ruled by arbitrary whim. All conagents are equally subject to the same document, which can be read, understood and **predicted** by all, and which applies equally to all and most importantly, which resists **impulsive** changes.
+`WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). `WS` establishes a republic are ruled by a publicly published document and not by arbitrary whim. All conagents are equally subject to the same document, which can be read, understood and **predicted** by all, and which applies equally to all and most importantly, which resists **impulsive** changes.
 
 ## A word on "Equality"
 
-`WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). WS explicitly does **not** value equality of opportunity or equality of outcome as legislative goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the **private sector** via market mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through law. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
+`WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). WS explicitly does **not** value equality of opportunity or equality of outcome as legislative goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the **private sector** via private mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through law. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
 
-- Any law which pursues equality of outcome shall be unenforceable.
-- Any law which pursues equality of opportunity outside of equality of access to the courts for justice, shall be unenforceable.
+The government may however, pursue the equality of opportunity in **only** one areas: access to the court system. Government may provide mechanisms to ensure that private property enforcement is as easily accessible to the poor as to the rich. When an indepagent suffers a private property violation, the financial costs should not be a limiting factor in whether or not they pursue redress in court.
+
+Any politician introducing a bill which would seek to pursue either of the following:
+- Equality of outcome
+- Equality of opportunity (outside of equality of access to the courts).
+
+...Shall become an outlaw after 1 hour upon being judged so to have done.
 
 ## Role of Government
 
