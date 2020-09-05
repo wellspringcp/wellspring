@@ -39,6 +39,8 @@ We recognize and respect the sovereignty of the individual with exceptions appli
 
 Contagions do not respect private property and do not limit their deleterious effects only to those actors who volitionally put themselves at risk. In order to enforce non-interference, controls on the behaviours of infected/contagious entities may be required. Biohazard may materials into the same category, though not as frequently as contagions because contagions actively seek to propagate themselves, independent of whether or not their host intends to assist them in propagation.
 
+In the same way, the preparation for war readiness may require the government to purchase assets, geographical locations etc whose control is essential.
+
 ### Rights protected by `WS`
 
 Left unimpeded, most indepagents are capable of exercising each of these rights. It is therefore their right, **by right**, to exercise them subject only to the principle of non-interference (private property law).
