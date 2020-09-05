@@ -104,7 +104,9 @@ A commonly quoted bromide is that supposedly the Judeo-Christian god "created al
 
 ### An analysis of the two main traditional arguments for rights:
 
-The aim of this section is to examine the efficacy and reliability of both of the traditional rights foundations and point out why they fail to meet the need for an objective, shared view of rights among all the agents within a polity. Please note that this section is a political discussion. `WS` makes no claims about whether or not a god does or doesn't exist. `WS`'s aim is to find a model from which all agents can argue for their rights irrespective of the world view of the court of appeal which they must convince.
+The aim of this section is to examine the efficacy and reliability of both of the traditional rights foundations and point out why they fail to meet the need for an objective, shared view of rights among all the agents within a polity. Please note that this section is a political discussion. `WS` makes no claims about whether or not a god does or doesn't exist. `WS`'s aim is to find a model from which all agents can argue for their rights, here and now in the material world, irrespective of the world view of the court of appeal which they must convince.
+
+We are in fact specifically seeking a foundation for rights which will respect all religions/world views and enable them to live in safety and security and be protected from persecution, by providing a solid framework from which all people can argue for their rights, and therefore validating the government's defense of those rights from an objective, common framework which can mediate disputes among disparate individuals irrespective of their world view.
 
 This section examines a scenario where we pit believers in both of the traditional foundations against a would-be violator of their rights, and they have no defense against him unless they can convince bystanders of their rights.
 
