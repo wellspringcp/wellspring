@@ -112,9 +112,11 @@ This section examines a scenario where we pit believers in both of the tradition
 
 Let's assume that the would-be victim is a Judeo-Christian "God-given rights" believer.
 
-To convince the audience, he would say, "God created all men in his image, and in each person is the potential to become a son of god - and so god values all human lives because they are all potentially his children. When you violate a human life, you potentially deprive god of a future child, and you also disrespect the image of god inherent in that person. Therefore, you, audience, should fear god and come to my aid."
+To convince the audience, he would say, "God created all men in his image, and in each person is the potential to become a son of god - and so god values all human lives because they are all potentially his children. When you violate a human life, you potentially deprive god of a future child, and you also disrespect the image of god inherent in that person; and god, the injured party will eventually take up his quarrel on judgmment day. Therefore, you, audience, should fear god and come to my aid."
 
 This would-be victim's rights rest entirely on whether or not the Judeo-Christian god exists. If he doesn't exist, or if a god exists but is not the Judeo-Christian god, his argument is invalid and his claim to rights has no strength. His would-be violator need only say, "Your god does not exist," and unless the would-be victim could prove that his god exists, he loses the argument.
+
+Again, note that `WS` is not opining on whether or not god does exist and would really take up the quarrel on judgment day. `WS` is seeking a framework which will produce desirable results here on earth, in this lifetime.
 
 The "God-given rights" foundation cannot serve as a common framework for asserting rights among large numbers of people who have wildly divergent world views.
 
