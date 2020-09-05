@@ -8,13 +8,13 @@ Wellspring, hereafter "`WS`", exists to improve upon the mistakes of the forerun
 
 ## Interpretation
 
-`WS` shall always be interpreted in an originalist fashion consistent with the doctrine of `Antonin Scalia` (1936-2016). In order to assist with its interpretation, each file also includes an Apologia to explain the intent behind the text.
+`WS` shall always be interpreted in an originalist fashion consistent with the doctrine of `Antonin Scalia` (1936-2016). In order to assist with its interpretation, each file also includes an Apologia to explain what the text was understood to mean to its framers and the surrounding zeitgeist at the time of its adoption.
 
 ## Symbols, celebrations and rituals.
 
-Motto: The individual outranks the collective.
+Motto: "*The individual outranks the collective.*"
 
-Pledge of Allegiance: "I swear by my life and my love of it that I will never attempt to force, threaten or defraud another indeperson into living for me."
+Pledge of Allegiance: "*I swear by my life and my love of it that I will never attempt to force, threaten or defraud another indeperson into living for me.*"
 
 Republic Holidays: Each of the cornerstone principles of the republic shall have its own holiday to keep it in remembrance. Working on a republic holiday incurs no penalty.
 
