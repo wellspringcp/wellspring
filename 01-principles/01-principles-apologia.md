@@ -29,17 +29,17 @@ These symbolic paraphernalia are not intended to imply any collectivist/tribal/n
 
 The last few holidays (Exis, ReGRe and EIConI) assert positive philosophical arguments which, being included in the body of the text, leave paltry room for certain destructive philosophies to gain purchase in any discussion of the "meaning" of the text.
 
-## Rights
+## Rights protected by this `WS`
 
 Here are examples of rights:
 - Indepagents have a right to freedom of movement.  
-: Left unimpeded, most indepagents are capable of locomotion. It is therefore their right, **by right**, to move freely subject only to private property law.
+: Left unimpeded, most indepagents are capable of locomotion. It is therefore their right, **by right**, to move freely subject only to the principle of non-interference (private property law).
 - Indepagents have a right to freedom of speech.
-: Left unimpeded, most indepagents are capable of speech/communication. It is therefore their right, **by right**, to speak freely subject only to private property law.
+: Left unimpeded, most indepagents are capable of speech/communication. It is therefore their right, **by right**, to speak freely subject only to the principle of non-interference (private property law).
 - Indepagents have a right to freedom of labour.
-: Left unimpeded, most indepagents are capable of actuating their intentions through labour. It is therefore their right, **by right**, to labour freely subject only to private property law.
+: Left unimpeded, most indepagents are capable of actuating their intentions through labour. It is therefore their right, **by right**, to labour freely subject only to the principle of non-interference (private property law).
 - Indepagents have a right to freedom of contract/trade.
-: Left unimpeded, most indepagents are capable of co-operating and trading upon mutually agreeable terms. It is therefore their right, **by right**, to contract/trade subject only to private property law.
+: Left unimpeded, most indepagents are capable of co-operating and trading upon mutually agreeable terms. It is therefore their right, **by right**, to contract/trade subject only to the principle of non-interference (private property law).
 - And so on.
 
 Here are examples of things which are **not** the exercise of rights, but rather impositions of obligations on **other** indepagents -- i.e., they impede the free exercise of the rights of some **other** indepagent:
