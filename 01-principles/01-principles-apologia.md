@@ -26,6 +26,7 @@ These symbolic paraphernalia are not intended to imply any collectivist/tribal/n
 - *GrInt*: It is important to explicitly put down arguments that the legislature is supposed to be passing new laws for their own sake. Legislative stagnation is a value; not a dysvalue.
 - *Sictember*: Tyranny is not to be born with longsuffering.
 - *RaNO*: Leave no room for arguments that conflate rights with benefits.
+- *Tyranny is Unenforceable*: Ensure that the polity is reminded that they need not submit to the enforcement of government overreach.
 
 The last few holidays (Exis, ReGRe and EIConI) assert positive philosophical arguments which, being included in the body of the text, leave paltry room for certain destructive philosophies to gain purchase in any discussion of the "meaning" of the text.
 
@@ -35,7 +36,7 @@ The last few holidays (Exis, ReGRe and EIConI) assert positive philosophical arg
 
 ### Definition of Private Property
 
-We recognize and respect the sovereignty of the individual with exceptions applied for contagions/biohazards and war readiness.
+`WS` recognizes and respects the sovereignty of the individual with exceptions applied for contagions/biohazards and war readiness.
 
 Contagions do not respect private property and do not limit their deleterious effects only to those actors who volitionally put themselves at risk. In order to enforce non-interference, controls on the behaviours of infected/contagious entities may be required. Biohazard may materials into the same category, though not as frequently as contagions because contagions actively seek to propagate themselves, independent of whether or not their host intends to assist them in propagation.
 
@@ -52,14 +53,28 @@ Here are examples of things which are **not** the exercise of rights, but rather
 : A claim to a "right to housing" amounts to a claim on the labour of a construction worker to perform labour for the benefit of the indepagent claiming the right, or a claim to sieze the existing housing property owned by another indepagent, *even if the construction worker or landlord does not voluntarily agree to be bound by the claim*.
 - And so on.
 
+### Those things declared "unenforceable" by `WS`
+
+This mechanism is intended to allow people to resist government overreach by making certain classes of edict "unenforceable". It amounts to making government overreach in those areas null and void since overreaching laws would theoretically never gain actuating force. Any conagent taking orders to enforce an unenforceable thing should understand that it does so at its own peril.
+
 ## Republic, not Democracy.
 
-We specifically wanted to make it clear that we are a Republic and not a Democracy in the body of the document because one of the biggest problems liberty defenders have had to contend with in the American constitution is that it is never explicitly stated that the US Constitution is **not** a Democracy. It has even become common for US politicians to call the USA a Democracy or to speak highly of Democracy. The US constitution specifically calls itself a Republic and mandates that a "Republican form of government" be guaranteed to all of the states. We go further and make rectify the shortcoming of the US constitution by making it clear that we are intentionally **not** a Democracy.
+Explicitly make it clear that `WS` is a Republic and not a Democracy in the body of the document because one of the biggest problems liberty defenders have had to contend with in the American constitution is that it is never explicitly stated that the US Constitution is **not** a Democracy. It has even become common for US politicians to call the USA a Democracy or to speak highly of Democracy. The US constitution specifically calls itself a Republic and mandates that a "Republican form of government" be guaranteed to all of the states. `WS` goes further rectifies this shortcoming of the US constitution by making it clear that it is intentionally **not** a Democracy.
 
+`WS` rejects rule by whim, in all of its forms. Here are some examples of rule by whim:
+
+- Democracy
+: Rule of some defined majority. In a democracy the changing whims of some defined majority **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling majority occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of that defined majority.
+- Kakistocracy
+: Rule of judges. In a Kakistocracy, the changing whims of some subset of the Judiciary **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling group in the Judiciary occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of that subset of the judiciary.
+- Monarchy
+: Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
+
+`WS` is founded upon rule of law.
 
 ### The need for change
 
-In a republic, changes to law may sometimes come rapidly where the values of an overwhelming majority demand those changes; otherwise they come after level headed consideration. We can already hear the chorus of historical examples (mainly from the USA's constitutional history) purporting to show that the intentionally inflexible nature of Republics denies individual sovereignty to oppressed groups. Allow us to address some of those arguments.
+In a republic, changes to law may sometimes come rapidly where the values of an overwhelming majority demand those changes; otherwise they come after level headed consideration. In response to the chorus of historical examples (mainly from the USA's constitutional history) purporting to show that the intentionally inflexible nature of Republics denies individual sovereignty to oppressed groups. Allow us to address some of those arguments.
 - Slavery
 :
 - LGBT+ rights
