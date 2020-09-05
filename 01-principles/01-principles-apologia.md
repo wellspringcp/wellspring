@@ -3,11 +3,11 @@
 
 ## Disclaimers and disavowals:
 
-We have been very careful to ensure that no charges of original sin can be brought against WS by extracting only the good ideas from various intellectuals while painstakingly dissociating the project from the reputations and shortcomings of each of them. There are scant few ideological icons who are untainted by identitarianism or some other form of exclusionary bias that serves to turn potential individualists away from individualism.
+We have been very careful to ensure that no charges of original sin can be brought against `WS` by extracting only the good ideas from various intellectuals while painstakingly dissociating the project from the reputations and shortcomings of each of them. There are scant few ideological icons who are untainted by identitarianism or some other form of exclusionary bias that serves to turn potential individualists away from individualism.
 
-We would like to emphatically assert that the principles espoused in WS are to be taken as stated. If a particular principle is sourced from an intellectual leader who also espouses other ideas that run counter to those expressed in this constitution, it is to be understood that WS disavows those other ideas categorically and unreservedly. We would like to unambiguously state that the goal of WS is to create polities that express and live out the idea of individualism -- that every person is judged (**at law**) not by the colour of their skin (or their sex, or any other immutable/irrelevant characteristic) but by the content of their character and their actual actions in practice.
+We would like to emphatically assert that the principles espoused in `WS` are to be taken as stated. If a particular principle is sourced from an intellectual leader who also espouses other ideas that run counter to those expressed in this constitution, it is to be understood that `WS` disavows those other ideas categorically and unreservedly. We would like to unambiguously state that the goal of WS is to create polities that express and live out the idea of individualism -- that every person is judged (**at law**) not by the colour of their skin (or their sex, or any other immutable/irrelevant characteristic) but by the content of their character and their actual actions in practice.
 
-To be even more cautious, we have decided to explicitly address each of the reputations of the people we have referenced in WS, here, and explicitly disavow any ideas they professed which antagonize people on the basis of immutable/irrelevant attributes:
+To be even more cautious, we have decided to explicitly address each of the reputations of the people we have referenced in `WS`, here, and explicitly disavow any ideas they professed which antagonize people/groups on the basis of immutable/irrelevant attributes:
 
 - Aristotle:
   - We disavow his views on slavery, etc.
@@ -21,7 +21,13 @@ To be even more cautious, we have decided to explicitly address each of the repu
 
 These symbolic paraphernalia are not intended to imply any collectivist/tribal/nationalist cohesion among individuals but rather to serve as exhortations to the exact opposite. Whereas other polities use mottos, watchwords, anthems, flags, coats of arms, national animals and so on to engender a sense of shared stake in the population, we use these elements to assert the individualist nature of our values and to encourage people to reject collectivist cultural maypoles.
 
+- *ReNoDem*: The American founding fathers omitted an explicit statement that the US Constitution was designed specifically to resist Democracy, and this negligence left the door open for the US Republic to be broken down into a Democracy.
 - *Magnificata*: We chose this name because we didn't want to overload the word "magna" in search engine results - ideally, people should easily be able to find information about the magna carta without dealing with overloaded results.
+- *GrInt*: It is important to explicitly put down arguments that the legislature is supposed to be passing new laws for their own sake. Legislative stagnation is a value; not a dysvalue.
+- *Sictember*: Tyranny is not to be born with longsuffering.
+- *RaNO*: Leave no room for arguments that conflate rights with benefits.
+
+The last few holidays (Exis, ReGRe and EIConI) assert positive philosophical arguments which, being included in the body of the text, leave paltry room for certain destructive philosophies to gain purchase in any discussion of the "meaning" of the text.
 
 ## Rights
 
