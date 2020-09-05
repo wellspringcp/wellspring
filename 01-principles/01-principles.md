@@ -19,11 +19,11 @@ Pledge of Allegiance: "*I swear by my life and my love of it that I will never a
 Republic Holidays: Each of the cornerstone principles of the republic shall have its own holiday to keep it in remembrance. Working on a republic holiday incurs no penalty.
 
 - First month:
-  - *Day 1*: Not A Democracy, but a Republic if you can keep it (`NoDemBaR`) day.
+  - *Day 1*: Not A Democracy, but a Republic if you can keep it (`ReNoDem`) day.
   - *Day 2*: Common Law and Magna Carta (`Magnificata`) day.
 - 2nd quarter month:
   - *Day 1*: Gridlock is Intentional (`GrInt`) day.
-  - *Day 15*: Outlawing Incremental Tyranny (`Sic semper tyrannis`/`Sicsember`) day.
+  - *Day 15*: Sic Semper Tyrannis (`Sictember`) day.
 - Middle month:
   - *Day 1*: Private Property Law (`PrivaLa`) day.
   - *Day 15*: Rights are Unimpeded Capabilities, Not Obligations On Others (`RaNO`) day.
@@ -32,7 +32,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
   - *Day 15*: Existence Exists (`Exis`) day.
 - Final month:
   - *Penultimate day*: Reason Grasps Reality (`ReGRe`) day.
-  - *Final day*: Existence is Identity and Consciousness is Identification (`EIConId`) day.
+  - *Final day*: Existence is Identity and Consciousness is Identification (`EIConI`) day.
 
 ## Rights
 
