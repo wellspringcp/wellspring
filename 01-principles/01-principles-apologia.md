@@ -126,7 +126,7 @@ The "God-given rights" foundation cannot serve as a common framework for asserti
 
 Let's assume the would-be victim is a wheelchair-bound cripple from birth with a mental disorder that makes his cognitive abilities less sharp than the average individual.
 
-To convince the audience, he might say, "You can't violate my rights because we all have the same rights, owing to the fact that we are all equal". His assailant need factly point out that as a matter of fact he and the would-be victim are not in fact, equal, and the would-be victim loses the argument.
+To convince the audience, he might say, "You can't violate my rights because we all have the same rights, owing to the fact that we are all equal". His assailant need only point out that as a matter of fact he and the would-be victim are not equal, and the would-be victim loses the argument.
 
 The "Equality" foundation cannot serve as a common framework for asserting rights among large numbers of people who have wildly divergent world views.
 
