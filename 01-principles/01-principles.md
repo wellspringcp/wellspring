@@ -50,7 +50,7 @@ The sovereignty of the individual may only be breached in the pursuit of:
 - The control of contagions and biohazards, as outlined in `SovCBio` law.
 - The preparedness of the nation for war, as outlined in `SovWI` law.
 
-### Rights protected by this constitution
+### Rights protected by this `WS`
 
 WS recognizes only 4 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are sub-types of indepagents.
 
