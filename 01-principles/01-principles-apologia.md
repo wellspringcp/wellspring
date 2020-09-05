@@ -29,9 +29,11 @@ These symbolic paraphernalia are not intended to imply any collectivist/tribal/n
 
 The last few holidays (Exis, ReGRe and EIConI) assert positive philosophical arguments which, being included in the body of the text, leave paltry room for certain destructive philosophies to gain purchase in any discussion of the "meaning" of the text.
 
-## Rights protected by this `WS`
+### Rights protected by `WS`
 
 Here are examples of rights:
+1. Indepagents have a right to think/associate/dissociate freely.
+: 
 - Indepagents have a right to freedom of movement.  
 : Left unimpeded, most indepagents are capable of locomotion. It is therefore their right, **by right**, to move freely subject only to the principle of non-interference (private property law).
 - Indepagents have a right to freedom of speech.
