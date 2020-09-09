@@ -2,17 +2,11 @@
 
 ## Basics
 
-`WS` only allows the levying of taxes directly on owners of natureses because in taxing natures owners, one taxes all indepagents who live off that natures.
-
-> Apologia: We wish to reduce the amount of contact that indepagents have with tax agents and state enforcement agents.
+`WS` only allows the levying of taxes directly on owners of natureses because in taxing natures owners, one taxes all indepagents who live off that natures. No other form of taxation is allowed. In addition, as an explicit addendum, no forms of excise or internal checkpoint tax on freight or trade shall be allowed.
 
 No landlord shall be taxed more heavily than at 10% of the income generated per unit of his natureses. All taxation exceeding this shall be **unenforceable**.
 
-> Apologia: Obviously this number can be changed by constitutional amendment. But only by that means.
-
 All taxes on wealth instead of income shall be **unenforceable**.
-
-> Apologia: This obviously includes inheritance taxes.
 
 ## Incentives via tax discounts
 
