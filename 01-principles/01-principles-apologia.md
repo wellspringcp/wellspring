@@ -134,3 +134,6 @@ There is no harm in acknowledging that we are not equal. The fabric of our defen
 
 > Find some way to succinctly express life qua life as the standard of value.
 
+# The right to leave
+
+`WS` does not wish to hold anyone captive to its borders, who wishes to leave. This program makes it practical for indepagents who are not happy living in a free market to seek greener pastures elsewhere. It is available only to citizens of `WS`. Indepagents who immigrated willingly to `WS` will not have access to this program.
