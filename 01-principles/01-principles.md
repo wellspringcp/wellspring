@@ -92,7 +92,7 @@ Any politician introducing a bill which would seek to pursue either of the follo
 
 Government is a corporation which provides internal policy, external defense and an externality auction market service, Courts/Franchisee Courts, a standing army/navy/airforce, intelligence, diplomacy, Contagion and Biohazard Management (CBio), a service exchange auction and incentives for certain categories of insurance and products (using tax reductions only).
  
-Branches of govt: Diplomatic, Defense, Judicial, Informative and Legislative. There is no executive. Only the military and CBio branches shall have the power to deficit spend. Deficit spending by any other branch shall be directly funded by its employees.
+Branches of govt: Diplomatic, Defense, Judicial, Informative and Legislative. There is no executive. Only the military and CBio branches as well as the "Right to leave" program, shall have the power to deficit spend. Deficit spending by any other branch shall be directly funded by its employees.
 
 No regulatory committee (not even supposedly "independent" ones) shall be established by govt or given power to create or change law or bye-law.
 
