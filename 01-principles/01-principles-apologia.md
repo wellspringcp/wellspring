@@ -92,27 +92,23 @@ In a republic, changes to law may sometimes come rapidly where the values of an 
 
 ### Why we must graduate past "Equality" as our foundation for rights:
 
-Equality is a false doctrine which destroys liberty.
-
-It is important that we abandon "equality" as a foundation for rights. A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool. When the entire mainstream adopts a lie, simple truths appear to be revolutionary; and in such an environment, bigots are enabled to style themselves a voice of reason and truth against the mainstream current of lies.
+Equality is a false doctrine which destroys liberty. A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for bigoted groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool and style themselves a voice of reason and truth against the mainstream current of lies.
 
 ### Special appeal to Judeo-Christian believers.
 
-It is important to address a specific audience, namely the followers of Judeo-Christian morality and appraise them of an error they have accepted as being part of their code of values when it is absolutely **not** - the aim of the next paragraph is to offer an olive branch to the (not insignificant) following of Judeo-Christian morality and hopefully make it easier for them to give up the "equality" doctrine.
+It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their code of values when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate from the "equality" doctrine.
 
-A commonly quoted bromide is that supposedly the Judeo-Christian god "created all men equal" -- curiously, this maxim does not appear anywhere in the Judeo-Christian bible even once. The Judeo-Christian moral framework does **not** say that the Judeo-Christian god created all men equal, but rather that he created all men *in his image*. Those are two very different statements with very different ramifications. The Judeo-Christian ethical framework is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** inadequacies clearly visible in him; not because he is your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual. "Equality" is actually a humanist ethical foundation.
+A common bromide is that the Judeo-Christian god "created all men equal" -- curiously, this maxim appears nowhere in the Judeo-Christian bible. The Judeo-Christian moral framework does **not** say that their god created all men equal; rather that he created all men *in his image*. Those are two different statements with different ramifications. Judeo-Christian ethics is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** inadequacies clearly visible in him; not because he is your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual. "Equality" is actually a humanist ethical foundation.
 
 ### An analysis of the two main traditional arguments for rights:
 
-The aim of this section is to examine the efficacy and reliability of both of the traditional rights foundations and point out why they fail to meet the need for an objective, shared view of rights among all the agents within a polity. Please note that this section is a political discussion. `WS` makes no claims about whether or not a god does or doesn't exist. `WS`'s aim is to find a model from which all agents can argue for their rights, here and now in the material world, irrespective of the world view of the court of appeal which they must convince.
+In this section we will show how neither "God-given rights" nor "equality" suffice as common, objective legal foundations for individual rights. A legal rights philosphy must be evident to all within a polity before all can be expected to subordinate their minds to it. Note that `WS` does not opine on whether or not a god exists; it merely points out that in a polity where multiple world views exist (including atheists), "God-given rights" cannot act as a shared legal foundation for rights.
 
-We are in fact specifically seeking a foundation for rights which will respect all religions/world views and enable them to live in safety and security and be protected from persecution, by providing a solid framework from which all people can argue for their rights, and therefore validating the government's defense of those rights from an objective, common framework which can mediate disputes among disparate individuals irrespective of their world view.
-
-This section examines a scenario where we pit believers in both of the traditional foundations against a would-be violator of their rights, and they have no defense against him unless they can convince bystanders of their rights.
+This section pits believers in both of the traditional rights foundations against a would-be violator of their rights, and they have no defense against him unless they can convince some neutral bystanders (who are willing to be persuaded) to defend their claim to rights.
 
 #### The "God-given rights" tradition:
 
-Let's assume that the would-be victim is a Judeo-Christian "God-given rights" believer.
+Assume that the would-be victim is a Judeo-Christian "God-given rights" believer.
 
 To convince the audience, he would say, "God created all men in his image, and in each person is the potential to become a son of god - and so god values all human lives because they are all potentially his children. When you violate a human life, you potentially deprive god of a future child, and you also disrespect the image of god inherent in that person; and god, the injured party will eventually take up his quarrel on judgmment day. Therefore, you, audience, should fear god and come to my aid."
 
@@ -134,6 +130,5 @@ The "Equality" foundation cannot serve as a common framework for asserting right
 
 There is no harm in acknowledging that we are not equal. The fabric of our defense of the rights of the individual will not come undone because there is an even **better** foundation for rights waiting for us.
 
-
-This constitution however, not being founded on torah, but on private property morality, states that every man is sovereign and his private property rights absolute without exception. Upon this foundation no two humans are equal, but every claim of individual sovereignty over private property is equally sacrosanct, because the dignity, liberty and potential of every person is worth protecting.
+> Find some way to succinctly express life qua life as the standard of value.
 
