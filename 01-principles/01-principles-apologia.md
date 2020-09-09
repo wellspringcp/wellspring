@@ -94,6 +94,8 @@ In a republic, changes to law may sometimes come rapidly where the values of an 
 
 Equality is a false doctrine which destroys liberty. A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for bigoted groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool and style themselves a voice of reason and truth against a mainstream current of lies.
 
+In graduating past "equality", we will not destroy individual sovereignty, but instead cement it immovable, impregnable and sacrosanct.
+
 ### Special appeal to Judeo-Christian believers.
 
 It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their code of values when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate from the "equality" doctrine.
