@@ -113,3 +113,4 @@ Citizens have a right to claim access to the "Right to leave" program. Indepagen
   - There is no requirement that the applicant spend the money on accomodations; merely that they leave the jurisdiction.
 - It is up to the applicant to procure any visas/authorization for residency, transit, etc required to reach and domicile themselves in their end destination.
 
+The government shall not impose obstacles that make it difficult to claim this program's benefits. Indepagants shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher priorities against it, such as SovWI and SovCBio emergencies.
