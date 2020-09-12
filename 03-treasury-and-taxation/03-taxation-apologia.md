@@ -48,4 +48,4 @@ Naturally as well, the good negotiators among the business owners in these indus
 
 ## No deceptive illusions
 
-This section is pretty self-explanatory.
+Most governments create the illusion that all members of the polity pay their "fair share" of taxes and that taxation is a burden borne by everyone. In the income streams received for government employment are not tax contributions, but tax distributions. Such income streams should never be taxed again to give the illusion that their receipients are not paid by the tax payers. The same applies to the recipients of any form of government welfare program.
