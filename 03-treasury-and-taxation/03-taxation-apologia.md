@@ -6,11 +6,11 @@
 
 We've chosen to directly tax only natures owners because we would like to limit the amount of interaction between the government's tax collectors and the average citizen.
 
-The number, 10%, can obviously be changed by constitutional amendment, obviously - and only by that means.
+In case it's not obvious: the prohibition on taxes on wealth also applies to inheritances.
 
 ### Upper limit on taxation:
 
-In case it's not obvious: the prohibition on taxes on wealth also applies to inheritances.
+The number, 10%, can obviously be changed by constitutional amendment, obviously - and only by that means.
 
 ## Incentives via tax discounts:
 
