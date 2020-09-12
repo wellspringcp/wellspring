@@ -14,6 +14,8 @@ In case it's not obvious: the prohibition on taxes on wealth also applies to inh
 
 ## Incentives via tax discounts:
 
+In order to claim the tax discounts here discussed, companies should have as close as possible to a single, unambiguous purpose. It is perfectly fine for businesses to spin out sub-companies which specialize in one or more of these tax discounted areas. If a business' purpose is ambiguous, it will be taxed againt the highest of its tax classifications so as to preclude companies from merely claiming the tax discounts for auxiliary functions.
+
 These tax incentives are meant to give preferential status and allocation by natures lords, to certain species of enterprise in order to ensure their relative abundance and thereby overtune their supply so as to err on the side of caution. These preferred industries (they are not preferred in moral terms but in expediency terms as well as for polemics) will have a greater chance to sustain profitability due to their preferential tax status.
 
 Recall that of the 3 general categories of income (rent, wages and profit), rent is charged based on what the payer can bear to pay:
