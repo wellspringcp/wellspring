@@ -13,13 +13,7 @@ No landlord shall be taxed more heavily than at 10% of the income generated per 
 
 ## Incentives via tax discounts
 
-> Apologia: The reason for these is to skew the market toward ensuring there's an abundance of supply of and universality of access to certain commodities and services. We do this mainly as a tool for polemics against decriers; not because we believe that a free market would not supply these adequately.
-
-> Apologia: Explicitly point out that rentiers charge based on what the tenant can afford to pay, and quote Adam Smith. Use this to explain our reasoning behind the structure of these discounts.
-
 Ambiguously purposed natures units shall be deemed to be allocated toward the more heavily taxed purpose.
-
-> Apologia: In other words, businesses seeking to benefit from these tax discounts should specialize themselves into selling a single product or a small line of products closely related to the tax discount.
 
 There shall be a "heavy" tax discount on all rental income from natureses hosting **insurers** for services in private security and investigation, legal aid, healthcare, bank depositors, pension funds and legal aid to ensure that such insurers have preferential allocation by natures owners. Note that this is for the **insurers** for those products/services; not the suppliers of those products/services.
 
