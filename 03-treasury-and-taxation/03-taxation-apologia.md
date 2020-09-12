@@ -10,5 +10,5 @@ The number, 10%, can obviously be changed by constitutional amendment, obviously
 
 ### Upper limit on taxation:
 
-I hope it's obvious that the prohibition on taxes on wealth also applies to inheritances.
+In case it's not obvious: the prohibition on taxes on wealth also applies to inheritances.
 
