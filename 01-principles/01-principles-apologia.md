@@ -92,9 +92,9 @@ In a republic, changes to law may sometimes come rapidly where the values of an 
 
 ### Why we must graduate past "Equality" as our foundation for rights:
 
-Equality is a false doctrine which destroys liberty. A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for bigoted groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool and style themselves a voice of reason and truth against a mainstream current of lies.
+A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for bigoted groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool and style themselves a voice of reason and truth against a mainstream current of lies.
 
-In graduating past "equality", we will not destroy individual sovereignty, but instead cement it immovable, impregnable and sacrosanct.
+Equality is a false doctrine which destroys liberty. In graduating past "equality", we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct.
 
 ### Special appeal to Judeo-Christian believers.
 
