@@ -6,7 +6,7 @@
 
 We've chosen to directly tax only natures owners because we would like to limit the amount of interaction between the government's tax collectors and the average citizen.
 
-In case it's not obvious: the prohibition on taxes on wealth also applies to inheritances.
+To ensure that it's abundantly clear: the prohibition on taxes on wealth also applies to inheritances.
 
 ### Upper limit on taxation:
 
