@@ -3,9 +3,20 @@
 ## Basics
 
 ### Valid forms of taxation
-`WS` only allows the levying of taxes directly on owners of natureses because in taxing natures owners, one taxes all indepagents who live off that natures. No other form of taxation is allowed. In addition, as an explicit addendum, no forms of excise or internal checkpoint tax on freight or trade shall be levied.
+`WS` only allows the levying of taxes directly on owners of natureses because in taxing natures owners, one taxes all indepagents who live off that natures. No other form of taxation is allowed.
 
-All taxes on wealth instead of income shall be **unenforceable**.
+In addition, as explicit prohibitions for the sake of completeness:
+- No forms of excise or internal checkpoint tax on freight or trade shall be levied.
+  - This shall not be construed to limit `SovWI`'s ability to use checkpoints (without accompanying taxes) for internal security.
+- No taxes shall be levied on wealth instead of income.
+  - Any politician found guilty of introducing a bill to pursue such a tax shall become an outlaw after 2 hours.
+
+#### Evasion:
+
+We can imagine situations where a natures lord charges intentionally low rent on a property in its "official" capacity, and then collects the rest of the "true" price of the rent as a gift on the side.
+
+- The legislature shall have the power to constrain the financial interactions between natures lord and tenant to ensure transparency of all transactions between them.
+- The legislature shall have the power to maintain up to date records of natures lord and tenant relationships to effectuate such measures.
 
 ### Upper limit on taxation
 
