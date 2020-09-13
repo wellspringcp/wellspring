@@ -100,7 +100,9 @@ No regulatory committee (not even supposedly "independent" ones) shall be establ
 
 Courts are nationalized because private property law should enjoy a uniform, undisputed monopoly.
 
-Courts may be franchised to provide greater coverage. All courts without exception shall be lex-libertas courts. [Experimental] Appellate courts shall have larger (in number) juries than lower courts.
+Courts may be franchised to provide greater coverage. All courts without exception shall be lex-libertas courts.
+
+> [Experimental] Appellate courts shall have larger (in number) juries than lower courts.
 
 ## The right to leave
 
