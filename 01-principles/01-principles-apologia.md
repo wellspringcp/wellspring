@@ -23,7 +23,7 @@ These symbolic paraphernalia are not intended to imply any collectivist/tribal/n
 
 - *ReNoDem*: The American founding fathers omitted an explicit statement that the US Constitution was designed specifically to resist Democracy, and this negligence left the door open for the US Republic to be broken down into a Democracy.
 - *Magnificata*: We chose this name because we didn't want to overload the word "magna" in search engine results - ideally, people should easily be able to find information about the magna carta without dealing with overloaded results.
-- *GrInt*: It is important to explicitly put down arguments that the legislature is supposed to be passing new laws for their own sake. Legislative stagnation is a value; not a dysvalue.
+- *InteGrid*: It is important to explicitly put down arguments that the legislature is supposed to be passing new laws for their own sake. Legislative stagnation is a value; not a dysvalue.
 - *Sictember*: Tyranny is not to be born with longsuffering.
 - *RaNO*: Leave no room for arguments that conflate rights with benefits.
 - *Tyranny is Unenforceable*: Ensure that the polity is reminded that they need not submit to the enforcement of government overreach.
