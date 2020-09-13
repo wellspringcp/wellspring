@@ -106,7 +106,7 @@ Courts may be franchised to provide greater coverage. All courts without excepti
 
 ## The right to leave
 
-Citizens have a right to claim access to the "Right to leave" program. Indepagents who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred on their behalf to effectuate the program. While the indepagent is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the applicant loses citizenship. The right to leave program grants:
+Citizens shall have a valid claim to the "Right to leave" program. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The right to leave program grants:
 
 - One way travel to a destination chosen by the applicant.
   - Should the applicant desire to relocate to a different domicile location during the 2 years, no new transportation coverage shall be offered or granted; however the accomodations funds will continue being paid according to the original schedule.
@@ -115,4 +115,4 @@ Citizens have a right to claim access to the "Right to leave" program. Indepagen
   - There is no requirement that the applicant spend the money on accomodations; merely that they leave the jurisdiction.
 - It is up to the applicant to procure any visas/authorization for residency, transit, etc required to reach and domicile themselves in their end destination.
 
-The government shall not impose obstacles that make it difficult to claim this program's benefits. Indepagants shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher priorities against it, such as SovWI and SovCBio emergencies.
+The government shall not impose obstacles that make it difficult to claim this program's benefits. Citizens shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher priorities against it, such as SovWI and SovCBio emergencies.
