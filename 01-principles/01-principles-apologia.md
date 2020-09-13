@@ -14,7 +14,7 @@ To be even more cautious, we have decided to explicitly address each of the repu
 - Ayn Rand:
   - We disavow her views on the European settlers' treatment of the Native Americans, etc.
 - Leonard Peikoff:
-  - We disavow his views on the way that America should have approached the Iraq war. We do not espouse the view that in war, the civilian populace of an enemy nation is in effect, fair game and acceptable collateral damage. We assert that in war, the ideological and political leaders of the enemy entity should be targeted directly where possible, and where it is necessary to engage in large scale destruction in order to destroy the enemy entity, all measures should be taken to be as surgical as is **reasonable and practical** (while also being sure not to paralyze ourselves with inaction in the face of a threat of our own destruction), and **if practical**, to warn civilians to get to safety beforehand.
+  - We disavow the view that in war, the civilian populace of an enemy nation is in effect, fair game and acceptable collateral damage. We assert that in war, the ideological and political leaders of the enemy entity should be targeted directly where possible, and where it is necessary to engage in large scale destruction in order to destroy the enemy entity, all measures should be taken to be as surgical as is **reasonable and practical** (while also being sure not to paralyze ourselves with inaction in the face of a threat of our own destruction), and **if practical**, to warn civilians to get to safety beforehand.
 - Antonin Scalia:
 
 ## Symbols, celebrations and rituals.
