@@ -2,7 +2,7 @@
 
 ## Eligibility to vote
 
-Eligibility to vote is not linked to citizenship. Citizenship is a different mechanism with a different purpose.
+Eligibility to vote is not linked to citizenship. Citizenship is a different mechanism with a different purpose. In other words, non-citizens who are resident or domiciled may vote, if eligible.
 
 Eligibility to vote is purpose-specific. Indepagents may be eligible to vote for one thing while being ineligible to vote for another.
 
