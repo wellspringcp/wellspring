@@ -10,6 +10,8 @@ We want to ensure that all indepagents which labour and pay taxes (or natures re
 
 For indepagents which labour but don't pay rent, they have voluntarily given up their vote.
 
+Indepagents which rent more than one natures, or natures lords which own more than one natures shall still only have one vote in any electoral contest.
+
 ### Agency
 
 ### Terms offices
