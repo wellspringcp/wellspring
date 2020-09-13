@@ -10,7 +10,7 @@ Eligibility to vote is purpose-specific. Indepagents may be eligible to vote for
 
 A qualifying natures is any of a subset of recognized natureses which is defined by the legislature as conferring the right to vote.
 
-Eligibility to vote is derived from paying taxes on a qualifying natures or paying rent to the landlord of a qualifying natures. The government or landlord shall provide receipts for taxes and rents on qualifying natureses, respectively. The government may also choose to keep its own records of qualifying natures rental payments aside from those maintained by landlords.
+Eligibility to vote is derived from paying taxes on a qualifying natures or paying rent to the landlord of a qualifying natures. The government or landlord shall provide receipts for taxes and rents on qualifying natureses, respectively. The government may use its records of tenancy relationships and the transactions between partners in a tenancy relationship to validate eligibility.
 
 ### Agency
 
