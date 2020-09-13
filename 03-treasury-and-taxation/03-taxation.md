@@ -13,7 +13,7 @@ In addition, as explicit prohibitions for the sake of completeness:
 
 #### Evasion:
 
-We can imagine situations where a natures lord charges intentionally low rent on a property in its "official" capacity, and then collects the rest of the "true" price of the rent as a gift on the side.
+We grant the legislature the power to enforce transparency in the transactions between a natures lord and their tenants.
 
 - The legislature shall have the power to constrain the financial interactions between natures lord and tenant to ensure transparency of all transactions between them.
 - The legislature shall have the power to maintain up to date records of natures lord and tenant relationships to effectuate such measures.
