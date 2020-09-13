@@ -12,6 +12,10 @@ To ensure that it's abundantly clear: the prohibition on taxes on wealth also ap
 
 We can imagine situations where a natures lord charges intentionally low rent on a property in its "official" capacity, and then collects the rest of the "true" price of the rent as a gift on the side. For this reason and similar ones, we simply make all direct natures relationships financially transparent.
 
+#### Buying votes:
+
+We can imagine situatiosn where a head-tenant enters other indepagants onto their rental agreement as co-tenants in order to grant them the vote where they would not have had the vote otherwise. In order to combat this, we legally constrain financial liability for rent to be equally shared, by law, among all co-tenants. This places a disproportionate amount of power into the hands of the head-tenant of such a vote-buying scheme and puts the artificial co-tenants at the head-tenant's mercy, in that the head-tenant may put the artificial co-tenants into debt merely by refusing to reimburse them their share of the rent payable, and they would have no recourse through the courts. The artificial co-tenants would also incur damages to reputation as they get recorded as derelict tenants if they don't pay off such debts. This should act as a sufficient disincentive to most rational actors.
+
 ### Upper limit on taxation:
 
 The number, 10%, can obviously be changed by constitutional amendment, obviously - and only by that means.
