@@ -18,6 +18,10 @@ We grant the legislature the power to enforce transparency in the transactions b
 - The legislature shall have the power to constrain the financial interactions between natures lord and tenant to ensure transparency of all transactions between them.
 - The legislature shall have the power to maintain up to date records of natures lord and tenant relationships to effectuate such measures.
 
+#### Buying votes
+
+When multiple indepagents are co-tenants for a natures, they shall all be equally liable for the rent, and shall each pay an equal share of the rent, by law. Private contracts to make one co-tenant indemnify another co-tenant for some portion of the rent shall not be recognized by the courts.
+
 ### Upper limit on taxation
 
 No landlord shall be taxed more heavily than at 10% of the income generated per unit of his natureses. All taxation exceeding this shall be **unenforceable**.
