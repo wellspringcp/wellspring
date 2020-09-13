@@ -23,7 +23,7 @@ If extremely rich, motivated political activists decide to begin placing non-pro
 - They would end up housing the poor in order to purchase their vote, which is desirable.
 - Other rich activists can purchase votes as well to counter the other party.
 - This would result in a market of rich people bidding on poor peoples' votes, and the poor people would be able to sell their votes to the bidder who houses them in the best accomodations.
-- The legislature make the vote concealed, such that it is impossible for the purchased voter provide proof of having voted as directed, so as to also provide a disincentive on the vote-buyer's side.
+- The legislature is entirely capable of making the vote concealed, such that it is impossible for the purchased voter provide proof of having voted as directed, so as to also provide a disincentive on the vote-buyer's side.
   - By creating this much risk and uncertainty on both sides of the transaction, the market would be extremely small and unreliable; and even in its small extent, it would end up being a form of welfare program, in that it would mostly be people renting housing on behalf of the poor, which is again, not an undesirable outcome.
 
 ### Upper limit on taxation:
