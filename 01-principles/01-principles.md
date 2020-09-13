@@ -22,7 +22,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
   - *Day 1*: Not A Democracy, but a Republic if you can keep it (`ReNoDem`) day.
   - *Day 2*: Common Law and Magna Carta (`Magnificata`) day.
 - 2nd quarter month:
-  - *Day 1*: Gridlock is Intentional (`GrInt`) day.
+  - *Day 1*: Intentional Gridlock (`InteGrid`) day.
   - *Day 15*: Sic Semper Tyrannis (`Sictember`) day.
 - Middle month:
   - *Day 1*: Private Property Law (`PrivaLa`) day.
