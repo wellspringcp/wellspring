@@ -80,7 +80,7 @@ The rule of law (i.e., "Republicanism") is that form of government which equally
 
 `WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). WS explicitly does **not** value equality of opportunity or equality of outcome as legislative goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the **private sector** via private mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through law. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
 
-The government may however, pursue the equality of opportunity in **only** one areas: access to the court system. Government may provide mechanisms to ensure that private property enforcement is as easily accessible to the poor as to the rich. When an indepagent suffers a private property violation, the financial costs should not be a limiting factor in whether or not they pursue redress in court.
+The government may however, pursue the equality of opportunity in **only** one area: access to the court system. Government may provide mechanisms to ensure that private property enforcement is as easily accessible to the poor as to the rich. When an indepagent suffers a private property violation, the financial costs should not be a limiting factor in whether or not they pursue redress in court.
 
 Any politician introducing a bill which would seek to pursue either of the following:
 - Equality of outcome
