@@ -8,6 +8,10 @@ We've chosen to directly tax only natures owners because we would like to limit 
 
 To ensure that it's abundantly clear: the prohibition on taxes on wealth also applies to inheritances.
 
+#### Evasion:
+
+We can imagine situations where a natures lord charges intentionally low rent on a property in its "official" capacity, and then collects the rest of the "true" price of the rent as a gift on the side. For this reason and similar ones, we simply make all direct natures relationships financially transparent.
+
 ### Upper limit on taxation:
 
 The number, 10%, can obviously be changed by constitutional amendment, obviously - and only by that means.
