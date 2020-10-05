@@ -30,7 +30,7 @@ In cases where a `casus belli` is an asset in a foreign polity:
 
 > [Apologia]: If other polities wish to gain an indirect umbrella of protection from `WS`, they are free to strategically contract out access to some valuable asset to the `WS` government, and thereby gain `WS` interest in protecting that particular asset as casus belli.
 
-### Peaceful expansion
+## Peaceful expansion
 
 `WS` polities may accept solicitations from indepagents in neighbouring polities for the purchase of natural resources which are owned by such indepagents, so as to allow peaceful expansion. Such purchases shall be accompanied by a formal naturalization of the seller to be a `WS` citizen.
 
