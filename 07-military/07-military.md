@@ -16,20 +16,25 @@ If a conagent is found guilty of leaking secret information, its owner (or it it
 
 ### Guiding principles:
 
-War shall be waged solely for self preservation, the preservation of property and the preservation of allied parties only to the extent that is instrumental and vitally strategically necessary for the private property security of Utopia itself, and no further. Wars of outrage over immoral actions taken by other polities shall not be the concern of Utopia.
-
-Notwithstanding, in the case of a person in a foreign polity pledging his land to be under the jurisdiction of Utopia and Utopia having purchased that land from that foreign polity's government: if it is reasonably defensible and that person's private property rights are infringed by a belligerent, Utopia shall have authorization to wage war on that person's behalf. It follows that Utopia shall not accept oaths of fealty to its jurisdiction from persons whose land is indefensible with Utopia's military capabilities in the present and for a reasonably foreseeable future.
-
-All pledges of fealty shall have an accompanying diligent estimation of the cost and feasibility of protection which shall be made fully known to the person undertaking the pledge.
+War shall be waged solely for the preservation of the persons and property of `WS`'s residents and territory, and no further. Wars of outrage over immoral actions taken by other polities shall not be the concern of Utopia. WS shall have no openly declared military alliances - all military alliances shall be phrased as `casus belli` assets under `WS`'s protection.
 
 ### Casus belli
 
-A `WS` polity shall declare and openly publish the exact assets (including diplomatic personnel, etc) which it considers to be casus belli, as well as an optional minimum response which any aggressor can expect to face. No maximum response shall be published: `WS` reserves the right to escalate its responses to any extent it deems necessary to preserve the private property of its residents.
+A `WS` polity shall declare and openly publish the exact assets (including diplomatic personnel, etc) which it considers to be `casus belli`, as well as an optional minimum response which any aggressor can expect to face. No maximum response shall be published: `WS` reserves the right to escalate its responses to any extent it deems necessary to preserve the private property of its residents.
 
-In cases where a casus belli is an asset in a foreign polity:
-- `WS` shall phrase the casus belli as the specific asset itself, and not as the government of the foreign political entity.
-- Under extremely well-considered circumstances, `WS` may unilaterally declare strategic "red line" casus belli on very well-defined, neighbouring foreign assets if a particular enemy is known to be an expansionist power which has demonstrated that it will eventually become a clear and present danger, if allowed to capture those foreign assets.
+In cases where a `casus belli` is an asset in a foreign polity:
+- `WS` shall phrase the `casus belli` as the specific asset itself, and not as the government of the foreign political entity.
+- Under extremely well-considered circumstances, `WS` may unilaterally declare strategic "red line" `casus belli` on very well-defined, neighbouring foreign assets if a particular enemy is known to be an expansionist power which has demonstrated that it will eventually become a clear and present danger, if allowed to capture those foreign assets.
 
 > [Apologia]: I.e, `WS` shall not extend an umbrella of protection over any foreign political entity. If `WS` enters into a diplomatic agreement in order to gain access to a maritime route for war readiness, for example, the casus belli shall be the maritime route, and not the foreign government which exercises dominion over the route.
 
 > [Apologia]: If other polities wish to gain an indirect umbrella of protection from `WS`, they are free to strategically contract out access to some valuable asset to the `WS` government, and thereby gain `WS` interest in protecting that particular asset as casus belli.
+
+### Peaceful expansion
+
+`WS` polities may accept solicitations from indepagents in neighbouring polities for the purchase of natural resources which are owned by such indepagents, so as to allow peaceful expansion. Such purchases shall be accompanied by a formal naturalization of the seller to be a `WS` citizen.
+
+- All such purchases shall only occur if diplomatically agreed to by the government of the neighbouring polity.
+- After being purchased all such natural resources shall be the same as all other natureses under the jurisdiction of `WS`, and shall form a normal part of the `casus belli` of `WS`.
+
+It follows that Utopia shall not accept such solicitations for purchase from persons whose natures is indefensible with Utopia's military capabilities in the present and for a reasonably foreseeable future.
