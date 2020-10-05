@@ -10,7 +10,10 @@ All such units of natural resource owned by the government shall be listed on th
 
 The sale of natural resources confers ownership of such natural resources in a multi-dimensional manner. For example, in the case of land, the sale should be in units of 3 dimensional cubes of land stretching from the surface to some distance below it, and not from the surface to the center of the earth. This allows another buyer to purchase another stretch of blocks beneath that stretch of blocks owned by the legal person closest to the surface and so on.
 
-The sale of land shall also, if necessary be accompanied by a sale of suffucient airspace if there is to be construction of a structure above ground as well. A structure must be built within the confines of the allocated space purchased by its owner. This enables airlines to purchase routes or rent routes owned by other legal persons and so on, thereby solving co-ordination problems.
+The sale of land shall also, if necessary be accompanied by a sale of sufficient airspace if there is to be construction of a structure above ground as well. A structure must be built within the confines of the allocated space purchased by its owner. This enables airlines to purchase routes or rent routes owned by other legal persons and so on, thereby solving co-ordination problems.
+
+Additionally:
+- <Experimental>: The `SovHOA` law shall have the power to determine when a particular usage of natures imposes an externality, and requires the accompanying purchase of "buffer" room to sufficiently isolate the natures allotment from surrounding allotments.
 
 A valuable natural treasure contained within a purchased natural resource which was previously undiscovered shall be counted as being part of the containing natural resource and shall incur no additional price on the owner after discovery. Notwithstanding, government shall have the right to modify tax rates at its discretion, subject to applicable laws.
 
