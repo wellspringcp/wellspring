@@ -20,7 +20,7 @@ War shall be waged solely for the preservation of the persons and property of `W
 
 ### Casus belli
 
-A `WS` polity shall declare and openly publish the exact assets (including diplomatic personnel, etc) which it considers to be `casus belli`, as well as an optional minimum response which any aggressor can expect to face. No maximum response shall be published: `WS` reserves the right to escalate its responses to any extent it deems necessary to preserve the private property of its residents.
+A `WS` polity shall declare and openly publish the exact assets (including diplomatic personnel, etc) which it considers to be `casus belli`, as well as an optional minimum response which any aggressor can expect to face. No maximum response shall be published: `WS` reserves the right to escalate its responses to any extent it deems necessary to preserve the private property of its residents. Should any actor encroach on a `casus belli`, a warning *may* be issued, but Utopia is under no obligation to issue a warning before retaliating - indeed, the casus belli list is itself a warning.
 
 In cases where a `casus belli` is an asset in a foreign polity:
 - `WS` shall phrase the `casus belli` as the specific asset itself, and not as the government of the foreign political entity.
