@@ -16,7 +16,7 @@ If a conagent is found guilty of leaking secret information, its owner (or it it
 
 ### Guiding principles:
 
-War shall be waged solely for the preservation of the persons and property of `WS`'s residents and territory, and no further. Wars of outrage over immoral actions taken by other polities shall not be the concern of Utopia. WS shall have no openly declared military alliances - all military alliances shall be phrased as `casus belli` assets under `WS`'s protection.
+War shall be waged solely for the preservation of the persons and property of `WS`'s residents and territory, and no further. Wars of outrage over immoral actions taken by other polities shall not be the concern of `WS`. `WS` shall have no openly declared military alliances - all military alliances shall be phrased as `casus belli` assets under `WS`'s protection.
 
 Any war must be on the basis of a casus belli, and should the enemy actor cease to violate the casus belli, the war shall be brought to a graceful end as speedily as is humanly possible. The aim of war shall be the protection of a casus belli asset, and/or the elimination/exhaustion of an entity's ability to pose a threat to some number of casus belli assets.
 
@@ -39,4 +39,4 @@ In cases where a `casus belli` is an asset in a foreign polity:
 - All such purchases shall only occur if diplomatically agreed to by the government of the neighbouring polity.
 - After being purchased all such natural resources shall be the same as all other natureses under the jurisdiction of `WS`, and shall form a normal part of the `casus belli` of `WS`.
 
-It follows that Utopia shall not accept such solicitations for purchase from persons whose natures is indefensible with Utopia's military capabilities in the present and for a reasonably foreseeable future.
+It follows that Utopia shall not accept such solicitations for purchase from persons whose natures is indefensible with `WS`'s military capabilities in the present and for a reasonably foreseeable future.
