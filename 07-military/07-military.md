@@ -18,9 +18,11 @@ If a conagent is found guilty of leaking secret information, its owner (or it it
 
 War shall be waged solely for the preservation of the persons and property of `WS`'s residents and territory, and no further. Wars of outrage over immoral actions taken by other polities shall not be the concern of Utopia. WS shall have no openly declared military alliances - all military alliances shall be phrased as `casus belli` assets under `WS`'s protection.
 
+Any war must be on the basis of a casus belli, and should the enemy actor cease to violate the casus belli, the war shall be brought to a graceful end as speedily as is humanly possible.
+
 ### Casus belli
 
-A `WS` polity shall declare and openly publish the exact assets (including diplomatic personnel, etc) which it considers to be `casus belli`, as well as an optional minimum response which any aggressor can expect to face. No maximum response shall be published: `WS` reserves the right to escalate its responses to any extent it deems necessary to preserve the private property of its residents. Should any actor encroach on a `casus belli`, a warning *may* be issued, but Utopia is under no obligation to issue a warning before retaliating - indeed, the casus belli list is itself a warning.
+A `WS` polity shall declare and openly publish the exact assets (including diplomatic personnel, etc) which it considers to be `casus belli`, as well as an optional minimum response which any aggressor can expect to face. No maximum response shall be published: `WS` reserves the right to escalate its responses to any extent it deems necessary to preserve the private property of its residents. Should any actor encroach on a `casus belli`, a warning *may* be issued, but `WS` is under no obligation to issue a warning before retaliating - indeed, the casus belli list is itself a warning. Actors seeking to avoid conflict with `WS` should take care to engage the appropriate diplomatic channels before interacting with a casus belli.
 
 In cases where a `casus belli` is an asset in a foreign polity:
 - `WS` shall phrase the `casus belli` as the specific asset itself, and not as the government of the foreign political entity.
