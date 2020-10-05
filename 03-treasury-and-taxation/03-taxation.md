@@ -16,10 +16,6 @@ In addition, as explicit prohibitions for the sake of completeness:
 
 #### Evasion:
 
-> [Apologia]: We cannot allow people to opt out of funding the courts and army because this would compromise the monpoly enjoyed by private property law.
-> [Apologia]: At the end of the day, when a conagent enter the jurisdiction of `WS`, it accepts at minimum, without any offer of redress, to be governed by private property law. If they prefer not to accept this, then they are not compelled to come.
-> [Apologia]: Since taxation cannot be avoided or made voluntary (beyond the Right to Leave), conagents should be wary to carefully control the tax rate and to guard against any attempts by the legislature to expand taxation beyond an individual income tax.
-
 Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, should an indepagent present itself to court on either side of the advocacy without having its taxes paid: in any proceeding against it where it stands as a defendant, judgment shall proceed against it by default, and in any proceeding where it appears as a plaintiff, its plea shall not be recognized.
 
 - Nevertheless, the police shall continue to provide immediate protection of the physical person and property of that indepagent and its depagents.
