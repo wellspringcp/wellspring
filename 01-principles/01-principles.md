@@ -49,7 +49,7 @@ Private Property law is that set of restrictions which stem from the recognition
 The sovereignty of the individual may only be breached in the pursuit of:
 
 - In as much as some conagents are unfit to sensibly manage their own property, there shall be laws to designate both the automatic and explicit guardianship, trusteeship and powers of attorney to others for the unsound of mind during such time that they are unsound (pueragency and diagnosed mental unsoundness).
-- In as much also, as communicable diseases and biohazards are a market failure whose urgency demands that the gradual hand of the market to reach equilibrium be bypassed for expeditious measures, communicable (and only communicable) diseases and boihazards shall be an exception to individual sovereignty, as outlined in `SovCBio` law.
+- In as much also, as communicable diseases and biohazards are a market failure whose urgency demands that the gradual hand of the market to reach equilibrium be bypassed for expeditious measures, communicable (and only communicable) diseases and biohazards shall be an exception to individual sovereignty, as outlined in `SovCBio` law.
 - Finally in order to resolve information asymmetries and discourage fraud, laws which force the publication of component ingredients in a product or service (but not the method thereof) are a permissible exception to individual sovereignty.
 - The preparedness of the nation for war, as outlined in `SovWI` law.
 
