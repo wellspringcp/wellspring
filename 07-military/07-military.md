@@ -18,7 +18,7 @@ If a conagent is found guilty of leaking secret information, its owner (or it it
 
 War shall be waged solely for the preservation of the persons and property of `WS`'s residents and territory, and no further. Wars of outrage over immoral actions taken by other polities shall not be the concern of Utopia. WS shall have no openly declared military alliances - all military alliances shall be phrased as `casus belli` assets under `WS`'s protection.
 
-Any war must be on the basis of a casus belli, and should the enemy actor cease to violate the casus belli, the war shall be brought to a graceful end as speedily as is humanly possible.
+Any war must be on the basis of a casus belli, and should the enemy actor cease to violate the casus belli, the war shall be brought to a graceful end as speedily as is humanly possible. The aim of war shall be the protection of a casus belli asset, and/or the elimination/exhaustion of an entity's ability to pose a threat to some number of casus belli assets.
 
 ### Casus belli
 
