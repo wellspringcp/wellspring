@@ -22,7 +22,7 @@ In addition, as explicit prohibitions for the sake of completeness:
 
 Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, should an indepagent present itself to court on either side of the advocacy without having its taxes paid: in any proceeding against it where it stands as a defendant, judgment shall proceed against it by default, and in any proceeding where it appears as a plaintiff, its plea shall not be recognized.
 
-- Nevertheless, the police shall continue to provide immediate protection of the physical person of that indepagent and its depagents.
+- Nevertheless, the police shall continue to provide immediate protection of the physical person and property of that indepagent and its depagents.
 - Indepagents that don't pay their taxes shall be free to leave and shall not suffer imprisonment or any other criminal penalty.
 
 ### Upper limit on taxation
