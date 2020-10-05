@@ -14,6 +14,7 @@ The sale of land shall also, if necessary be accompanied by a sale of sufficient
 
 Additionally:
 - <Experimental>: The `SovHOA` law shall have the power to determine when a particular usage of natures imposes an externality, and requires the accompanying purchase of "buffer" room to sufficiently isolate the natures allotment from surrounding allotments.
+  - This power shall never form the basis of a control mechanism to achieve political ends such as a political desire to ban "fracking" or to ban nuclear energy, for example.
 
 A valuable natural treasure contained within a purchased natural resource which was previously undiscovered shall be counted as being part of the containing natural resource and shall incur no additional price on the owner after discovery. Notwithstanding, government shall have the right to modify tax rates at its discretion, subject to applicable laws.
 
