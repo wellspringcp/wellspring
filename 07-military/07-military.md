@@ -26,7 +26,7 @@ A `WS` polity shall declare and openly publish the exact assets (including diplo
 
 In cases where a `casus belli` is an asset in a foreign polity:
 - `WS` shall phrase the `casus belli` as the specific asset itself, and not as the government of the foreign political entity.
-- Under extremely well-considered circumstances, `WS` may unilaterally declare strategic "red line" `casus belli` on very well-defined, neighbouring foreign assets if a particular enemy is known to be an expansionist power which has demonstrated that it will eventually become a clear and present danger, if allowed to capture those foreign assets.
+- Under extremely well-considered circumstances, `WS` may unilaterally declare strategic "red line" `casus belli` on very well-defined, neighbouring foreign assets if a particular enemy is known to be an expansionist power which has demonstrated that it will eventually become a clear and present danger to the persons and property of `WS`'s residents, if allowed to capture those foreign assets.
 
 > [Apologia]: I.e, `WS` shall not extend an umbrella of protection over any foreign political entity. If `WS` enters into a diplomatic agreement in order to gain access to a maritime route for war readiness, for example, the casus belli shall be the maritime route, and not the foreign government which exercises dominion over the route.
 
