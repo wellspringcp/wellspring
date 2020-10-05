@@ -104,6 +104,12 @@ Courts may be franchised to provide greater coverage. All courts without excepti
 
 > [Experimental] Appellate courts shall have larger (in number) juries than lower courts.
 
+## Open governance
+
+No information shall be made secret by the government unless it pertains to war, and war secrets shall be kept under the auspices of the War Secrets section of this constitution.
+
+All affairs of government not concerning war secrets shall be open to attendance by the public. Should there be no room to host all those interested in attending, room shall be auctioned off to the highest bidders on the `Externality Auction`. There shall be no public spending on broadcast agencies/business, but seats may be sold to news agencies. Each branch of government shall arrange to make such seating or other attendance, physical or otherwise (digital, etc) available for rental.
+
 ## The right to leave
 
 Citizens shall have a valid claim to the "Right to leave" program. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The right to leave program grants:
