@@ -4,31 +4,17 @@
 
 ### Valid forms of taxation:
 
-We've chosen to directly tax only natures owners because we would like to limit the amount of interaction between the government's tax collectors and the average citizen.
+We do not wish to allow the government to have any avenue for the imposition of double-taxation on any indepagent. For this reason taxation may only be levied as a direct individual income tax.
 
 To ensure that it's abundantly clear: the prohibition on taxes on wealth also applies to inheritances.
 
 #### Evasion:
 
-We can imagine situations where a natures lord charges intentionally low rent on a property in its "official" capacity, and then collects the rest of the "true" price of the rent as a gift on the side. For this reason and similar ones, we simply make all direct natures relationships financially transparent.
-
-#### Buying votes:
-
-We can imagine situatiosn where a head-tenant enters other indepagants onto their rental agreement as co-tenants in order to grant them the vote where they would not have had the vote otherwise. In order to combat this, we legally constrain financial liability for rent to be equally shared, by law, among all co-tenants. This places a disproportionate amount of power into the hands of the head-tenant of such a vote-buying scheme and puts the artificial co-tenants at the head-tenant's mercy, in that the head-tenant may put the artificial co-tenants into debt merely by refusing to reimburse them their share of the rent payable, and they would have no recourse through the courts. The artificial co-tenants would also incur damages to reputation as they get recorded as derelict tenants if they don't pay off such debts.
-
-Note that this doesn't make it illegal to accept such an arrangement; accepting to place one's name on a co-tenancy agreement in order to gain the vote carries no legal penalty. It is merely financially risky. This should act as a sufficient disincentive to most rational actors.
-
-If extremely rich, motivated political activists decide to begin placing non-productive people on co-tenancies in order to purchase their vote, we don't think this would be a big deal since:
-
-- They would end up housing the poor in order to purchase their vote, which is desirable.
-- Other rich activists can purchase votes as well to counter the other party.
-- This would result in a market of rich people bidding on poor peoples' votes, and the poor people would be able to sell their votes to the bidder who houses them in the best accomodations.
-- The legislature is entirely capable of making the vote concealed, such that it is impossible for the purchased voter provide proof of having voted as directed, so as to also provide a disincentive on the vote-buyer's side.
-  - By creating this much risk and uncertainty on both sides of the transaction, the market would be extremely small and unreliable; and even in its small extent, it would end up being a form of welfare program, in that it would mostly be people renting housing on behalf of the poor, which is again, not an undesirable outcome.
+The difference between the denial of access to the courts for tax evasion and outlawing is that government agents such as police, will continue to protect in an immediate sense, the physical property of the non-taxpayer, but will deny any legal actions set in motion to enforce claims on that person's rights. An outlaw has no recourse to physical protection, unlike the non-taxpayer.
 
 ### Upper limit on taxation:
 
-The number, 10%, can obviously be changed by constitutional amendment, obviously - and only by that means.
+This number, 10%, can obviously be changed by constitutional amendment, obviously - and only by that means.
 
 ## Incentives via tax discounts:
 
