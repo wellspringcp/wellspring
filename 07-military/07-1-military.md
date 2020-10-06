@@ -65,6 +65,22 @@ The military is likely to depend on supply lines which may need to cover product
 
 > [Apologia]: It is not unreasonable to ask that the military be vigilant and plan ahead for war and that it be aware of which other nations pose either distant, or clear and present threats to the persons and property of `WS`'s residents; so the contracts needed to protect procurement of such assets should be able to be well known in advance. Furthermore, the military branch has no budget limit, so it shouldn't be hard for them.
 
+## Parallel Martial law (ParaMart)
+
+The `Paramart` law governs people who are members of the military. In particular, while carrying out an order or mission, if they are acting in line with the parameters and discretion laid out for them in their mandate, members of the military are subject only to martial law. While not acting in the pursuit of an order or mission, they are subject to the common law. The purpose of the parallel military law is both to enable military officers to adequately discipline their soldiers using punishments which are unconstitutional for the non-military population, as well as to protect military agents from worrying about liability while they carry out their assignments.
+
+Any damages caused by an individual acting under `Paramart` law incur liability on the military branch and not that individual. However, pursuant to a common law judgment in favour of the plaintiff in a proceeding against the military branch, the military is free to punish the individual after conducting a `Paramart` law trial. `Paramart` law trials shall proceed according to the common law process, but with the `Paramart` law statutes and not the statutes of the non-military legislation.
+
+The police force operates under the common law and not under the `Paramart` law.
+
+> [Apologia]: For example, if a soldier is ordered to secure a perimeter and in doing so he must vacate a business, and subdue and forcibly remove a pregnant woman who is being an obstacle, the suit will proceed against the military branch. The military branch will pay all compensation.
+
+> [Apologia]: Internally the military branch is free to acquit the soldier if martial law allowed him to act in that manner. Or the military is free to charge him and conduct a martial law trial.
+
+`ParaMart` law may prescribe punishments such as flogging, death and other punishments which are anathema to the common law. `ParaMart` law is free to define offenses for things that do not violate private property - such as disrespecting a senior officer, etc. `ParaMart` law is the law that the military is governed by.
+
+All interrogation techniques and other controversial military issues shall be clearly legislated under martial law. `ParaMart` law shall be fully published.
+
 ## Peaceful expansion
 
 `WS` polities may accept solicitations from indepagents in neighbouring polities for the purchase of natural resources which are owned by such indepagents, so as to allow peaceful expansion. Such purchases shall be accompanied by a formal naturalization of the seller to be a `WS` citizen.
