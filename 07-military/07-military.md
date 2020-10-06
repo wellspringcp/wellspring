@@ -37,6 +37,6 @@ In cases where a `casus belli` is an asset in a foreign polity:
 `WS` polities may accept solicitations from indepagents in neighbouring polities for the purchase of natural resources which are owned by such indepagents, so as to allow peaceful expansion. Such purchases shall be accompanied by a formal naturalization of the seller to be a `WS` citizen.
 
 - All such purchases shall only occur if diplomatically agreed to by the government of the neighbouring polity.
-- After being purchased all such natural resources shall be the same as all other natureses under the jurisdiction of `WS`, and shall form a normal part of the `casus belli` of `WS`.
+- After being purchased all such natural resources shall be the same as all other natureses under the jurisdiction of `WS`, and shall form a normal part of the territory and `casus belli` of `WS`.
 
 It follows that Utopia shall not accept such solicitations for purchase from persons whose natures is indefensible with `WS`'s military capabilities in the present and for a reasonably foreseeable future.
