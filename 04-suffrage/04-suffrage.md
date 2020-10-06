@@ -10,7 +10,7 @@ Eligibility to vote is based on:
 1. Being fully paid up on taxes.
 2. Having been a taxpayer for some specified fraction of the previous term of the office or decision being voted on.
 
-The government shall provide receipts for taxes. The government may use its records of taxation to validate eligibility.
+The government shall provide receipts for taxes upon request. The government may use its records of taxation to validate eligibility.
 
 ### Agency
 
