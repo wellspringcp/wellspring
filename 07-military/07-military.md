@@ -38,7 +38,7 @@ In cases where a `casus belli` is an asset in a foreign polity:
 
 > [Apologia]: *The `Identified Hostile Political Entities` mechanism is a separate tool from the `casus belli` mechanism, and the two serve different purposes. `WS` may need to retaliate against a non-`IHPE` entity for violation of `casus belli`, and `WS` may need to take subversive action against an `IHPE` even if it has not violated a `casus belli`; although `WS` should ideally be diligent in defining `red line` casus belli to ensure that the reasons for all escalations are as transparent as possible.*
 
-The legislature shall define a processes both for nominating and declaring foreign or domestic political entities as Identified Hostile Political Entities. No political entity which adheres the **all** of the following core points of policy **in practice (not merely on paper)** may be nominated as an `IHPE`:
+The legislature shall define processes both for nominating and declaring foreign or domestic political entities as Identified Hostile Political Entities. No political entity which adheres the **all** of the following core points of policy **in practice (not merely on paper)** may be nominated as an `IHPE`:
 - Private property law.
 - Military isolationism.
 
