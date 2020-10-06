@@ -32,15 +32,6 @@ In cases where a `casus belli` is an asset in a foreign polity:
 
 > [Apologia]: If other polities wish to gain an indirect umbrella of protection from `WS`, they are free to strategically contract out access to some valuable asset to the `WS` government, and thereby gain `WS` interest in protecting that particular asset as casus belli.
 
-## Peaceful expansion
-
-`WS` polities may accept solicitations from indepagents in neighbouring polities for the purchase of natural resources which are owned by such indepagents, so as to allow peaceful expansion. Such purchases shall be accompanied by a formal naturalization of the seller to be a `WS` citizen.
-
-- All such purchases shall only occur if diplomatically agreed to by the government of the neighbouring polity.
-- After being purchased all such natural resources shall be the same as all other natureses under the jurisdiction of `WS`, and shall form a normal part of the territory and `casus belli` of `WS`.
-
-It follows that `WS` shall not accept such solicitations for purchase from persons whose natures is indefensible with `WS`'s military capabilities in the present and for a reasonably foreseeable future.
-
 ## War supply routes and logistics
 
 > [Apologia]: We argue that military self sufficiency is a nonsensical concept: if there is a war asset which is built from materials that must be purchased from a foreign polity which could be threatened, then you have implicitly acknowledged that *some* portion of the inputs for that asset require foreign trade - I.e, they are not produced locally, even if the natural resources for that asset occur naturally locally.
@@ -62,3 +53,11 @@ The military is likely to depend on supply lines which may need to cover assets 
 
 > [Apologia]: It is not unreasonable to ask that the military be vigilant and plan ahead for war and that it be aware of which other nations pose either distant, or clear and present threats to the persons and property of `WS`'s residents; so the contracts needed to protect procurement of such assets should be able to be well known in advance. Furthermore, the military branch has no budget limit, so it shouldn't be hard for them.
 
+## Peaceful expansion
+
+`WS` polities may accept solicitations from indepagents in neighbouring polities for the purchase of natural resources which are owned by such indepagents, so as to allow peaceful expansion. Such purchases shall be accompanied by a formal naturalization of the seller to be a `WS` citizen.
+
+- All such purchases shall only occur if diplomatically agreed to by the government of the neighbouring polity.
+- After being purchased all such natural resources shall be the same as all other natureses under the jurisdiction of `WS`, and shall form a normal part of the territory and `casus belli` of `WS`.
+
+It follows that `WS` shall not accept such solicitations for purchase from persons whose natures is indefensible with `WS`'s military capabilities in the present and for a reasonably foreseeable future.
