@@ -39,7 +39,7 @@ In cases where a `casus belli` is an asset in a foreign polity:
 - All such purchases shall only occur if diplomatically agreed to by the government of the neighbouring polity.
 - After being purchased all such natural resources shall be the same as all other natureses under the jurisdiction of `WS`, and shall form a normal part of the territory and `casus belli` of `WS`.
 
-It follows that Utopia shall not accept such solicitations for purchase from persons whose natures is indefensible with `WS`'s military capabilities in the present and for a reasonably foreseeable future.
+It follows that `WS` shall not accept such solicitations for purchase from persons whose natures is indefensible with `WS`'s military capabilities in the present and for a reasonably foreseeable future.
 
 ## War supply routes and logistics
 
@@ -53,11 +53,11 @@ The military is likely to depend on supply lines which may need to cover assets 
 2. Maintain contracts and legal instruments with foreign polities whose exercise consists of the right to establish military forts/presence in their territory for the purpose of protecting supply lines and manufacturing interests leading up to and during, wartime.
   - These may be structured as "insurance/subcription" payment plans for example, with regular payments of premiums, or some other peaceful agreement for mutual benefit.
   - What such agreements really represent under the hood though, are a right to invade and secure security interests in those foreign polities. For this reason, such contracts should clearly define the assets and people/companies which are designated for protection in the contract.
-  - Such contracts may need to include terms to establish military presence near or in such polities during peacetime to ensure that if the need arises and utopia needs to exercise its claim (due to breach of contract), utopia can act quickly and decisively to establish control over said assets.
+  - Such contracts may need to include terms to establish military presence near or in such polities during peacetime to ensure that if the need arises and `WS` needs to exercise its claim (due to breach of contract), `WS` can act quickly and decisively to establish control over said assets.
   - If such a peacetime presence contract is ever established:
     - It shall not be leveraged as a mechanism or foothold for aggrandizement or annexation. `WS` already provides a transparent and peaceful mechanism for natures expansion.
     - It shall not be leveraged as a mechanism or foothold for influencing the politics of the other polity. `WS`'s government exists solely as an instrument for the protection of the private property of its residents and `WS`'s government itself has no goals.
-    - If any politician is found guilty of tabling a bill which would pursue any of these disallowed goals, s/he shall become an outlaw after 4 hours. Foreign polities may, with advance warning through diplomatic channels, deploy agents to anticipate the moment of the effectuation of such a politician's outlawing.
+    - If any politician is found guilty of tabling a bill which would pursue any of these disallowed goals, s/he shall become an outlaw after 4 hours. Foreign polities may, with advance warning through diplomatic channels, deploy agents within `WS`'s jurisdiction to anticipate the moment of the effectuation of such a politician's outlawing.
     - These restrictions on exerting subversive influence on neutral and friendly polities shall not be construed to limit `WS` discretion in exerting subversive influence against identified political threats to the persons and private property of `WS`'s residents.
 
 > [Apologia]: It is not unreasonable to ask that the military be vigilant and plan ahead for war and that it be aware of which other nations pose either distant, or clear and present threats to the persons and property of `WS`'s residents; so the contracts needed to protect procurement of such assets should be able to be well known in advance. Furthermore, the military branch has no budget limit, so it shouldn't be hard for them.
