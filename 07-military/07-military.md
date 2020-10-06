@@ -10,7 +10,7 @@ No information shall be deemed classified upon a condition of the passing of tim
 
 There shall be a review on the last day of each 3rd month of all war secrets by the Defense branch and the Judiciary in a process open to public attendance (with seats sold on the `Externality Auction`), where each current war secret's secrecy conditions (but not the content of the secret) will be read openly. Should a particular item's conditions for secrecy no longer apply, it shall be made public through the Informative branch within 72 hours.
 
-If a conagent is found guilty of leaking secret information, its owner (or it itself, if it is an indepagent) shall become an outlaw after 3 hours.
+If a conagent is found guilty of leaking secret information, its owner (or it itself, if it is an indepagent) shall become an outlaw after 60 seconds.
 
 ## Reasons for war
 
