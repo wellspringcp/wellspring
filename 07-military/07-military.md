@@ -22,7 +22,7 @@ Any war must be on the basis of a casus belli, and should the enemy actor cease 
 
 ### Casus belli
 
-*The `casus belli` mechanism is a separate tool from the `Identified Hostile Political Entity` mechanism, and the two serve different purposes. `WS` may need to retaliate against a non-`IHPE` entity for violation of `casus belli`, and `WS` may need to take subversive action against an `IHPE` even if it has not violated a `casus belli`; although `WS` should ideally be diligent in defining `red line` casus belli to ensure that the reasons for all escalations are as transparent as possible.*
+> [Apologia]: *The `casus belli` mechanism is a separate tool from the `Identified Hostile Political Entity` mechanism, and the two serve different purposes. `WS` may need to retaliate against a non-`IHPE` entity for violation of `casus belli`, and `WS` may need to take subversive action against an `IHPE` even if it has not violated a `casus belli`; although `WS` should ideally be diligent in defining `red line` casus belli to ensure that the reasons for all escalations are as transparent as possible.*
 
 A `WS` polity shall declare and openly publish the exact assets (including diplomatic personnel, etc) which it considers to be `casus belli`, as well as an optional minimum response which any aggressor can expect to face. No maximum response shall be published: `WS` reserves the right to escalate its responses to any extent it deems necessary to preserve the private property of its residents. Should any actor encroach on a `casus belli`, a warning *may* be issued, but `WS` is under no obligation to issue a warning before retaliating - indeed, the casus belli list is itself a warning. Actors seeking to avoid conflict with `WS` should take care to engage the appropriate diplomatic channels before interacting with a casus belli.
 
@@ -36,13 +36,13 @@ In cases where a `casus belli` is an asset in a foreign polity:
 
 ### Identified Hostile Political Entities:
 
-*The `Identified Hostile Political Entities` mechanism is a separate tool from the `casus belli` mechanism, and the two serve different purposes. `WS` may need to retaliate against a non-`IHPE` entity for violation of `casus belli`, and `WS` may need to take subversive action against an `IHPE` even if it has not violated a `casus belli`; although `WS` should ideally be diligent in defining `red line` casus belli to ensure that the reasons for all escalations are as transparent as possible.*
+> [Apologia]: *The `Identified Hostile Political Entities` mechanism is a separate tool from the `casus belli` mechanism, and the two serve different purposes. `WS` may need to retaliate against a non-`IHPE` entity for violation of `casus belli`, and `WS` may need to take subversive action against an `IHPE` even if it has not violated a `casus belli`; although `WS` should ideally be diligent in defining `red line` casus belli to ensure that the reasons for all escalations are as transparent as possible.*
 
-The legislature shall define a processes both for nominating and declaring foreign or domestic political entities as Identified Hostile Political Entities. No political entity which adheres the following core points of political organization **in practice (not merely on paper)** may be nominated as an `IHPE`:
+The legislature shall define a processes both for nominating and declaring foreign or domestic political entities as Identified Hostile Political Entities. No political entity which adheres the **all** of the following core points of policy **in practice (not merely on paper)** may be nominated as an `IHPE`:
 - Private property law.
 - Military isolationism.
 
-Additionally, merely existing as a political entity which does not conform to these **in practice (not merely on paper)** does not suffice for being nominated and/or declared an `IHPE`. Such a political entity must specifically pose either a distant, or a clear and present threat to the persons and private property of `WS` residents.
+Additionally, merely existing as a political entity which does not conform to these **in practice (not merely on paper)** does not suffice for being nominated and/or declared an `IHPE`. Such a political entity must specifically pose either a distant, or a clear and present threat to the persons and private property of `WS` residents. `WS` residents should be vigilant in ensuring that this list of core criteria changed only after very well reasoned deliberation.
 
 ## War supply routes and logistics
 
