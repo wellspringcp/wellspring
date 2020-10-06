@@ -61,7 +61,7 @@ The military is likely to depend on supply lines which may need to cover assets 
     - It shall not be leveraged as a mechanism or foothold for aggrandizement or annexation. `WS` already provides a transparent and peaceful mechanism for natures expansion.
     - It shall not be leveraged as a mechanism or foothold for influencing the politics of the other polity. `WS`'s government exists solely as an instrument for the protection of the private property of its residents and `WS`'s government itself has no goals.
     - If any politician is found guilty of tabling a bill which would pursue any of these disallowed goals, s/he shall become an outlaw after 4 hours. Foreign polities may, with advance warning through diplomatic channels, deploy agents within `WS`'s jurisdiction to anticipate the moment of the effectuation of such a politician's outlawing.
-    - These restrictions on exerting subversive influence on neutral and friendly polities shall not be construed to limit `WS` discretion in exerting subversive influence against identified political threats to the persons and private property of `WS`'s residents.
+    - These restrictions on exerting subversive influence on neutral and friendly polities shall not be construed to limit `WS` discretion in exerting subversive influence against `IHPE`s.
 
 > [Apologia]: It is not unreasonable to ask that the military be vigilant and plan ahead for war and that it be aware of which other nations pose either distant, or clear and present threats to the persons and property of `WS`'s residents; so the contracts needed to protect procurement of such assets should be able to be well known in advance. Furthermore, the military branch has no budget limit, so it shouldn't be hard for them.
 
