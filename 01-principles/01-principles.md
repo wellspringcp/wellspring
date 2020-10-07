@@ -53,7 +53,7 @@ The sovereignty of the individual may only be breached in the pursuit of:
 - Finally in order to resolve information asymmetries and discourage fraud, laws which force the publication of component ingredients in a product or service (but not the method thereof) are a permissible exception to individual sovereignty.
 - The preparedness of the nation for war, as outlined in `SovWI` law.
 
-No other exceptions shall be recognized by this Constitution, including for example, natural disasters, non-communicable disease and climate change. Environmental protection mechanisms are specified elsewhere in this constitution.
+No other exceptions to the sacrosanctness of the sovereignty of the individual over his/her private property shall be recognized by this Constitution, including causes like for example, natural disasters, non-communicable disease and climate change. Environmental protection mechanisms are specified elsewhere in this constitution.
 
 ### Rights protected by `WS`
 
