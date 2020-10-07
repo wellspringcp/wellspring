@@ -71,15 +71,13 @@ The `Paramart` law governs people who are members of the military. In particular
 
 Any damages caused by an individual acting under `Paramart` law incur liability on the military branch and not that individual. However, pursuant to a common law judgment in favour of the plaintiff in a proceeding against the military branch, the military is free to punish the individual after conducting a `Paramart` law trial. `Paramart` law trials shall proceed according to the common law process, but with the `Paramart` law statutes and not the statutes of the non-military legislation.
 
+`ParaMart` law is free to define causes of action for things that do not violate private property (i.e, no corpus delicit) - such as disrespecting a senior officer, etc. All interrogation techniques and other controversial military issues shall be clearly legislated under `paramart` law. `ParaMart` law shall be fully published.
+
 The police force operates under the common law and not under the `Paramart` law.
 
 > [Apologia]: For example, if a soldier is ordered to secure a perimeter and in doing so he must vacate a business, and subdue and forcibly remove a pregnant woman who is being an obstacle, the suit will proceed against the military branch. The military branch will pay all compensation.
 
 > [Apologia]: Internally the military branch is free to acquit the soldier if martial law allowed him to act in that manner. Or the military is free to charge him and conduct a martial law trial.
-
-`ParaMart` law may prescribe punishments such as flogging, death and other punishments which are anathema to the common law. `ParaMart` law is free to define offenses for things that do not violate private property - such as disrespecting a senior officer, etc. `ParaMart` law is the law that the military is governed by.
-
-All interrogation techniques and other controversial military issues shall be clearly legislated under martial law. `ParaMart` law shall be fully published.
 
 ## Peaceful expansion
 
