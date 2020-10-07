@@ -4,7 +4,7 @@
 
 > [Apologia] NB: this section's naming is deliberate. Only war related information may be made secret.
 
-All information deemed to be a war secret shall accompanying justification and shall clearly state under what conditions it shall no longer be in need of secrecy.
+All information deemed to be a war secret shall have an accompanying justification and shall clearly state under what conditions it shall no longer be in need of secrecy.
 
 No information shall be deemed classified upon a condition of the passing of time (e.g.: "99 years must pass" is invalid). Temporal conditions upon war secrets shall be null and void. Every condition shall clearly state a constraint which points to a specific, measurable, trackable reason for secrecy.
 
