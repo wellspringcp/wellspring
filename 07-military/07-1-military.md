@@ -42,7 +42,7 @@ The legislature shall define processes both for nominating and declaring foreign
 - Private property law.
 - Military isolationism.
 
-Additionally, merely existing as a political entity which does not conform to these **in practice (not merely on paper)** does not suffice for being nominated and/or declared an `IHPE`. Such a political entity must specifically pose either a distant, or a clear and present threat to the persons and private property of `WS` residents. `WS` residents should be vigilant in ensuring that this list of core criteria changed only after very well reasoned deliberation.
+Additionally, merely existing as a political entity which does not conform to these **in practice (not merely on paper)** does not suffice for being nominated and/or declared an `IHPE`. Such a political entity must specifically pose either a distant, or a clear and present threat to the persons and private property of `WS` residents. `WS` residents should be vigilant in ensuring that this list of core criteria is changed only after very well reasoned deliberation.
 
 ## War supply routes and logistics
 
