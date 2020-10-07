@@ -55,7 +55,7 @@ The military is likely to depend on supply lines which may need to cover product
 1. Maintain stockpiles of those assets which are required for defense of the polity, as well as counter attack and second strike.
 2. Maintain contracts and legal instruments with foreign polities whose exercise consists of the right to establish military forts/presence in their territory for the purpose of protecting supply lines and manufacturing interests leading up to and during, wartime.
   - These may be structured as "insurance/subcription" payment plans for example, with regular payments of premiums, or some other peaceful agreement for mutual benefit.
-  - What such agreements really represent under the hood though, are a right to invade and secure security interests in those foreign polities. For this reason, such contracts should clearly define the assets and people/companies which are designated for protection in the contract.
+  - What such agreements really represent under the hood though, is a right to invade and secure security interests in those foreign polities. For this reason, such contracts should clearly define the assets and people/companies which are designated for protection in the contract.
   - Such contracts may need to include terms to establish military presence near or in such polities during peacetime to ensure that if the need arises and `WS` needs to exercise its claim (due to breach of contract), `WS` can act quickly and decisively to establish control over said assets.
   - If such a peacetime presence contract is ever established:
     - It shall not be leveraged as a mechanism or foothold for aggrandizement or annexation. `WS` already provides a transparent and peaceful mechanism for natures expansion.
