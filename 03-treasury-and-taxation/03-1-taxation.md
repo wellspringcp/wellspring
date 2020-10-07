@@ -12,7 +12,7 @@ In addition, as explicit prohibitions for the sake of completeness:
 - No taxes shall be levied on wealth instead of income.
   - Any politician found guilty of introducing a bill to pursue a tax on wealth shall become an outlaw after 2 hours.
 - No taxes shall be levied on abstract entities such as "corporations", etc.
-  - This shall not be construed to prevent the legislature from creating and governing such fictional legal entities as "corporations".
+  - This shall not be construed to prevent the legislature from creating and governing such fictional legal entities as "corporations"; they simply cannot be taxed: only individuals may be taxed.
 
 #### Evasion:
 
@@ -23,7 +23,7 @@ Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, 
 
 ### Upper limit on taxation
 
-No landlord shall be taxed more heavily than at 10% of the income generated per unit of his natureses. All taxation exceeding this shall be **unenforceable**.
+No landlord shall be taxed more heavily than at 10% of the income generated per unit of his natureses. All taxation exceeding this shall be **unenforceable**. There shall be no form of graduated income tax. The tax on all residents shall always be uniform.
 
 ## Incentives via tax discounts
 
