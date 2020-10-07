@@ -79,7 +79,7 @@ The defense, "forceful resistance of the unenforceable", even to lethality, shal
 
 The rule of law (i.e., "Republicanism") is that form of government which equally subjects **all** conagents to a publicly published body of law (constitution + legislation) which all conagents can read and make preparations to govern themselves by. It differs from other forms of government in that every other form of government is rule by whim - whether rule by whim of a single individual or rule by whim of a group or collection of groups.
 
-`WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). `WS` establishes a republic are ruled by a publicly published document and not by arbitrary whim. All conagents are equally subject to the same document, which can be read, understood and **predicted** by all, and which applies equally to all and most importantly, which resists **impulsive** changes.
+`WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). `WS` establishes a republic are ruled by a publicly published document and not by arbitrary whim. All conagents are equally subject to the same document, which can be read, understood and **predicted** by all, and which applies equally to all and most importantly, which resists **impulsive** changes and protects minorities against the tyranny of majorities by intentionally engaging rival interests in political gridlock (i.e, the separation of powers).
 
 ## A word on "Equality"
 
