@@ -10,7 +10,7 @@ Common law attempts to grant the common man a veto over the government's power b
 - It is a jury of common men who reason over the facts and the law. Recall that in a court of record, the magistrate is **not** a judge and does **not** have the power of tribunal, and is merely a staff of the plaintiff's court, so the government's power over the proceeding is curtailed severely.
 - The jury's own powers of reasoning determine the judgment, and not the preferences of the government's supplied magistrate who, within modern common law jurisdictions, generally usurps power to act as a judge within a court of record where he should only be a magistrate.
 
-## What went wrong with common law?
+## What should a court process strive to be?
 
 Common law did well to adopt Aristotle's epistemology and acknowledge that only reason based on the evidence of the senses and introspection could validly arrive at objective conclusions. It was due to this recognition that the common law constrained the criteria for valid evidence and witness testimony to that which could be directly testified to by the senses and introspection; and the jury was to serve as the independent, unbiased, reasoning mind that took in the facts in evidence and reasoned itself to the verdict.
 
