@@ -8,7 +8,7 @@ Traditionally speaking, we tend to think that common law is a process which atte
 
 Common law attempts to grant the common man a veto over the government's power both in the sense that:
 - It is a jury of common men who reason over the facts and the law. Recall that in a court of record, the magistrate is **not** a judge and does **not** have the power of tribunal, and is merely a staff of the plaintiff's court, so the government's power over the proceeding is curtailed severely.
-- The jury's own powers of reasoning determine the judgment, and not the preferences of the government's judge, usurping power to act as a judge within a court of record where he should be only a magistrate.
+- The jury's own powers of reasoning determine the judgment, and not the preferences of the government's supplied magistrate who, within modern common law jurisdictions, generally usurps power to act as a judge within a court of record where he should only be a magistrate.
 
 ## What went wrong with common law?
 
