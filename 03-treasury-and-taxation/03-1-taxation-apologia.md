@@ -18,7 +18,7 @@ As a caution to residents of `WS` polities, cince taxation cannot be avoided or 
 
 ### Upper limit on taxation:
 
-This number, 10%, can obviously be changed by constitutional amendment, obviously - but only by that means. This number is by no means a divine mandate and should not be considered to be sacrosanct. It was chosen because the Hebrew god takes a 10% share of income, and I don't see any reason why government should take a greater cut than what god himself deems sufficient.
+This number, 10%, can obviously be changed by constitutional amendment, obviously - but only by that means. This number is by no means a divine mandate and should not be considered to be sacrosanct. To clarify for politicians' benefit: this number is also not an aspirational target. It was chosen because the Hebrew god takes a 10% share of income, and I don't see any reason why government should take a greater cut than what god himself deems sufficient.
 
 ## Incentives via tax discounts:
 
