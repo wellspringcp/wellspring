@@ -22,7 +22,7 @@ This number, 10%, can obviously be changed by constitutional amendment, obviousl
 
 ## Incentives via tax discounts:
 
-In order to claim the tax discounts here discussed, companies should have as close as possible to a single, unambiguous purpose. It is perfectly fine for businesses to spin out sub-companies which specialize in one or more of these tax discounted areas. If a business' purpose is ambiguous, the income streams it give out will be taxed againt the highest of its tax classifications so as to preclude companies from claiming the tax discounts for merely auxiliary functions.
+In order to claim the tax discounts herein discussed, individuals should have their income streams have, as much as possible, a single, unambiguous purpose. It is perfectly fine for a business to pay its employees in separate income streams, each falling under different categories. It is perfectly fine for businesses to spin out sub-companies which specialize in one or more of these tax discounted areas. If a business' purpose is ambiguous, the income streams it give out will be taxed againt the highest of its tax classifications so as to preclude companies from claiming the tax discounts for merely auxiliary functions.
 
 These tax incentives are meant to give preferential profit outcomes to certain species of enterprise in order to ensure their relative abundance and thereby overtune their supply so as to err on the side of caution. These preferred industries (they are not preferred in moral terms but in expediency terms as well as for polemics) will have a greater chance to sustain profitability due to their preferential tax status.
 
