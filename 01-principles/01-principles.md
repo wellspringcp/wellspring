@@ -81,27 +81,31 @@ The defense, "forceful resistance of the unenforceable", even to lethality, shal
 
 The rule of law (i.e., "Republicanism") is that form of government which equally subjects **all** conagents to a publicly published body of law (constitution + legislation) which all conagents can read, understand and make preparations to govern **themselves** by. It differs from other forms of government in that every other form of government is rule by whim - whether rule by whim of a single individual or rule by whim of a group or collection of groups.
 
-`WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). `WS` establishes a republic where conagents are ruled by a publicly published document and not by arbitrary whim. The separation of powers in a Republic pits contending interests against one another in an intentional gridlock to ensure that any legislative changes which **do** get past the gridlock are those with extremely broad consensus. A republic's constitution applies equally to all and most importantly, resists **impulsive** changes and protects minorities against the tyranny of majorities (aka, "Democracy") by identifying rival minority and majority interests and giving them representation in government, so as to maximize intentional political gridlock using the separation of powers.
+`WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). `WS` establishes a republic where conagents are ruled by a publicly published document and not by arbitrary whim. The separation of powers in a Republic pits contending interests against one another in an intentional gridlock to ensure that any legislative changes which **do** get past the gridlock are those with extremely broad consensus. A republic's constitution applies equally to all and most importantly, resists **impulsive** changes and protects minorities against the tyranny of majorities (i.e, "Democracy") by identifying rival minority and majority interests and giving them representation in government, so as to maximize intentional political gridlock using the separation of powers.
 
 ## A word on "Equality"
 
-`WS` would like to make it clear and unambiguous that it the **only** form of equality which it values is equality of the application of laws (i.e., "Rule of Law", or "Republicanism"). `WS` explicitly does **not** value equality of opportunity or equality of outcome as legislative goals. This is not to in any way disparage efforts to create equality of opportunity or equality of outcome pursued in the **private sector** via private mechanisms. The Gov't however shall not pursue equality of opportunity or outcome through law. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents.
+Without any repentance, be it clear and unambiguous that it the **only** form of equality which `WS` values is equality of the **applicability of laws** (i.e., "Rule of Law", or "Republicanism"). `WS` explicitly does **not** value equality of *opportunity* or equality of *outcome* as legislative goals.
 
-The government may however, pursue the equality of opportunity in **only** one area: access to the court system. Government may provide mechanisms to ensure that private property enforcement is as easily accessible to the poor as to the rich. When an indepagent suffers a private property violation, the financial costs should not be a limiting factor in whether or not they pursue redress in court.
+This is not intended in any way to disparage **private sector** efforts to create equality of opportunity or equality of outcome within the **private sector** via private sector mechanisms. The gov't notwithstanding **shall** pursue equality of the enforcement of the laws on **all** conagents. Government shall not pursue equality of opportunity or outcome in any area through law, bye-law or any form of policy.
+
+The government may however, pursue equality of opportunity in **only** one area: government may provide mechanisms and redistributive programs to ensure that private property enforcement through the courts is as easily accessible to the poor as to the rich. When an indepagent suffers a private property violation, the financial costs should not be a limiting factor in whether or not they decide pursue redress in court.
 
 Any politician introducing a bill which would seek to pursue either of the following:
-- Equality of outcome
 - Equality of opportunity (outside of equality of access to the courts).
+- Equality of outcome.
 
 ...Shall become an outlaw after 1 hour upon being judged so to have done.
 
 ## Role of Government
 
-Government is a corporation which provides internal policy, external defense and an externality auction market service, Courts/Franchisee Courts, a standing army/navy/airforce, intelligence, diplomacy, Contagion and Biohazard Management (CBio), a service exchange auction and incentives for certain categories of insurance and products (using tax reductions only).
- 
-Branches of govt: Diplomatic, Defense, Judicial, Informative and Legislative. There is no executive. Only the military and CBio branches as well as the "Right to leave" program, shall have the power to deficit spend. Deficit spending by any other branch shall be directly funded by its employees.
+`WS` Government is a corporation which monopolizes the legitimate use of force within its jurisdiction in order to guarantee an undisputed monopoly to the private property law through its courts. Government shall have the power to pass laws which preserve the undisputed monopoly position of its courts.
 
-No regulatory committee (not even supposedly "independent" ones) shall be established by govt or given power to create or change law or bye-law.
+The `WS` government provides and law enforcement personnel (i.e, "police"), external defense via a standing army/navy/airforce (i.e, "military"); an `Externality Exchange Auction` market service; Courts/Franchisee Courts; intelligence and diplomacy; Contagion and Biohazard Management (`SovCBio`); and incentives for certain categories of insurance and products (using tax reductions only).
+ 
+Branches of govt: Diplomatic, Military, Judicial, Informative, CBio, and Legislative. There is no executive. Only the military and CBio branches shall have the power to deficit spend. The Diplomatic branch shall have the power to deficit spend **only** for the effectuation of the "Right to Leave" program. Deficit spending by any other branch shall be directly funded by its employees. Deficit spending by the Diplomatic branch on any program other than the "Right to Leave" program shall be directly funded by its employees.
+
+No regulatory committee or administrative agency (not even supposedly "independent" ones) shall be established by govt or given power to create or change law or bye-law.
 
 ## Courts
 
