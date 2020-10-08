@@ -7,7 +7,7 @@ Eligibility to vote is not linked to citizenship. Citizenship is a different mec
 Eligibility to vote is purpose-specific. Indepagents may be eligible to vote for one thing while being ineligible to vote for another.
 
 Eligibility to vote is based on:
-1. Being fully paid up on taxes.
+1. Being fully paid up on taxes (i.e, no outstanding balance).
 2. Having been a taxpayer for some specified fraction of the previous term of the office or decision being voted on.
 
 The government shall provide receipts for taxes upon request. The government may use its records of taxation to validate eligibility.
