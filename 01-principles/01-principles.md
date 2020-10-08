@@ -42,7 +42,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
 
 Rights are capabilities and nothing more. A "right" is an undertaking which an indepagent is capable of performing on its own, if left unimpeded. That is, a right is something which an indepagent can perform "by right" of its own nature/design. A right is **not** a claim on the capabilities, mind/consciouness or labour of **another** indepagent.
 
-Rights and private property law go hand in hand; rights are capabilities, and private property law ensures that no indepagent's capabilities are used to injur another indepagent's ability to exercise their rights.
+Rights and private property law go hand in hand; rights are capabilities, and private property law ensures non-interference: to wit, that no indepagent's capabilities are used to injur or impede another indepagent's ability to exercise its rights. Individual rights precede law. Law preserves individual rights.
 
 ### Definition of Private Property
 
