@@ -4,11 +4,13 @@
 
 This constitution is a broad template of sorts which is meant to be adapted and adopted by a new era of nations. Its name is `Wellspring` -- it aims to be a wellspring from which oases of reason, reality and individualism will flourish in a world of coercion and collectivism.
 
-Wellspring, hereafter "`WS`", exists to improve upon the mistakes of the forerunner American republic and form a more perfect union. `WS` is intended to establish a free market, minarchist, constitutional republic (i.e., emphatically **not** a democracy) with a strong bias against wealth redistribution. Where unclear, the text is to be interpreted to favour as little redistribution as possible, preferring always none if that is an option.
+Wellspring, hereafter "`WS`", exists to improve upon the mistakes of the forerunner American republic and form a more perfect union. `WS` is intended to establish a free market, minarchist, constitutional republic (i.e., emphatically **not** a democracy) with a strong bias against wealth redistribution.
 
 ## Interpretation
 
 `WS` shall always be interpreted in an originalist fashion consistent with the doctrine of `Antonin Scalia` (1936-2016). In order to assist with its interpretation, each file also includes an Apologia to explain what the text was understood to mean to its framers and the surrounding zeitgeist at the time of its adoption.
+
+Where unclear, the text is to be interpreted to favour as wealth little redistribution as possible, preferring always none if that is an option. 
 
 ## Symbols, celebrations and rituals.
 
