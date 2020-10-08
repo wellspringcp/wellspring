@@ -29,13 +29,13 @@ These tax incentives are meant to give preferential profit outcomes to certain s
 Below are listed the reasons for each category of tax discount:
 
 - Heavy tax discount on certain insurers:
-  - Private security firms and investigators: We want to ensure that where the government's police service is not meeting the security needs of population segments, those segmnets can meet their needs through private means. In particular, where government investigative services are not acting as a sufficient deterrent from crime, private investigators are not too expensive to purchase.
+  - Private security firms and investigators: We want to ensure that where the government's police service is not meeting the security needs of population segments, those segments can meet their needs through private means. In particular, where government investigative services are not acting as a sufficient deterrent from crime, private investigators should not be too expensive to purchase.
   - Legal aid: It should not be difficult for indepagents to avail themselves of the courts. Ideally, it should be a smooth process.
   - Pension funds and healthcare insurance: There should be an abundance of options for pensions and healthcare insurance so as to give indepagents little excuse for not contributing to pension funds and health insurance programs to care for their future.
   - Bank depositor insurance: This should ensure that the private sector provides sufficient insurance against bank runs, so as to keep the banking system stable, and ensure that big banks can be left to go bankrupt when they are irresponsible. Let the depositors be insured, and let the bank fall.
 
 - Medium tax discount on addictive substance assistance and waste management services:
-  - In a polity where addictive substances are not illegal, we should incentivize an abundant supply of professionals and services for assisting the addicted with their addiction and moreover, with the circumstances that pushed them into addiction.
+  - In a polity where addictive substances are not illegal, we should incentivize an abundant supply of professional services (therapy, etc) for assisting the addicted with their addiction and moreover, with the circumstances that pushed them into addiction.
   - To ensure that it is cheap for Homeowner Associations, gated communities, individuals and families and so on to pay for waste management services, we incentivize their abundance. In addition, we incentivize sorting and resale services which re-sell materials to factories/industries for re-use and vertical re-integration.
 
 - Light tax discount on schooling and education:
