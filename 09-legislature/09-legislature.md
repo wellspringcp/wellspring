@@ -16,6 +16,6 @@ The `WS` constitution already cements private property as the law of the polity.
 
 ### Addressing an issue
 
-#### Technical consultation before legislation.
+#### Technical consultation before legislation [Experimental, tenuous].
 
 #### Legislative process.
