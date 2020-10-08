@@ -36,7 +36,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
   - *Penultimate day*: Reason Grasps Reality (`ReGRe`) day.
   - *Final day*: Existence is Identity and Consciousness is Identification (`EIConI`) day.
 
-## Rights
+## Theory of rights and law:
 
 ### Definition of Rights
 
