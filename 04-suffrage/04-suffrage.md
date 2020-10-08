@@ -20,12 +20,6 @@ Only indepagents may vote. Corpagents shall not be able to cast votes.
 
 An indepagent shall be eligible to vote for a particular termed office if they have fully paid taxes on their income over at least 75% of the duration of the previous term of that office. The stints of earning need not be contiguous.
 
-[Move this example into the apologia]
-- E.g., to qualify to vote for a 4-year termed office, one must have made tax payments on income covering at least 3 out of the last 4 years.
-
 ### Constitutional amendments
 
-An indepagent shall be eligible to vote on a constitutional amendment if they have fully paid taxes on their income over at least 10 out of the last 30 years; the stints of earning need not be contiguous.
-
-[Give examples in the apologia]
-
+An indepagent shall be eligible to vote on a constitutional amendment if they have fully paid taxes on their income over at least 15 out of the last 25 years; the stints of earning need not be contiguous.
