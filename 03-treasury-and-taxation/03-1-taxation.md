@@ -25,7 +25,7 @@ Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, 
 
 ### Upper limit on taxation
 
-No landlord shall be taxed more heavily than at 10% of the income generated per unit of his natureses. All taxation exceeding this shall be **unenforceable**. There shall be no form of graduated income tax. The tax on all residents shall always be uniform.
+No individual shall be taxed more heavily than at 10% of the income generated per income stream. All taxation exceeding this shall be **unenforceable**. There shall be no form of graduated income tax. The tax on all residents shall always be uniform.
 
 ## Incentives via tax discounts
 
