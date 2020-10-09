@@ -29,12 +29,18 @@ No individual shall be taxed more heavily than at 10% of the income generated pe
 
 ## Incentives via tax discounts
 
+### Rules for claiming these discounts:
+
 If any indepagent wishes to claim the tax discounts outlined in this section on any of its income streams:
-- The tax authority shall have the power to audit the corporation (with the consent of the corporation's owners) which is the source of the income stream, to determine whether or not they fall under the umbrella of the category they wish to claim.
-- A request for an audit of the corporation shall be made to determine its classification for tax purposes, if such a claim is made.
-  - The audit shall not be authorized unless the owner(s) of the corporation consent to be audited.
-  - If the audit is not consented to by the corporation, the claim shall be denied.
-- Ambiguously purposed income streams shall be deemed to be allocated toward the more heavily taxed purpose, or shall yield no discount if sufficiently ambiguous as to make it unclear that the income stream is primarily purposed toward that discount category.
+- The tax authority shall have the power to audit the activities which form the source of the income stream, to determine whether or not they fall under the umbrella of the category being claimed.
+- Where those activities which need to be audited are performed under the umbrella of a fictagent such as a corpagent:
+  - The government shall request permission to audit from the fictagent to determine its classification for tax purposes.
+  - The audit shall not be authorized unless the owner(s) of the fictagent consent to be audited.
+  - If the audit is not consented to by the fictagent, the claim for the tax discount shall be denied to the claimant.
+
+Ambiguously purposed income streams shall be deemed to be classified under their most heavily taxed purpose, or shall yield no tax discount at all if ambiguous enough to make it unclear that the income stream is primarily purposed toward any particular category of enterprise.
+
+### Discounted activities:
 
 There shall be a "heavy" tax discount on all income streams from the provision of **insurance** for services in private security and investigation, legal aid, healthcare, bank depositors, pension funds and legal aid to ensure that such insurers have a preferential profit position in the market. Note that this is for the **insurers** for those products/services; not the producers of those products/services.
 
