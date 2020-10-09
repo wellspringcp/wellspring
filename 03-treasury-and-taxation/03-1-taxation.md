@@ -52,4 +52,4 @@ There shall be a "negligible" tax discount on all income streams from a non-prof
 
 ## No deceptive illusions.
 
-Government employees shall be paid directly what the net sum of their salary is and their salary streams from the government shall not be subjected to taxation after they receive it. There shall be NO abstract deception created by the government to make it seem as if government employees pay taxes on their government salary streams. Gov't employees are tax **receivers** and not tax payers. They are employees of the people and in **no way** shall things **ever** be misconstrued to appear as if they are not.
+Government employees shall be paid directly what the net sum of their income is and their income streams from the government shall not be subjected to taxation after they receive it. There shall be NO abstract deception created by the government to make it seem as if government employees pay taxes on their government income streams. Gov't employees are tax **receivers** and not tax payers. They are employees of the people and in **no way** shall things **ever** be misconstrued to appear as if they are not.
