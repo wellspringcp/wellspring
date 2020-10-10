@@ -19,6 +19,8 @@ Sovereign infrastructure shall be planned carefully before title to any natures 
 
 Where an asset necessary for war readiness is already possessed by a legal person, the reimbursement rate for eminent domain shall be 120% market value, as valued by the Externality Auction. Congress shall pass no laws making it a crime for private entities to speculatively purchase natureses expecting them to be security assets in the future. That said, in order to ensure that procurements do not become a mechanism for paralyzing the military, the auction service price standard may be capped within the price range of a natures of similar value and need not be the price that the specific natures in question lists for.
 
+Eminent domain may only be used by the military branch and is explicitly not available to any other branch of government.
+
 ## Wartime interruption of service
 
 All sovereign infrastructure which is rented out to the public (such as roads and rail, or communications) shall have a clearly defined revocation clause explaining that in the event of war, such infrastructure may become unavailable for public use indefinitely, even for paying private customers. The government shall make all reasonable attempts however, to avoid having to invoke this clause by anticipating its service-level requirements for war during peacetime and specifying them to the contract awardees so that in the event of war, there will be scant need for this clause. 
