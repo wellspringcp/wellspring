@@ -22,7 +22,7 @@ These projects are *NOT* to be undertaken for any reason other than war readines
 - Aesthetic, cultural and historical landmarks.
 - City planning or other broader, more general infrastructure policy.
 
-Sovereign infrastructure shall be planned carefully before title to any natures is sold by the government. In any natures title sale, the military shall have preferential procurement priority and privilege, pending justification as a national security asset, according with the published security and war readiness reports. In effect, the military shall have limited veto powers in infrastructure planning to ensure the war readiness of the military, ***subject to justification*** under the published war readiness plan.
+Sovereign infrastructure shall be planned carefully before title to any natures is sold by the government. In any natures title sale, the military shall have preferential procurement priority and privilege, pending justification as a national security asset, according with the published security and war readiness reports. In effect, the military shall have limited veto powers in infrastructure planning to ensure the war readiness of the military, ***subject to justification under*** the published war readiness plan.
 
 ## Eminent domain
 
