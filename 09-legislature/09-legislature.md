@@ -2,17 +2,19 @@
 
 ## The purpose of legislation:
 
-### Laws
+### Privala bills
+
+The category under which most legislation will fall is the Private Property Law bill (hereafter, `Privala bill`). 
 
 The `WS` constitution already cements private property as the law of the polity. The purpose of laws passed by the legislature is merely make it clear to the polity how private property law (as defined in the "Principles" of this constitution) applies to particular actions, scenarios and innovations and thereby to extend private property's coverage to new phenomena. The goal of legislation is not to "create opportunity" or pursue "equality" or to "regulate".
 
-A bill must pass the Legislative Process in order to enter the body of adopted law.
+A privala bill must pass the Legislative Process in order to enter the body of adopted law.
 
-### Advisory standards
+### Advisory standards bills
 
 > [Experimental]
 
-A separate category of legislation, known as "Advisory Standards", exists to enable the legislature to recommend normative codes of behaviour to be ***optionally*** adopted by the private sector as policy for the management of externality-fraught enterprises and enterprises which are difficult to co-ordinate. Advisory Standard Bills must go through the same Legislative Process as ordinary bills in order to enter the body of Adopted Advisory Standards.
+A separate category of legislation, known as "Advisory Standards", exists to enable the legislature to recommend normative codes of behaviour to be ***optionally*** adopted by the private sector as policy for the management of externality-fraught enterprises and enterprises which are difficult to co-ordinate. Advisory Standard Bills must go through the same Legislative Process as `Privala` bills in order to enter the body of Adopted Advisory Standards.
 
 ## The legislative process: Incentivizing individualist legislation
 
@@ -40,7 +42,7 @@ When a new law is to be crafted to address some issue, the `issue` must be one t
 
 Logically distinct `issues` must be defined and nominated separately. `Issues` must be well defined in scope, and must clearly define the exact private property or co-ordination problem they describe. Congress may not proceed until the `issue` itself is clearly defined.
 
-It is intentional that the very question of whether or not the subject of the nominated `issue` is even a problem at all, will be central to the debate. A subject may look as if it is a problem, but upon closer examination show itself to be a non-issue, which is already addressed by some existing law or private sector mechanism.
+It is intentional that the question of whether or not the subject of the nominated `issue` even constitutes a problem, will be central to the debate. A subject may look as if it is a problem, but upon closer examination show itself to be a non-issue, which is already addressed by some existing law or private sector mechanism.
 
 #### Technical consultation during nomination.
 
