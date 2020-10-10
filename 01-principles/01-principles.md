@@ -46,7 +46,7 @@ Rights and private property law go hand in hand; rights are capabilities, and pr
 
 ### Definition of Private Property
 
-Private Property law is that set of restrictions which stem from the recognition of the sovereignty of every indepagent over its own self (both consciousness and "body") and the produce of its labour (both cognitive and physical). In order to protect the sovereignty of indepagents, private property law secures each indepagent against interference in the forms of **force**, **duress** and **fraud**. Any claim by any indepagent to ownership of another indepagent shall be null and void in a Utopian court.
+Private Property law is that set of restrictions which stem from the recognition of the sovereignty of every indepagent over its own self (both consciousness and "body") and the produce of its labour (both cognitive and physical). In order to protect the sovereignty of indepagents, private property law secures each indepagent against interference in the forms of **force**, **duress** and **fraud**. Any claim by any indepagent to ownership of another indepagent shall be null and void in a `WS` court.
 
 The private property of the individual may only be breached in the pursuit of the following exceptions:
 
@@ -67,13 +67,14 @@ The right to:
 3. Contract/trade freely. The exceptions to this right are those outlined in the Contract Law. 
 4. Act/labour/move freely. The exception is where action violates others' private property as defined by this Constitution. This right may be abridged in respect of the exceptions outlined in this constitution's definition of private property, but only in as much as is necessary to achieve such ends and no further.
 
-No other right is recognized before a Utopian court.
+No other right is recognized before a `WS` court.
 
 > [Experimental] Laws which force other persons' labour shall be unenforceable. E.g, laws to force a medical/insurance worker to labour for others (I.e, no right to healthcare). This shall not be construed to invalidate equitable legal remedies.
 
 ### Those things declared "unenforceable" by `WS`
 
-The defense, "forceful resistance of the unenforceable", even to lethality, shall form a perfect defense in every Utopian court where the injury is inflicted against one attempting to enforce a thing deemed "unenforceable" by this constitution.
+The defense, "forceful resistance of the unenforceable", even to lethality, shall form a perfect defense in every 
+n court where the injury is inflicted against one attempting to enforce a thing deemed "unenforceable" by this constitution.
 
 > [Experimental] If in the act of defending an outlaw, a person harms another, the defendant shall have no defense.
 
