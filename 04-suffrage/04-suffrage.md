@@ -14,7 +14,7 @@ The government shall provide receipts for taxes upon request. The government may
 
 ### Agency
 
-Only indepagents may vote. Corpagents shall not be able to cast votes.
+Only indepagents may vote. Fictagents shall not be able to cast votes.
 
 ### Termed offices
 
