@@ -120,7 +120,7 @@ Courts may be franchised to provide greater coverage. All courts without excepti
 
 No information shall be made secret by the government unless it pertains to war, and war secrets shall be kept under the auspices of the War Secrets section of this constitution.
 
-All affairs of government not concerning war secrets shall be open to attendance by the public. Should there be no room to host all those interested in attending, room shall be auctioned off to the highest bidders on the `Externality Auction`. There shall be no public spending on broadcast agencies/business. There shall be no nationalized or government owned or subsidized media agencies. Each branch of government shall arrange to make such seating or other means of attendance as are required, physical or otherwise (digital, etc) available for auction.
+All affairs of government not concerning war secrets shall be open to attendance by the public. If there is insufficient room to host all those interested in attending, all the "seating" shall be auctioned off to the highest bidders on the `Externality Auction`. There shall be no public spending on broadcast agencies/businesses. There shall be no nationalized or government owned or subsidized media agencies. Each branch of government shall arrange to make such "seating" or other means of attendance as are required, physical or otherwise (digital, etc) available for auction.
 
 ## The right to leave
 
