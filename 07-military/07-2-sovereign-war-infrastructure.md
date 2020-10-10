@@ -15,7 +15,7 @@ Under the auspices of `SovWI`, the military branch is the only one authorized to
 
 ### Specific injunctions and scope limitations
 
-These projects are *NOT* to be undertaken for any reason other than war readiness, and if they are permanent installations, they are *only* to cover such works as cannot be quickly erected as needed as war approaches. This may be used as a legal rule of thumb for the courts and the plebiscite. Obviously this will and should bias utopia's military toward agility in preparation for war. A non*-exhaustive* list of things that `SovWI` shall **not** be overloaded for includes:
+These projects are *NOT* to be undertaken for any reason other than war readiness, and if they are permanent installations, they are *only* to cover such works as cannot be quickly erected as needed as war approaches. This may be used as a legal rule of thumb for the courts and the plebiscite. Obviously this will and should bias utopia's military toward agility in preparation for war. A *non-exhaustive* list of things that `SovWI` shall **not** be overloaded for includes:
 
 - Environment protection concerns.
 - Forestry, park and wildlife protection.
