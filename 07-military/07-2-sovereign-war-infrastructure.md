@@ -7,10 +7,6 @@ This section of the `WS` outlines the guiding principles which constrain the ran
 
 `SovWI` policy may be used to erect fortifications, dams, telecomms networks; to reserve flight routes; to build military academies, training grounds, and bases; etc. `SovWI` infrastructure should attempt to be as minimal as possible preferring to procure natureses and rent them out under binding agreements upon the tenant to build the required infrastructure; or if the government must build the infrastructure itself, to provide backbones and not fully built infrastructure.
 
-> [Apologia]: - For example, if a dam must be built, `SovWI` should prefer to reserve and purchase the land and river-course natureses and rent them out, and put out a public tender contract for the construction and maintenance of a dam on those natureses contingent on the condition that the contract awardee will also bind itself to service-level agreement contracts and other legally binding agreements with the government to ensure the dam meets whatever parameter war-readiness requires.
-
-> [Apologia]: - Another example: if a telecommunications bearer backbone network must be constructed, `SovWI` should prefer a similar approach, purchasing the title to the natureses along the distance the network infrastructure will cover, and then renting them out using public tender contracts and binding the awardee to meet the service level constraints required for war-readiness.
-
 Under the auspices of `SovWI`, the military branch is the only one authorized to do broad infrastructure projects. These projects are *NOT* to be undertaken for any reason other than war readiness, and if they are permanent installations, they are *only* to cover such works as cannot be quickly erected as needed as war approaches. This may be used as a legal rule of thumb for the courts and the plebiscite. Obviously this will and should bias utopia's military toward agility in preparation for war. A non*-exhaustive* list of things that `SovWI` shall **not** be overloaded for includes:
 - Environment protection concerns.
 - Forestry, park and wildlife protection.
