@@ -34,6 +34,8 @@ The last few holidays (Exis, ReGRe and EIConI) assert positive philosophical arg
 
 ### Definition of Rights
 
+Notice that it says that rights and private property law go hand in hand. It does not say that rights and "responsibilities" go hand in hand. The individual is only required at his/her own peril to ensure that their activities do not interfere with the exercise of the capabilities of others - this is a negative injunction. The individual is not beholden to any positive obligations to any other individual, except those obligations which s/he takes on voluntarily in contract. The individual is an end unto himself and not the means to any other individual or group's ends.
+
 ### Definition of Private Property
 
 `WS` recognizes and respects the sovereignty of the individual with exceptions applied for contagions/biohazards and war readiness.
