@@ -76,6 +76,8 @@ Explicitly make it clear that `WS` is a Republic and not a Democracy in the body
 
 ### The need for change
 
+> [Incomplete]: Finish this section
+
 In a republic, changes to law may sometimes come rapidly where the values of an overwhelming majority demand those changes; otherwise they come after level headed consideration. In response to the chorus of historical examples (mainly from the USA's constitutional history) purporting to show that the intentionally inflexible nature of Republics denies individual sovereignty to oppressed groups. Allow us to address some of those arguments.
 - Slavery
 :
@@ -134,7 +136,7 @@ The "Equality" foundation cannot serve as a common framework for asserting right
 
 There is no harm in acknowledging that we are not equal. The fabric of our defense of the rights of the individual will not come undone because there is an even **better** foundation for rights waiting for us.
 
-> Find some way to succinctly express life qua life as the standard of value.
+> [Incomplete]: Find some way to succinctly express objectivism's "life qua life as the standard of value" principle.
 
 # The right to leave
 
