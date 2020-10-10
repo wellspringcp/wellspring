@@ -42,7 +42,7 @@ When a new law is to be crafted to address some issue, the `issue` must be one t
 
 Logically distinct `issues` must be defined and nominated separately. `Issues` must be well defined in scope, and must clearly define the exact private property or co-ordination problem they describe. Congress may not proceed until the `issue` itself is clearly defined.
 
-It is intentional that the question of whether or not the subject of the nominated `issue` even constitutes a problem, will be central to the debate. A subject may look as if it is a problem, but upon closer examination show itself to be a non-issue, which is already addressed by some existing law or private sector mechanism.
+It is intentional that the question of whether or not the subject of the nominated `issue` even constitutes a problem, will be central to the debate. A nominated `issue` may appear to be a problem, but upon closer examination show itself to be a non-issue, or it may already be addressed by some existing law or private sector mechanism.
 
 #### Technical consultation during nomination.
 
