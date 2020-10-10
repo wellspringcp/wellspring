@@ -12,9 +12,9 @@ To ensure that it's abundantly clear: the prohibition on taxes on wealth also ap
 
 The difference between the denial of access to the courts for tax evasion and outlawing is that government agents such as police, will continue to protect in an immediate sense, the physical property of the non-taxpayer, but will deny any legal actions set in motion to enforce claims on that person's rights. An outlaw has no recourse to physical protection, unlike the non-taxpayer.
 
-We cannot allow people to opt out of funding the courts and army because this would compromise the monpoly enjoyed by private property law, and without any room for negotiation, private property law shall enjoy an undisputed monopoly in legislation within `WS` polities. At the end of the day, when a conagent enters the jurisdiction of `WS`, it accepts at minimum, without any offer of redress, to be governed by private property law. If it prefers not to accept this, then it is not compelled to come.
+We cannot allow people to opt out of funding the courts and army because this would compromise the monpoly enjoyed by private property law, and without any room for negotiation, private property law must enjoy an undisputed monopoly in legislation within `WS` polities. At the end of the day, when a conagent enters the jurisdiction of `WS`, it accepts at minimum, without any offer of redress, to be governed by private property law. If it prefers not to accept this, then it is not compelled to come.
 
-As a caution to residents of `WS` polities, cince taxation cannot be avoided or made voluntary (beyond the Right to Leave) because private property law must enjoy an unchallenged monopoly, conagents should be wary to carefully control the tax rate and to guard against any attempts by the legislature to expand taxation beyond the individual income tax.
+As a caution to residents of `WS` polities, since taxation cannot be avoided or made voluntary (beyond the Right to Leave) because private property law must enjoy an unchallenged monopoly, conagents should be wary to carefully control the tax rate and to guard against any attempts by the legislature to expand taxation beyond the individual income tax.
 
 ### Upper limit on taxation:
 
