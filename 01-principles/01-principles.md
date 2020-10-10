@@ -100,11 +100,11 @@ Any politician introducing a bill which would seek to pursue either of the follo
 
 ## Role of Government
 
-`WS` Government is a corporation which monopolizes the legitimate use of force within its jurisdiction in order to guarantee an undisputed monopoly to the private property law through its courts. Government shall have the power to pass laws which preserve the undisputed monopoly position of its courts.
+`WS` Government is a corporation which monopolizes the legitimate use of force within its jurisdiction in order to guarantee private property law an undisputed monopoly on policy through its court system. Government shall have the power to pass laws which preserve the undisputed monopoly position of its courts and their jurisdiction over criminal and tort law.
 
-The `WS` government provides and law enforcement personnel (i.e, "police"), external defense via a standing army/navy/airforce (i.e, "military"); an `Externality Exchange Auction` market service; Courts/Franchisee Courts; intelligence and diplomacy; Contagion and Biohazard Management (`SovCBio`); government estate/asset management; and incentives for certain categories of insurance and products (using tax reductions only).
+The `WS` government provides law enforcement personnel and external defense via a standing military; an `Externality Exchange Auction` market service; Courts/Franchisee Courts; intelligence and diplomacy; Contagion and Biohazard Management (`SovCBio`); government estate/asset management; and incentives for certain categories of insurance and products (using tax reductions only).
  
-Branches of govt: Diplomatic, Military, Judicial, Informative, Estate, CBio, and Legislative. There is no executive. Only the Military, Estate and CBio branches shall have the power to deficit spend. The Diplomatic branch shall have the power to deficit spend **only** for the effectuation of the "Right to Leave" program. Deficit spending by any other branch shall be directly funded by its employees. Deficit spending by the Diplomatic branch on any program other than the "Right to Leave" program shall be directly funded by its employees.
+Branches of govt: Diplomatic, Military, Judicial, Informative, Estate, CBio, and Legislative. There is no executive. Only the Military, Estate and CBio branches shall have the power to deficit spend. Deficit spending by any other branch shall be directly funded by its employees.
 
 No regulatory committee or administrative agency (not even supposedly "independent" ones) shall be established by govt or given power to create or change law or bye-law.
 
@@ -124,7 +124,7 @@ All affairs of government not concerning war secrets shall be open to attendance
 
 ## The right to leave
 
-Citizens shall have a valid claim to the "Right to leave" program. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The right to leave program grants:
+Citizens shall have a valid claim to the "Right to leave" program which shall be effectuated by a department under the Estate branch. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The right to leave program grants:
 
 - One way travel to a destination chosen by the applicant.
   - Should the applicant desire to relocate to a different domicile location during the 2 years, no new transportation coverage shall be offered or granted; however the accomodations funds will continue being paid according to the original schedule.
