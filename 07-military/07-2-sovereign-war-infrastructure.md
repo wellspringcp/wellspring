@@ -17,7 +17,7 @@ Sovereign infrastructure shall be planned carefully before title to any natures 
 
 ## Eminent domain
 
-Where an asset necessary for war readiness is already possessed by a legal person, the reimbursement rate for eminent domain shall be 120% market value, as valued by the Externality Auction. Congress shall pass no laws making it a crime for private entities to speculatively purchase natureses expecting them to be security assets in the future. That said, in order to ensure that procurements do not become a mechanism for paralyzing the military, the auction service price standard may be capped within the price range of a natures of similar value and need not be the price that the specific natures in question lists for.
+Where an asset necessary for war readiness is already possessed by a conagent or fictagent, the reimbursement rate for eminent domain shall be 120% market value, as valued by the Externality Auction. Congress shall pass no laws making it a crime for private entities to speculatively purchase natureses expecting them to be security assets in the future. That said, in order to ensure that procurements do not become a mechanism for paralyzing the military, the auction service price standard may be capped within the price range of a natures of similar value and need not be the price that the specific natures in question lists for.
 
 Eminent domain may only be used by the military branch and is explicitly not available to any other branch of government.
 
