@@ -36,7 +36,7 @@ The old block of awardees shall not lose their award. Any awardees who are spons
 
 ### Nominating and possibly Recognizing an issue as requiring legislative attention.
 
-When a new law is to be crafted to address some issue, the `issue` must be one that was recognized through the nomination process. No bill law may be passed into law unless it references an `issue on record`. Bills which do not address an `issue on record` shall be unceremoniously thrown out.
+When a new law is to be crafted to address some issue, the `issue` must be one that was recognized through the nomination process. No bill may be passed into law unless it references an `issue on record`. Bills which do not address an `issue on record` shall be unceremoniously thrown out.
 
 #### Nominating an issue
 
