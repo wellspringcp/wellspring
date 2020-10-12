@@ -13,7 +13,7 @@ Any individual having **facts of evidence** proving currently ongoing activities
 - The activity concerns itself with entities, substances and/or processes whose properties are factually capable of causing harm to a 3rd party.
 - The conagent is undertaking these activities in such a manner as to cause those entities, substances and/or processes to exhibit their capability to cause harm to a 3rd party.
 
-...shall have recourse through the courts to plead for equitable relief for an "Attempted `NAHA`", against said conagent.
+...shall have recourse through the courts to plead for equitable relief against said conagent under the cause, "Attempted`NAHA`".
 
 ### Defense
 
