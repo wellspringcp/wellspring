@@ -1,8 +1,32 @@
-# Wellspring: Non-compensable Harmful Activity (`Non-CHA`)
+# Wellspring: Non-Ameliorable Harmful Activity (`NAHA`)
 
 ## Purpose
 
-This file outlines a mechanism for preventing the advent of irreversible damage to the environment and non-compensable harms to individuals and property, by denying the green light to pursuers of such activities until they prove that they have done any of the following:
+This file outlines a mechanism for preventing the advent of irreversible damage to the environment and non-compensable harms to individuals and property, by supplying a cause of action ("Attempted Non-Ameliorable Harmful Activity", hereafter, "attempted `NAHA`") through the courts which can produce an unjunction against the defendent to halt the Non-Ameliorable Harmful Activity (hereafter, "`NAHA`") until such time that they can prove that they have the means to pursue those activities without incurring harms against 3rd parties that they cannot ameliorate.
+
+## Cause of action: Attempted `NAHA`:
+
+### Liability
+
+Any individual having **facts of evidence** proving currently ongoing activities being undertaken by a conagent which fulfill the following criteria:
+
+- The activity concerns itself with entities, substances and/or processes whose properties are factually capable of causing harm to a 3rd party.
+- The conagent is undertaking these activities in such a manner as to cause those entities, substances and/or processes to exhibit their capability to cause harm to a 3rd party.
+
+...shall have recourse through the courts to plead "Attempted `NAHA`" against said conagent.
+
+### Defense
+
+> [Note]: I don't like this wording -- find out the correct legal wording for specifying a defense against a particular form of action.
+
+The conagent's defense shall have a good defense if it can prove, concerning the harms which can be caused to 3rd parties by those entities, processes and/or substances, being utilized in the manner that they are being used, that:
+
+- That it has a method of containing the 3rd party harms such that no harm can come to 3rd parties without their knowing volition, and that it is carrying out said activities under the auspices of that method.
+- That it has informed said 3rd parties of the harm and they have consented to be exposed to the harm (volenti non fit injuria).
+- The conagent is undertaking said activities while maintaining at the ready, a provable method of fully reversing 3rd party harms.  is prima-facie **evidence** 
+
+## 
+> [Apologia]: The entities involved must be being used in such a manner as to cause their nature to yield harm to a 3rd party,
 
 - Design, deploy and demonstrate a method of containing the damage so that it never affects 3rd parties (i.e., prevent the externality from occuring).
 - Design, demonstrate and keep on standby, a method of fully reversing any damage caused to 3rd parties and hold a lease on capitals which can be used to compensate affected 3rd parties for other claimed damages (time, inconvenience, reputation, missed opportunity, etc.) (i.e., fully rollback the effects of the externality).
@@ -12,6 +36,8 @@ This file outlines a mechanism for preventing the advent of irreversible damage 
 > [Note]: Discuss the fact that some amount of evidence-free speculation of harm must be allowed to the plaintiff, and how to limit this. Or perhaps don't allow evidence-free skepticism and an unlimited assumption of guilt on the defendent.
 - To ensure that the mechanism is evidence-based, we may have to reward whistle-blowers with a monetary incentive.
 - To ensure that the mechanism doesn't become a company secret revealer for non-damaging activities, a whistleblower whose disclosure doesn't demonstrate damage caused by a current activity of the defendent which incurs 3rd party damage that is not already ameliorated, is liable to the defendent for damages in "Malicious prosecution" and "sabotage".
+
+> [Apologia]: This mechanism replaces things like the FDA and EPA with an open process in court which is subject to a jury of peers rather than to the whim of an unelected panel of beaurocrats and the caprice of political unaccountable appointees. The solution to this problem was never to create a pantheon of unaccountable 3-letter government agencies. It was merely to be innovative and think of how to apply the current private property process to new phenomena.
 
 > [Apologia]: One of the problems that previous iterations of individualist polities had is that they did not provide a mechanism to extend the principle of non-interference to activities which have the potential to inflict massive future damage individuals who pursue certain activities with (often with a low error rate) high damage downside are not restrained by any means
 
