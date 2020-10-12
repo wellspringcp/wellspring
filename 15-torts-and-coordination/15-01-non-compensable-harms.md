@@ -13,13 +13,13 @@ Any individual having **facts of evidence** proving currently ongoing activities
 - The activity concerns itself with entities, substances and/or processes whose properties are factually capable of causing harm to a 3rd party.
 - The conagent is undertaking these activities in such a manner as to cause those entities, substances and/or processes to exhibit their capability to cause harm to a 3rd party.
 
-...shall have recourse through the courts to plead "Attempted `NAHA`" against said conagent.
+...shall have recourse through the courts to plead for equitable relief for an "Attempted `NAHA`", against said conagent.
 
 ### Defense
 
 > [Note]: I don't like this wording -- find out the correct legal wording for specifying a defense against a particular form of action.
 
-The conagent's defense shall have a good defense if it can prove, concerning the harms which can be caused to 3rd parties by those entities, processes and/or substances, being utilized in the manner that they are being used, that:
+The defendant shall have a good defense if it can prove, concerning the harms which can be caused to 3rd parties by those entities, processes and/or substances, being utilized in the manner that they are being used, that:
 
 - That it has a method of containing the 3rd party harms such that no harm can come to 3rd parties without their knowing volition, and that it is carrying out said activities under the auspices of that method.
 - That it has informed said 3rd parties of the harm and they have consented to be exposed to the harm (volenti non fit injuria).
