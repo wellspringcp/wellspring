@@ -17,8 +17,6 @@ Any individual having **facts of evidence** proving currently ongoing activities
 
 ### Defense
 
-> [Note]: I don't like this wording -- find out the correct legal wording for specifying a defense against a particular form of action.
-
 The defendant shall have a good defense if it can prove, concerning the harms which can be caused to 3rd parties by those entities, processes and/or substances, being utilized in the manner that they are being used, that:
 
 - That it has a method of containing the 3rd party harms such that no harm can come to 3rd parties without their knowing volition, and that it is carrying out said activities under the auspices of that method.
