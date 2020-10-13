@@ -25,21 +25,12 @@ The defendant shall have a good defense if it can prove, concerning the harms wh
 - That it has informed said 3rd parties of the harm and they have consented to be exposed to the harm (volenti non fit injuria).
 - The conagent is undertaking said activities while maintaining at the ready, a provable method of fully reversing 3rd party harms.
 
-> [Apologia]: Explain that this provable method at the ready may be insurance, or a lease on loans, etc.
-
-## 
+## Epilogue
 
 > [Note]: Discuss the fact that some amount of evidence-free speculation of harm must be allowed to the plaintiff, and how to limit this. Or perhaps don't allow evidence-free skepticism and an unlimited assumption of guilt on the defendent.
 - To ensure that the mechanism is evidence-based, we may have to reward whistle-blowers with a monetary incentive.
 - To ensure that the mechanism doesn't become a company secret revealer for non-damaging activities, a whistleblower whose disclosure doesn't demonstrate damage caused by a current activity of the defendent which incurs 3rd party damage that is not already ameliorated, is liable to the defendent for damages in "Malicious prosecution" and "sabotage".
 
-> [Apologia]: This mechanism replaces things like the FDA and EPA with an open process in court which is subject to a jury of peers rather than to the whim of an unelected panel of beaurocrats and the caprice of political unaccountable appointees. The solution to this problem was never to create a pantheon of unaccountable 3-letter government agencies. It was merely to be innovative and think of how to apply the current private property process to new phenomena.
-
-> [Apologia]: One of the problems that previous iterations of individualist polities had is that they did not provide a mechanism to extend the principle of non-interference to activities which have the potential to inflict 3rd party harm when things go wrong. Because legislators haven't been competent and diligent to think the problem through and to extend current mechanisms, they usually establish an unaccountable government agency with broad arbitrary power to control and stifle innovation. This file specifies a mechanism which achieves the desired outcomes without establishing a 3-letter agency with broad discretionary powers.
-
-> [Apologia]: Innovators working with harmful materials for which there is not yet a known containment and harnessing framework should be able to work within this legal framework to safely experiment and productize their innovation.
-
-> [Apologia]: It is intentional that the requirement to be able to demonstrate a working, deployed containment method, or a ready rollback mechanism imposes capital barriers. Only those conagents which can front the capitals to safely handle such volatile activities without while preserving non-interference, should be able to attempt such innovative activities.
 
 Allegations of uncompensatable harms.
 
