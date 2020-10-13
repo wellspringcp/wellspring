@@ -20,4 +20,9 @@ I wanted to limit standing to sue under Attempted `NAHA` to individuals against 
 
 With reference to "maintaining at the ready, a provable method of fully reversing 3rd party harms", the satisfactory criteria for such a method's form will obviously be different for each different entity/substance/process. For example, a readily available method for reversing the harms from one such entity/substance/process may be to maintain liability insurance. The ready method for another such entity/substance/process may need to be antidotes or medication kept on hand and not past the expiry date.
 
-## Epilogue
+## Limitations
+
+### Explicit limitation of liability to the immediate actor(s):
+
+I.e, one may use this action against someone who is using a particular tool in a way that will cause harm, but not against the manufacturer of that tool. E.g, one may sue the driver of a vehicle that produces harmful waste, but not the manufacturer of the vehicle. One may sue the factory that manufactures vehicles if that factory spews waste, but not the supplier of the fuel that is burned by the factory. One may sue a fuel refinery if its refinery process produces radiation, but not the manufacturer of a furnace used by the refinery.
+
