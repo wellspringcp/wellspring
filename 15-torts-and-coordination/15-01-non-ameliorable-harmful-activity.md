@@ -23,31 +23,23 @@ The defendant shall have a good defense if it can prove, concerning the harms wh
 - That it has informed said 3rd parties of the harm and they have consented to be exposed to the harm (volenti non fit injuria).
 - The conagent is undertaking said activities while maintaining at the ready, a provable method of fully reversing 3rd party harms.
 
-## Epilogue
+### Overthrowing an injunction produced by this cause of action:
 
-> [Note]: Discuss the fact that some amount of evidence-free speculation of harm must be allowed to the plaintiff, and how to limit this. Or perhaps don't allow evidence-free skepticism and an unlimited assumption of guilt on the defendent.
+If in the future, an actor who was previously bound with an injunction finds a way to ameliorate the 3rd party harms from his/her activity, then s/he may sue to overthrow the injunction.
+
+## Limitations:
+
+### No foothold for government to establish a regulatory agency
+
+No government agency or government employee acting in their capacity as an agent of the government, shall have standing to bring an Attempted `NAHA` suit before the courts. Only private entities or individuals acting in their private capacity shall have standing to invoke this cause of action.
+
+> [Apologia][Note]: Discuss the fact that some amount of evidence-free speculation of harm must be allowed to the plaintiff, and how to limit this. Or perhaps don't allow evidence-free skepticism and an unlimited assumption of guilt on the defendent.
 - To ensure that the mechanism is evidence-based, we may have to reward whistle-blowers with a monetary incentive.
 - To ensure that the mechanism doesn't become a company secret revealer for non-damaging activities, a whistleblower whose disclosure doesn't demonstrate damage caused by a current activity of the defendent which incurs 3rd party damage that is not already ameliorated, is liable to the defendent for damages in "Malicious prosecution" and "sabotage".
 
+> [Note]: There needs to also be some kind of framework for protecting 3rd party neighbours from dereliction of duty in maintaining property. Things like lack of maintenance leading to vermin, etc.
 
-Allegations of uncompensatable harms.
+### Explicit limitation of liability to the immediate actor(s):
 
-Harm is upon commission - however, in the case where one's action is liable to result in a negative externality, one may still be sued to to demonstrate an ability to either contain the harm (I.e, prove that there will be no externality), or to reverse the harm if it occurs (I.e to restore the damaged property to its original state).
+Note that this cause of action can only be invoked against the actor(s) who is/are using the entity/substance/process in such a manner as to portend 3rd party harm. It may not be invoked against the manufacturer/producer of the entity/substance/process.
 
-Failure to demonstrate such ability to contain or reverse harm shall be a cause for action in pursuing equitable relief in the form of an injunction against the action.
-
-Only a person against whom such harm may come shall have standing to file such a suit. The burden of proof that a harm may arise shall lie with the plaintiff. However, upon  judgement for the plaintiff, the burden for proving that the harm may be contained or reversed shall lie with the defendant.
-
-Obviously volenti non fit injuria applies with respect to negotiated compensation. E.g, if the defendant has negotiated to pay the plaintiff in regular instalments for the right to take such uncompensatable actions.
-
-This is meant to act as a defense against irresponsible neighbours taking actions which pose a recognizable future threat to surrounding property owners who know that the reckless actor will be incapable of compensating them for those harms. It can be summed up as a means of preventing the threat of property damage arising from negligence.
-
-Note that this cause of action can only be taken against the proximate cause and not the efficient cause; I.e, the direct taker of the action which is liable to cause the harm anticipated. It does not apply as a way to prevent the production of an instrument which may cause said harm.
-
-Obviously the defendant can sue to overturn the injunction at any time should s/he find a way to contain or reverse the harms and so make them compensatable.
-
-Furthermore obviously the plaintiff must prove that harm would come to *his* property in practice. A plaintiff shall have no standing to sue a nuclear plant for example, if the plant is built on such a massive expanse of land that the surrounding expanse is large enough to distance any neighbouring property from radiation damage, and the waste disposal process to be used by the plant is designed to be an effective containment mechanism.
-
-I.e, one may use this action against someone who is using a particular tool in a way that will cause harm, but not against the manufacturer of that tool. E.g, one may sue the driver of a vehicle that produces harmful waste, but not the manufacturer of the vehicle. One may sue the factory that manufactures vehicles if that factory spews waste, but not the supplier of the fuel that is burned by the factory. One may sue a fuel refinery if its refinery process produces radiation, but not the manufacturer of a furnace used by the refinery.
-
-I am reluctant to make this measure available to govt as a means of preemptively refusing to sell natures to bidders due to anticipated permanent harms - e.g, natures to be used as a nuclear facility prevented from being sold due to concerns by motivated government agents filing suit through the attorney general to embargo the sale. Further, I dont like having the government be able to initiate legal actions. So I will not allow that.
