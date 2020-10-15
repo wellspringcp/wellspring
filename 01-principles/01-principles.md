@@ -57,6 +57,8 @@ The private property of the individual may only be breached in the pursuit of th
 - Finally in order to resolve information asymmetries and discourage fraud: laws which force the publication of component ingredients in a product or service (but not the method thereof), and which force the prominent display of expiry dates and warnings of danger are a permissible exception to the non-negotiability of private property law. Furthermore, the government may make laws requiring corpagents to publish openly, or maintain privately (for the purpose of subpeona for evidence in trials by jury) records which are of interest to common law plaintiffs.
 - The preparedness of the nation for war to protect the private property of `WS` residents, as outlined in `SovWI` law.
 
+> [Apologia]: Explain what types of records qualify - things like telecomms companies being required to maintain X years of text messages or call logs, or email companies maintaining X years of emails, etc.
+
 No other exceptions to the sacrosanctness of the sovereignty of the individual over his/her private property are recognized by this Constitution, including causes such as, natural disasters, non-communicable disease and climate change. Environmental protection mechanisms are specified elsewhere in this constitution.
 
 ### Rights protected by `WS`
