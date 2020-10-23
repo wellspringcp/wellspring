@@ -16,7 +16,7 @@ Where unclear, the text is to be interpreted to favour as wealth little redistri
 
 Motto: "*The individual outranks the collective.*"
 
-Pledge of Allegiance: "*I swear by my life and my love of it that I will never attempt to force, threaten or defraud another indeperson into living for me.*"
+Pledge of Allegiance/Oath of Office: "*I swear by my life and my love of it that I will never attempt to force, threaten or defraud another indeperson into living for me.*"
 
 Republic Holidays: Each of the cornerstone principles of the republic shall have its own holiday to keep it in remembrance. Working on a republic holiday incurs no penalty.
 
