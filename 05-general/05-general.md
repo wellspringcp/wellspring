@@ -46,3 +46,6 @@ Besmirched people who are found guilty of going out in public without their pock
 
 > [Measures to outlaw violent criminals if they game the system and turn pockmarked life into a profession, such a hitmen]
 
+## Gene experimentation
+
+Germ cell editing is unconditionally prohibited. Pre-sui-juris somatic editing can be done for curative and palliative reasons only. On plants and so on, strict principles of what constitutes trespass.
