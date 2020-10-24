@@ -52,9 +52,13 @@ When a new bill is tabled before the legislature to address some `issue on recor
 
 #### Tabling a bill
 
-A bill may only be submitted to Congress if it references an `issue on record`, and explains how it plans to address that `issue`. Any law which is passed as a solution to an `issue on record` may be challenged at any time by a new bill. Only one act may control any problem at any given time.
+A bill may only be submitted to Congress if it references an `issue on record`, and explains how it plans to address that `issue on record`. Any law which is passed as a solution to an `issue on record` may be challenged at any time by a new bill. Only one act may control any `issue on record` at any given time.
 
-When multiple bills contend in congress as solutions to the same referenced problem, the winning bill shall be that bill which preserves freedom the most, measured in the amount of redistribution, the amount of govt spending and the number of controls on movement, labour, thought, action and expression.
+#### Competing bills which address the same `issue on record`:
+
+When multiple bills contend in congress as solutions to the same referenced `issue on record`, the winning bill shall be that bill which preserves freedom the most, measured in the amount of redistribution, the amount of govt spending and the number of controls on movement, labour, thought, action and expression.
+
+#### Reward to incentivize liberty-preserving legislation:
 
 The difference per annum between the least and most free, quantified monetarily, shall be awarded to the drafters, co-sponsors and voting adopters of the bill. Unconstitutional bills shall not be considered in the calculation, and they are subject to the normal outlawing process.
 
