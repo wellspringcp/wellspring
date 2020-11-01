@@ -15,6 +15,7 @@ Where unclear, the text is to be interpreted to favour as wealth little redistri
 ## Symbols, celebrations and rituals.
 
 Motto: "*The individual outranks the collective.*"
+
 Anthem: *The Westerner* by Badger Clark.
 
 Pledge of Allegiance/Oath of Office: "*I swear by my life and my love of it that I will never attempt to force, threaten or defraud another indeperson into living for me.*"
