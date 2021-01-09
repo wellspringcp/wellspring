@@ -22,7 +22,7 @@ Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, 
 
 ##### Enjoyment of the courts:
 
-None of these penalties shall apply to any conagent presenting before the courts in any criminal proceeding or tort.
+None of these penalties shall apply to any conagent presenting before the courts in any criminal or tort proceeding.
 
 - In any civil proceeding against it where an indepagent with an outstanding tax debt stands as a defendant:
   - In an ongoing proceeding which had been filed prior to any currently unpaid debt becoming accrued, the proceeding shall continue to regular completion.
