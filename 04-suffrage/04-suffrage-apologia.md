@@ -2,7 +2,7 @@
 
 ## Eligibility to vote:
 
-We want to ensure that all indepagents which labour and pay taxes (or natures rents which make up taxes) for a particular term, are eligible to vote to control the policies and offices which influence the labour they perform over such a term. It stands to reason that (only) indepagents that pay taxes should have controlling say in how that money is spent.
+We want to ensure that all indepagents which earn income and pay taxes for a particular term, are eligible to vote to control the policies and offices which influence the labour they perform over the next term of that office. It stands to reason that (only) indepagents that pay taxes should have controlling say in how that money is spent.
 
 ### Agency
 
