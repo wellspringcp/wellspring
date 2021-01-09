@@ -22,4 +22,4 @@ An indepagent shall be eligible to vote for a particular termed office if they h
 
 ### Constitutional updates
 
-An indepagent shall be eligible to vote on a constitutional amendment/update if they have earned income streams for at least 15 out of the last 25 years, and have no outstanding tax debt on any of their income streams. The stints of earning need not be contiguous.
+An indepagent shall be eligible to vote on a constitutional amendment/update if they have earned income streams for at least 15 out of the last 30 years, and have no outstanding tax debt on any of their income streams. The stints of earning need not be contiguous.
