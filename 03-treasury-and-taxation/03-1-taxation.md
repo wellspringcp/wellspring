@@ -8,7 +8,7 @@
 In addition, as explicit prohibitions for the sake of completeness:
 - No forms of excise or internal checkpoint tax on freight or trade shall be levied.
   - This shall not be construed to limit `SovWI`'s ability to use checkpoints (without accompanying taxes) for internal security.
-  - This shall not be construed to limit the ability of private conagents to charge tolls and other fees for the use of their capitals.
+  - This shall not be construed to limit the ability of private conagents to charge tolls and other fees for the use of their capitals/property.
 - No taxes shall be levied on wealth instead of income.
   - Any politician found guilty of introducing a bill to pursue a tax on wealth shall become an outlaw after 2 hours.
 - No taxes shall be levied on abstract entities such as "corporations", etc.
@@ -18,7 +18,7 @@ In addition, as explicit prohibitions for the sake of completeness:
 
 > [Review this section]
 
-Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, should an indepagent present itself to court on either side of the advocacy without having its taxes paid: in any proceeding against it where it stands as a defendant, judgment shall proceed against it by default, and in any proceeding where it appears as a plaintiff, its plea shall not be recognized.
+Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, should an indepagent present itself to court on either side of the advocacy without having its taxes paid: in any proceeding against it where it stands as a defendant, judgment shall proceed against it by default (after a legislatively determined grace period during which it may pay to regain protection), and in any proceeding where it appears as a plaintiff, its plea shall not be recognized (but upon payment of its tax debt, it may re-file its complaint).
 
 - Nevertheless, the police shall continue to provide immediate protection of the physical person and property of that indepagent and its depagents.
 - Indepagents that don't pay their taxes shall be free to leave and shall not suffer imprisonment or any other criminal penalty.
@@ -31,10 +31,10 @@ No individual shall be taxed more heavily than at 10% of the income generated pe
 
 ### Rules for claiming these discounts:
 
-If any indepagent wishes to claim the tax discounts outlined in this section on any of its income streams:
-- The tax authority shall have the power to audit the activities which form the source of the income stream, to determine whether or not they fall under the umbrella of the category being claimed.
+Claims for any of these tax discounts apply on a per-income stream basis. If any indepagent wishes to claim the tax discounts outlined in this section on any of its income streams:
+- The tax authority shall have the power to audit the activities which form the source of the income stream being claimed, to determine whether or not said activities fall under the umbrella of the category being claimed.
 - Where those activities which need to be audited are performed under the umbrella of a fictagent such as a corpagent:
-  - The government shall request permission to audit from the fictagent to determine its classification for tax purposes.
+  - The government shall request permission from the fictation to audit the fictagent to determine its classification for tax purposes.
   - The audit shall not be authorized unless the owner(s) of the fictagent consent to be audited.
   - If the audit is not consented to by the fictagent, the claim for the tax discount shall be denied to the claimant.
 
