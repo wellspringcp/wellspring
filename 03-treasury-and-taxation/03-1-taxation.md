@@ -25,10 +25,10 @@ Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, 
 None of these penalties shall apply to any conagent presenting before the courts in any criminal or tort proceeding.
 
 - In any civil proceeding against it where an indepagent with an outstanding tax debt stands as a defendant:
-  - In an ongoing proceeding which had been filed prior to any currently unpaid debt becoming accrued, the proceeding shall continue to regular completion.
+  - In an ongoing proceeding which had been filed prior to any currently unpaid debt becoming accrued, the proceeding shall continue under regular order to completion.
   - For any newly filed complaint, judgment shall proceed against said defendant by default after a legislatively determined grace period during time which it may pay its outstanding balance in order to regain protection from the courts.
 - In any civil proceeding where such an indepagent with an outstanding tax debt appears as a plaintiff:
-  - In an ongoing proceeding which had been filed prior to any currently unpaid debt becoming accrued, the proceeding shall continue to regular completion.
+  - In an ongoing proceeding which had been filed prior to any currently unpaid debt becoming accrued, the proceeding shall continue under regular order to completion.
   - For any newly filed complaint in the courts, its plea shall be suspended indefinitely until the tax debt balance is paid.
 
 ##### Clarification of scope:
