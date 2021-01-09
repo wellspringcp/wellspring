@@ -4,7 +4,7 @@
 
 ### Pripola bills
 
-The category under which most legislation will fall is the Private Property Law bill (hereafter, `Pripola bill`). 
+The category under which most legislation will fall is the Private Property Law Bill category (hereafter, `Pripola bill`). 
 
 The `WS` constitution already cements private property as the law of the polity. The purpose of laws passed by the legislature is merely make it clear to the polity how private property law (as defined in the "Principles" of this constitution) applies to particular actions, scenarios and innovations and thereby to extend private property's coverage to new phenomena. The goal of legislation is not to "create opportunity" or pursue "equality" or to "regulate".
 
@@ -22,7 +22,7 @@ A separate category of legislation, known as "Advisory Standards", exists to ena
 
 Before any nominated `issue` is judged for recognition, or before any bill which references an `issue on record` is considered by the legislature, the judging/voting members for the particular nominated `issue` or bill being considered before the legislature, shall be educated on the relevant technical details concerning the industry/issue under consideration by consultant experts, renowned in the field, both from academia and industry.
 
-> [Apologia]: There was a strong desire to give the industry consultants a greater weight in representation on the consultation panels, but as long as the government is not allowed to subsidize academia, there should be no reason to believe that academia will become a stronghold of anti-individualist ideology. It is up to the `WS` residents then, to ensure that they do not allow the government to subsidize schooling/academia. The tax discounts specified elsewhere in this constitution should already go a long way toward ensuring an abundant supply of schooling.
+> [Apologia]: There was a strong desire to give the industry consultants a greater weight in representation on the consultation panels, but as long as the government is not allowed to subsidize academia, there should be no reason to believe that academia will become a stronghold of anti-individualist ideology. It is up to the `WS` residents then, to ensure that they do not allow the government to subsidize schooling/academia. The claimable tax discounts on schooling specified elsewhere in this constitution should already go a long way toward ensuring an abundant supply of schooling so no politician should be able to make an argument that government subsidies are required to meet the demand for schooling/education.
 
 Congress shall not have the power to proceed to judge the bill/nominated `issue` until the consultants are satisfied that 90% of the politicians judging the bill/nominated `issue` understand the specific scope and challenges comprising the `issue`. The consultants shall agree among themselves to prepare an exam or assessment or some other transparent, open criteria for determining whether or not the relevant politicians understand the `issue`. The consultants shall **not** weigh in on whether or not they *approve* of the policy solution to the technical issue and their syllabus and assessment criteria shall be confined to technical details, bearing in mind always that the consultants were **not** elected.
 
