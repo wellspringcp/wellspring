@@ -44,11 +44,11 @@ No individual shall be taxed more heavily than at 10% of the income generated pe
 ### Rules for claiming these discounts:
 
 Claims for any of these tax discounts apply on a per-income stream basis. If any indepagent wishes to claim the tax discounts outlined in this section on any of its income streams:
-- The tax authority shall have the power to audit the activities which form the source of the income stream being claimed, to determine whether or not said activities fall under the umbrella of the category being claimed.
-- Where those activities which need to be audited are performed under the umbrella of a fictagent such as a corpagent:
-  - The government shall request permission from the fictation to audit the fictagent to determine its classification for tax purposes.
-  - The audit shall not be authorized unless the owner(s) of the fictagent consent to be audited.
-  - If the audit is not consented to by the fictagent, the claim for the tax discount shall be denied to the claimant.
+- The tax authority shall have the power to audit the activities which form the source of the income stream being claimed, to determine whether or not said activities fall under the umbrella of the category being claimed according to the following constraints:
+  - The government shall request permission from the claiming conagent to audit the activities surrounding that income stream to determine its classification for tax purposes.
+  - The audit shall not be authorized unless the owner(s) of the income stream consent to be audited. The owner(s) of the income stream is/are such entity to which the income stream is paid; not such entity which disburses such payment.
+  - If the audit is not consented to by the owner(s), the claim for the tax discount shall be denied to the claimant.
+> [Experimental] - Where those activities which need to be audited are performed under the umbrella of a fictagent such as a corpagent, the audit shall proceed after notice is given to said fictagent, but the consent of the fictagent is immaterial.
 
 Ambiguously purposed income streams shall be deemed to be classified under their most heavily taxed purpose, or shall yield no tax discount at all if ambiguous enough to make it unclear that the income stream is primarily purposed toward any particular category of enterprise.
 
