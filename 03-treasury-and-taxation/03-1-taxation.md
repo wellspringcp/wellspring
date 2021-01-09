@@ -14,14 +14,26 @@ In addition, as explicit prohibitions for the sake of completeness:
 - No taxes shall be levied on abstract entities such as "corporations", etc.
   - This shall not be construed to prevent the legislature from creating and governing such fictional legal entities as "corporations"; they simply cannot be taxed: only individuals may be taxed.
 
-#### Evasion:
+#### Tax evasion:
 
 > [Review this section]
 
-Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, should an indepagent present itself to court on either side of the advocacy without having its taxes paid: in any proceeding against it where it stands as a defendant, judgment shall proceed against it by default (after a legislatively determined grace period during which it may pay to regain protection), and in any proceeding where it appears as a plaintiff, its plea shall not be recognized (but upon payment of its tax debt, it may re-file its complaint).
+Evasion shall not be criminalized or carry criminal penalties. Notwithstanding, should an indepagent present itself to court in a civil matter, on either side of the advocacy without having its taxes paid:
 
-- Nevertheless, the police shall continue to provide immediate protection of the physical person and property of that indepagent and its depagents.
-- Indepagents that don't pay their taxes shall be free to leave and shall not suffer imprisonment or any other criminal penalty.
+##### Enjoyment of the courts:
+
+None of these penalties shall apply to any conagent presenting before the courts in any criminal proceeding or tort.
+
+- In any civil proceeding against it where an indepagent with an outstanding tax debt stands as a defendant:
+  - In an ongoing proceeding which had been filed prior to any currently unpaid debt becoming accrued, the proceeding shall continue to regular completion.
+  - For any newly filed complaint, judgment shall proceed against said defendant by default after a legislatively determined grace period during time which it may pay its outstanding balance in order to regain protection from the courts.
+- In any civil proceeding where such an indepagent with an outstanding tax debt appears as a plaintiff:
+  - In an ongoing proceeding which had been filed prior to any currently unpaid debt becoming accrued, the proceeding shall continue to regular completion.
+  - For any newly filed complaint in the courts, its plea shall be suspended indefinitely until the tax debt balance is paid.
+
+##### Clarification of scope:
+- Nevertheless, an indepagent owing a tax debt shall continue to enjoy the full benefit of the protection of its person and property from immediate violation by the police; the police shall continue to provide immediate protection of the physical person and property of that indepagent and its depagents.
+- Indepagents that don't pay their taxes shall be fully free to leave the jurisdiction of `WS` and shall not suffer imprisonment or any other criminal penalty.
 
 ### Upper limit on taxation
 
