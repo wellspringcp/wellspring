@@ -60,8 +60,8 @@ When multiple bills contend in congress as solutions to the same referenced `iss
 
 #### Reward to incentivize liberty-preserving legislation:
 
-The difference per annum between the least and most free, quantified monetarily, shall be awarded to the drafters, co-sponsors and voting adopters of the bill. Unconstitutional bills shall not be considered in the calculation, and they are subject to the normal outlawing process.
+For the first bill passed to address an `issue on record`: The difference per annum between the least and most free of the competing bills, quantified monetarily, shall be awarded to the drafters, co-sponsors and voting adopters of the bill. Unconstitutional bills shall not be considered in the calculation, and they are subject to the normal outlawing process.
 
-When an existing law is replaced, an award of the same kind shall be granted to the new law's drafters, co-sponsors and voting adopters, with the difference calculated between the old law and the new.
+For a bill which replaces the current bill for a particular `issue on record`: When an existing law is replaced, an award of the same kind shall be granted to the new law's drafters, co-sponsors and voting adopters, with the difference calculated between the old law and the new.
 
 The old block of awardees shall not lose their award. Any awardees who are sponsors of both the old and new bill shall retain the higher of the two awards only.
