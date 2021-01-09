@@ -10,7 +10,7 @@ Eligibility to vote is based on:
 1. Being fully paid up on taxes (i.e, no outstanding balance).
 2. Having been a net positive and non-zero taxpayer for some specified fraction of the previous term of the office or decision being voted on.
 
-The government shall provide receipts for taxes upon request. The government may use its records of taxation to validate eligibility.
+The government may use its records of taxation to validate voter eligibility. The government shall provide receipts for taxes upon request.
 
 ### Agency
 
@@ -20,6 +20,6 @@ Only indepagents may vote. Fictagents shall not be able to cast votes. Governmen
 
 An indepagent shall be eligible to vote for a particular termed office if they have fully paid taxes on their income over at least 75% of the duration of the previous term of that office. The stints of earning need not be contiguous.
 
-### Constitutional amendments
+### Constitutional updates
 
-An indepagent shall be eligible to vote on a constitutional amendment if they have fully paid taxes on their income over at least 15 out of the last 25 years; the stints of earning need not be contiguous.
+An indepagent shall be eligible to vote on a constitutional amendment/update if they have fully paid taxes on their income over at least 15 out of the last 25 years; the stints of earning need not be contiguous.
