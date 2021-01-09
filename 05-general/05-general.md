@@ -48,4 +48,6 @@ Besmirched people who are found guilty of going out in public without their pock
 
 ## Gene experimentation
 
-Germ cell editing is unconditionally prohibited. Pre-sui-juris somatic editing can be done for curative and palliative reasons only. On plants and so on, strict principles of what constitutes trespass.
+Germ line editing is unconditionally prohibited. Pre-sui-juris somatic editing can be done for curative and palliative reasons only.
+
+> [On plants and so on, strict principles of what constitutes trespass.]
