@@ -9,18 +9,18 @@ This section of the `WS` outlines the guiding principles which constrain the ran
 
 `SovWI` policy may be thought of as a species of national infrastructure planning that takes precedence over all natures policy and is the bedrock for the planning and layout of a `WS` polity to ensure that war-readiness goals are met. It ensures that natures allocation is first and foremost optimized to ascertain war defensibility.
 
-`SovWI` policy may be used to erect fortifications, dams, telecomms networks; to reserve flight routes; to build military academies, training grounds, and bases; etc. `SovWI` infrastructure should attempt to be as minimal as possible preferring to procure natureses and rent them out under binding agreements upon the tenant to build the required infrastructure; or if the government must build the infrastructure itself, to provide backbones and not fully built infrastructure.
+`SovWI` policy may be used to erect military fortifications, supply lines and communications infrastructure; to reserve military flight routes; to build military academies, training grounds, and bases. `SovWI` infrastructure should attempt to be as minimal as possible preferring to procure natureses and rent them out under binding agreements upon the tenant to build the required infrastructure; or if the government must build the infrastructure itself, to provide backbones and not fully built infrastructure.
 
-Under the auspices of `SovWI`, the military branch is the only one authorized to undertake infrastructure projects ***subject to justification under*** the published war readiness plan.
+Under the auspices of `SovWI`, the military branch is the only one authorized to undertake infrastructure projects ***subject to justification under*** the published war readiness plan. This shall not be construed to prevent the Estate branch from procuring natureses to effectuate the estate requirements of the non-military branches of government.
 
 ### Specific injunctions and scope limitations
 
-These projects are *NOT* to be undertaken for any reason other than war readiness, and if they are permanent installations, they are *only* to cover such works as cannot be quickly erected as needed as war approaches. This may be used as a legal rule of thumb for the courts and the plebiscite. Obviously this will and should bias utopia's military toward agility in preparation for war. A *non-exhaustive* list of things that `SovWI` shall **not** be overloaded for includes:
+`SovWI` projects are *NOT* to be undertaken for any reason other than war readiness, and if they are permanent installations, they are *only* to cover such works as cannot be quickly erected as needed as war approaches. This may be used as a legal rule of thumb for the courts and the plebiscite. Obviously this will and should bias utopia's military toward agility in preparation for war. A *non-exhaustive* list of things that `SovWI` shall **not** be overloaded for includes:
 
 - Environment protection concerns.
 - Forestry, park and wildlife protection.
 - Aesthetic, cultural and historical landmarks.
-- City planning or other broader, more general infrastructure policy.
+- Urban/rural planning or other broader, more general infrastructure policy.
 
 Sovereign infrastructure shall be planned carefully before title to any natures is sold by the government. In any natures title sale, the military shall have preferential procurement priority and privilege, pending justification as a national security asset, according with the published security and war readiness reports. In effect, the military shall have limited veto powers in infrastructure planning to ensure the war readiness of the military, ***subject to justification under*** the published war readiness plan.
 
