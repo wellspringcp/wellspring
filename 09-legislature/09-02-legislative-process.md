@@ -1,6 +1,6 @@
-# Wellspring: Legislature
+# Wellspring: Legislative process
 
-## Technical consultation during the legislative process.
+## Technical consultation
 
 > [Apologia]: In an ideal world, the legislature would not be filled with lawyers and non-technical people, but technical expertise does not confer an understanding of how to adapt legislation to that field of expertise. Instead experience has shown that political philosophers and lawyers, when brought up to speed with the technical particulars, can more readily fit those particulars into their political philosophy's model. Obviously the ideal politician is one who is both knowledgeable about law, economics and philosophy; and about the particular technical field s/he is attempting to legislate -- i.e, a technically experienced politician. However, since the norm is likely to be that non-technical politicians will be attempting to govern things they generally do not understand, the technical consultation is intended to bring them up to speed.
 
@@ -12,7 +12,9 @@ Congress shall not have the power to proceed to judge the bill/nominated `issue`
 
 Should congress push legislation without consultation or without passing the consultant assessment, a cause of action at law, "*Rash and Incompetent Legislation*" shall avail itself to the people through the courts, **even if** the bill is not unconstitutional, and upon judgment proceeding against congress, the bill shall be unenforceable and stricken from the body of legislation; but no politician shall be outlawed, since the bill was not *unconstitutional*, but merely hastily passed.
 
-## The legislative process: Incentivizing individualist legislation
+## Steps: from an issue to a bill:
+
+The steps here were crafted both to discourage ambitious politicians from using the legislative process to build a career by passing unjustifiable laws as well as to incentivize individualist legislation.
 
 ### Nominating and possibly Recognizing an issue as requiring legislative attention.
 
