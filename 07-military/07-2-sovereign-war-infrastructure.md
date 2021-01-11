@@ -3,6 +3,9 @@
 
 This section of the `WS` outlines the guiding principles which constrain the range of flexibility the legislature has in defining the `SovWI` law.
 
+> [TODO: Clarify what "precedence" here means.]
+`SovCBio` law takes precedence over `SovWI` law, which takes precedence over `SovHOA` law.
+
 ## Purpose of `SovWI` law
 
 ### Principles
