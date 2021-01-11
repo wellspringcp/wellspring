@@ -14,7 +14,7 @@ Should congress push legislation without consultation or without passing the con
 
 ## Steps: from an issue to a bill:
 
-The steps here were crafted both to discourage ambitious politicians from using the legislative process to build a career by passing unjustifiable laws as well as to incentivize individualist legislation.
+The steps here were crafted both to discourage ambitious politicians from using the legislative process to build a career by passing unjustifiable laws as well as to incentivize individualist legislation. Bills should address well defined issues. Issues should not be addressed by legislation unless their nature requires a legislative answer.
 
 ### Nominating and possibly Recognizing an issue as requiring legislative attention.
 
