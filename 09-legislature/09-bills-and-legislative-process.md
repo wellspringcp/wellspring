@@ -12,7 +12,7 @@ A pripola bill must pass the Legislative Process in order to enter the body of a
 
 ### Advisory standards bills
 
-> [Experimental]
+> [Experimental:] If we keep Advisory standard bills, make sure to write an apologia for why they are useful.
 
 A separate category of legislation, known as "Advisory Standards", exists to enable the legislature to recommend normative codes of behaviour to be ***optionally*** adopted by the private sector as policy for the management of externality-fraught enterprises and enterprises which are difficult to co-ordinate. Advisory Standard Bills must go through the same Legislative Process as `Pripola` bills in order to enter the body of Adopted Advisory Standards.
 
