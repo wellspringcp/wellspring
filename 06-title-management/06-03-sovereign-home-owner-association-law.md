@@ -4,6 +4,8 @@
 
 `SovHOA` laws are the set of terms upon which the sovereign rents natureses to individuals. They are meant to ensure non-griefing behaviour among owners of natureses and to establish conventions for determining when a natures is owned vs when it is unowned.
 
+`SovHOA` laws shall not be used as a mechanism for environmental preservation. E.g, they may not be used by the government to preserve a particular river, or bundle restrictions on carbon emission if title to that natures is sold. There are mechanisms provided for environmental protection elsewhere in this constitution.
+
 ### Non-griefing:
 
 `SovHOA` laws also establish, for each type of natures, what behaviour constitutes griefing.
@@ -15,8 +17,6 @@
 ### Ownership conventions/Demarcations:
 
 `SovHOA` laws outline the distinctive marks which designate each type of natures as being privately owned (as opposed to un-owned natureses), as well as the locations where publication of ownership of natureses are expected to be, should a distinctive demarcation not be possible for any particular type of natures.
-
-Sovereign HOA shall not be used as a mechanism for environmental preservation. E.g, they may not be used by the government to preserve a particular river, or bundle restrictions on carbon emission if title to that natures is sold. The government may however, refuse to sell, or may itself purchase certain natureses to for war readiness under `SovWI` law.
 
 ## Binding and versioning:
 
