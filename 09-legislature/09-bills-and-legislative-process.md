@@ -56,9 +56,13 @@ A bill may only be submitted to Congress if it references an `issue on record`, 
 
 #### Competing bills which address the same `issue on record`:
 
+> [TODO: Needs expansion and clarification]
+
 When multiple bills contend in congress as solutions to the same referenced `issue on record`, the winning bill shall be that bill which preserves freedom the most, measured in the amount of redistribution, the amount of govt spending and the number of controls on movement, labour, thought, action and expression.
 
 #### Reward to incentivize liberty-preserving legislation:
+
+> [TODO: Not sufficiently specific, could misconstrued and abused]
 
 For the first bill passed to address an `issue on record`: The difference per annum between the least and most free of the competing bills, quantified monetarily, shall be awarded to the drafters, co-sponsors and voting adopters of the bill. Unconstitutional bills shall not be considered in the calculation, and they are subject to the normal outlawing process.
 
