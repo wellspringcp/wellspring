@@ -4,6 +4,9 @@
 
 `SovHOA` laws are the set of terms upon which the sovereign rents natureses to individuals. They are meant to ensure non-griefing behaviour among owners of natureses and to establish conventions for determining when a natures is owned vs when it is unowned.
 
+> [TODO: Clarify what "precedence" here means.]
+`SovCBio` law takes precedence over `SovWI` law, which takes precedence over `SovHOA` law.
+
 `SovHOA` laws shall not be used as a mechanism for environmental preservation. E.g, they may not be used by the government to preserve a particular river, or bundle restrictions on carbon emission if title to that natures is sold. There are mechanisms provided for environmental protection elsewhere in this constitution.
 
 ### Non-griefing:
