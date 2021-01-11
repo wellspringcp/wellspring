@@ -25,13 +25,13 @@ The defendant shall have a good defense if it can prove, concerning the harms wh
 
 ### Overthrowing an injunction produced by this cause of action:
 
-If in the future, an actor who was previously bound with an injunction finds a way to ameliorate the 3rd party harms from his/her activity, then s/he may sue to overthrow the injunction.
+If an actor who was previously bound by an injunction finds a way to ameliorate the 3rd party harms (as outlined in the "Defense" section of this file) from its activity, then the actor may sue to lift the injunction.
 
 ## Limitations:
 
 ### No foothold for government to establish a regulatory agency
 
-No government agency or government employee acting in their capacity as an agent of the government, shall have standing to bring an Attempted `NAHA` suit before the courts. Only private entities or individuals acting in their private capacity shall have standing to invoke this cause of action.
+No government agency or government employee, while acting in their capacity as an agent of the government, shall have standing to bring an Attempted `NAHA` suit before the courts. Only private entities or individuals acting in their private capacity shall have standing to invoke this cause of action.
 
 > [Apologia][Note]: Discuss the fact that some amount of evidence-free speculation of harm must be allowed to the plaintiff, and how to limit this. Or perhaps don't allow evidence-free skepticism and an unlimited assumption of guilt on the defendent.
 - To ensure that the mechanism is evidence-based, we may have to reward whistle-blowers with a monetary incentive.
@@ -41,5 +41,5 @@ No government agency or government employee acting in their capacity as an agent
 
 ### Explicit limitation of liability to the immediate actor(s):
 
-Note that this cause of action can only be invoked against the actor(s) who is/are using the entity/substance/process in such a manner as to portend 3rd party harm. It may not be invoked against the manufacturer/producer of the entity/substance/process.
+Note that this cause of action can only be invoked against the actor(s) who is/are using the entity/substance/process in such a manner as to portend 3rd party harm. It may not be invoked against the manufacturer/producer of the input components required to produce the entity/substance/process.
 
