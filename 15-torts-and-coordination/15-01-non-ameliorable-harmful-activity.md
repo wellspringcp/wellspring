@@ -17,11 +17,11 @@ Any individual having **facts of evidence** proving currently ongoing activities
 
 ### Defense
 
-The defendant shall have a good defense if it can prove, concerning the harms which can be caused to 3rd parties by those entities, processes and/or substances, being utilized in the manner that they are being used, that:
+The defendant shall have a good defense if it can prove, concerning the harms which can be caused to 3rd parties by those entities, processes and/or substances, being utilized in the manner that they are being used, any of the following:
 
-- That it has a method of containing the 3rd party harms such that no harm can come to 3rd parties without their knowing volition, and that it is carrying out said activities under the auspices of that method.
-- That it has informed said 3rd parties of the harm and they have consented to be exposed to the harm (volenti non fit injuria).
-- The conagent is undertaking said activities while maintaining at the ready, a provable method of fully reversing 3rd party harms.
+- That the defendant has a method of containing the 3rd party harms such that no harm can come to 3rd parties without their knowing volition, and that the defendant is carrying out said activities under the auspices of that method.
+- That the defendant has informed said 3rd parties of the harm and they have consented to be exposed to the harm (volenti non fit injuria).
+- That the defendant is undertaking said activities while maintaining at the ready, a provable method of *fully* reversing 3rd party harms should they occur.
 
 ### Overthrowing an injunction produced by this cause of action:
 
