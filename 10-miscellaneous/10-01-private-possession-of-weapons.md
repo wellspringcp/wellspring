@@ -13,14 +13,12 @@ We can accomplish this by any of the following:
 
 The 3rd option is eminently superior so that is what we have chosen since it makes it crystal clear what level of private arms possession is needed, and therefore what the legal basis for private arms regulation should be; as well as ensuring that politicians will never become rogue silos of amassed arms. [Define how we should control the soldiers and keep the military subordinate to politics.]
 
-## The "recreational McNuke" controversy:
+## The "recreational nuke" controversy:
 
-While the government is operating subject to the principle of being an enforcer of the sovereignty of its residents, it is not a threat for the government to possess weapons of mass destruction while barring such weapons to the residents since political accountability is still functional.
+> [Apologia]: While the government is operating subject to the principle of being an enforcer of the sovereignty of its residents, it is not a threat for the government to possess weapons of mass destruction while barring such weapons to the residents since political accountability is still functional.
 
-However, when a government becomes tyrannical, there is no functional accountability and politicians feel no threat of consequences from the residents, and they do unleash such weapons on the residents. Under such circumstances however, it is not likely that it would be necessary to extend the right to keep and bear weapons of mass destruction such as ICBMs and nuclear missiles to the residents, in order to enable them to bring the government to heel.
-
-There is a much more effective measure: we will keep weapons of mass destruction out of the hands of the private residents, but we will also apply this policy to the government:
+> [Apologia]: However, when a government becomes tyrannical, there is no functional accountability and politicians feel no threat of consequences from the residents, and they do unleash such weapons on the residents. Under such circumstances however, it is not likely that it would be necessary to extend the right to keep and bear weapons of mass destruction such as ICBMs and nuclear missiles to the residents, in order to enable them to bring the government to heel. There is a much more effective measure: we will keep weapons of mass destruction out of the hands of the private residents, but we will also apply this policy to the government:
 
 If at any time, for any reason, weapons of mass destruction are deployed by a `WS` government against the internal residents of `WS`, every single conagent currently holding a political office in the legislative branch will immediately lose the protection of the courts without exception.
 
-That should be sufficient to ensure that politicians do not deploy weapons of mass destruction against `WS` residents and also ensure that politicians will have sufficient incentive to actively take action to stop other politicians from taking such action. Weapons of mass destruction are meant to be deployed against external enemies and not against internal residents of `WS`.
+> [Apologia]: That should be sufficient to ensure that politicians do not deploy weapons of mass destruction against `WS` residents and also ensure that politicians will have sufficient incentive to actively take action to stop other politicians from taking such action. Weapons of mass destruction are meant to be deployed against external enemies and not against internal residents of `WS`.
