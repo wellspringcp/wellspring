@@ -17,6 +17,6 @@ The human agents who go about labouring to invent, manufacture, mass produce, di
 
 ## We cannot control nature's impositions of disease, but we can control humans' impositions of disease.
 
-We cannot make nature subject to our human laws and command it to stop inflicting disease on humans. But we can issue such laws to human beings and hold them accountable for introducing new diseases. We already deal with nature's impositions everyday. We do not need to also be battling against humans synthesizing new diseases and introducing them into the population.
+We cannot make nature subject to our human laws and command it to stop inflicting disease on humans. But we can issue laws to human beings and hold them accountable for introducing new diseases. We already deal with nature's impositions everyday. We do not need to also be battling against humans synthesizing new diseases and introducing them into the population.
 
 Research into and experimentation with disease (both biological and digital) may need to be declared to and registered with the government and forced to be open processes, and the equipment required to carry out such activities may need to be controlled as part of `SovCBIO` law.
