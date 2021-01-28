@@ -13,7 +13,7 @@ The human agents who go about labouring to invent, manufacture, mass produce, di
 
 ### Reasons for `SovCBIO`'s necessity: Nature is an unaccountable antagonist to human life.
 
-A free market promises that effectual demand will ***eventually*** be met with profitable supply. Whether the eventuality is realized quickly or slowly is up to the state of reality and the various factors that make it up. In the case of communicable diseases however, especially those which cause non-trivial damage to the body quickly enough to outstrip the pace of research to treat them, it may be justifiable for the government to step in and impose measures to contain the spread of the disease/pestilence/biohazard to ensure that the non-trivial damage caused by the disease is not inflicted on new individuals if it could be contained.
+A free market promises that effectual demand will ***eventually*** be met with profitable supply. Whether the eventuality is realized quickly or slowly is up to the state of reality and the various factors that make it up. In the case of communicable diseases however, especially those which cause non-trivial damage to the body quickly enough to outstrip the pace of research to treat them, it may be justifiable for the government to step in and impose measures to contain the spread of the disease/pestilence/biohazard to ensure that the non-trivial damage caused by the disease is not inflicted on new individuals who would otherwise have been spared.
 
 ### Principles behind `SovCBIO` law:
 
