@@ -24,3 +24,8 @@ The guiding principles for deciding which communicable diseases may require gove
 We cannot make nature subject to our human laws and command it to stop inflicting disease on humans. But we can issue laws to human beings and hold them accountable for introducing new diseases. We already deal with nature's impositions everyday. We do not need to also be battling against humans synthesizing new diseases and introducing them into the population.
 
 Research into and experimentation with disease (both biological and digital) may need to be declared to and registered with the government and forced to be open processes, and the equipment required to carry out such activities may need to be controlled as part of `SovCBIO` law.
+
+## Compliance with `SovCBIO` law:
+
+[Natures owners must prove ability to front certain capital reserves for keeping up to date with SovCBio law, at point of purchase, or anytime thereafter or they lose title after 3 months if not satisfied within that time. It is acceptable to use loans to satisfy this reserve requirement, or it may be a joint contribution satisfied by the owner and tenants, etc. This is similar to the incompensable harms lawsuits for actions, except applied to SovCBio, and it has to do with future ability to comply with legislation rather than future ability to compensate harms. In a sense it's like an uncollected tax - the tax remains under the stewardship of the owner and is unspent].
+
