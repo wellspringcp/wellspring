@@ -6,7 +6,7 @@ One of the problems that previous iterations of individualist polities had is th
 
 This mechanism replaces things like the FDA and EPA with an open process in court which is subject to a jury of peers rather than to the whim of an unelected panel of beaurocrats and the caprice of politically unaccountable appointees. The solution to this problem was never to create a pantheon of unaccountable 3-letter government agencies. It was merely to be innovative and think of how to apply the current private property process to new phenomena.
 
-Innovators working with harmful materials for which there is not yet a known containment and harnessing framework should be able to work within this legal framework to safely experiment and productize their innovation.
+Innovators working with harmful materials for which there is not yet a known containment and harnessing framework should be able to work within this legal framework to safely experiment and productize their innovation, by conducting their lab/study in a geographically isolated or sparsely populated area where no 3rd parties can be harmed, or where such 3rd parties give informed consent to the ongoing NAHA.
 
 It is intentional that the requirement to be able to demonstrate a working, deployed containment method, or a ready rollback mechanism imposes capital barriers. Only those conagents which can front the capitals to safely handle such volatile activities without while preserving non-interference, should be able to attempt such innovative activities. That is indeed, the meaning of "responsible innovation".
 
