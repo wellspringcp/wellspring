@@ -63,6 +63,9 @@ The private property of the individual may only be breached in the pursuit of th
 
 No other exceptions to the sacrosanctness of the sovereignty of the individual over his/her private property are recognized by this Constitution, including causes such as, natural disasters, non-communicable disease and climate change. Environmental protection mechanisms are specified elsewhere in this constitution.
 
+No moral argument in any court shall have standing unless it follows from the above definition of private property with its exceptions being taken into account. No law, bye-law or regulation shall be passed or enforceable, which does not naturally follow by strict, rigid reasoning from the above definition of private property with its exceptions being taken into account.
+
+
 ### Rights protected by `WS`
 
 WS recognizes only 4 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are sub-types of indepagents.
