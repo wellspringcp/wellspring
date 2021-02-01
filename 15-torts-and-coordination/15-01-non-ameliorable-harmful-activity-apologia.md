@@ -14,7 +14,7 @@ It is intentional that the requirement to be able to demonstrate a working, depl
 
 ### Liability:
 
-I originally wanted to limit standing to sue under Attempted `NAHA` to individuals against whose person/property the 3rd party damage is likely. But this would make it difficult for whistleblower employees to invoke this regulatory mechanism - and it is likely that they will be the ones in the best position to know when their company is handling entities/substances/processes likely to cause 3rd party harms, in such a manner as to result in harm. Hence the current standing rules, which are that anyone with evidence has standing - we *want* employees of companies doing dangerous things to have legal standing to hold those companies accountable.
+I originally wanted to limit standing to sue under Attempted `NAHA` to individuals against whose person/property the 3rd party damage is likely. But this would make it difficult for whistleblower employees to invoke this regulatory mechanism - and it is likely that they will be the ones in the best position to know when their company is handling entities/substances/processes likely to cause 3rd party harms, in such a manner as to result in harm. Hence the current standing rules, which are that any credible witness with evidence has standing - we *want* employees of companies doing dangerous things to have legal standing to hold those companies accountable.
 
 ### Defense:
 
