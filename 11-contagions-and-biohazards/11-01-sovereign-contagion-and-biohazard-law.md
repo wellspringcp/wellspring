@@ -2,7 +2,7 @@
 
 ## Justification: why is `SovCBio` law needed?
 
-Private property secures conscious agents against interference and ensures that they can exercise their liberties (capabilities) without fearing violence, duress and fraud from other conscious agents because conscious agents can be rationally deterred from volitionally infringing on liberty through the using frameworks of incentives and disincentives since conscious entities respond to such frameworks out of self interest.
+Private property secures conscious agents against interference and ensures that they can exercise their liberties (capabilities) without fearing violence, duress and fraud from other conscious agents because conscious agents can be rationally deterred from volitionally infringing on liberty through the use of frameworks of incentives and disincentives since conscious entities respond to such frameworks out of self interest.
 
 However, nature sets herself up as a universal antagonist that afflicts conscious life and interferes with their liberty relentlessly - and nature, being (to our knowledge) unconscious, cannot be subjected to a incentive framworks since it cannot rationally grasp its own self interest. With no uncertainty though, nature is a clear, persistent, and unrepentant offender against life and property.
 
