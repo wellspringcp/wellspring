@@ -37,6 +37,8 @@ The `SovCBio` law represents an area of discretion where politicians can opportu
 
 ## `SovCBio` bonds for natures owners:
 
+> [Apologia]: Bond due diligence requirements need not be fulfilled by natures owners in the form of actual bank balances, but insurance plans, loans, service contract agreements with providers to fulfill the injunction, etc, may all suffice.
+
 As outlined above, it may be necessary to recruit natural resource owners, into complying with positive injunctions for due diligence both to keep contagions/biohazards at bay, and to control their spread when they do take root among the populace. Such injunctions shall take the form of a burden imposed on the natures owner to prove that they have sufficient capitals and/or infrastructure to fulfill said injunctions.
 
 That is to say, the mechanism used by the legislature shall not be to expand the `SovCBio` branch and subsume the implementation of the measures into localized branches of the `SovCBio` branch, funded by increased taxes and spending. Rather, the reification of the injunctions shall take the form of a requirement upon natures owners to prove that they have implemented said due diligence requirements/goals, and can readily front the capitals necessary to mobilize their implementation of the due diligence requirements/goals.
@@ -46,6 +48,8 @@ In other words, instead of taxing and spending and centralizing the polity's CBi
 The `SovCBio` branch shall have the power to regularly audit natures owners to ensure their compliance with `SovCBio` law and to file suits of negligence against those natures owners who fail to comply, and legislatively defined penalties shall be defined for those natures owners found to be guilty.
 
 In general it is intended that the natures owner ensure that their tenancy/rental contracts with their bailees enable the natures owners to do such works and upgrades as are required to meet due diligence injunctions, and obviously all such injunctions shall come into effect after legislatively grace periods.
+
+However, the legislature may also define a "general bond" which may be required to be readily capable of mobilization by natures owners in the face of urgent circumstances, in order to ensure that natures owners can comply with reasonable, urgently required new injunctions in the face of an unexpected contagion/biohazard threat.
 
 ## `SovCBio` general populace injunctions:
 
