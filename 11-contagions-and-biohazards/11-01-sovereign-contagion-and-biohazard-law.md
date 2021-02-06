@@ -21,8 +21,8 @@ The `SovCBio` law represents a recognition of this fact (as stated in the "Defin
 The `SovCBio` law represents an area of discretion where politicians can opportunistically grant themselves new powers based on hazy reasoning. For that reason, we want to define clear, limiting principles around its purpose and scope. 
 
 - The extra, positive injunctions of due diligence laid upon contagious conagents for the duration of their infectiousness -- the neglect of which may be made to constitute negligence at common law.
- - Injunctions against knowing carriers of a contagion.
- - Injunctions against the general population for due diligence in the face of a contagion which is contagious before it triggers symptoms/clinical features and which therefore can be spread by an unknowing carrier.
+  - Injunctions against knowing carriers of a contagion.
+  - Injunctions against the general population for due diligence in the face of a contagion which is contagious before it triggers symptoms/clinical features and which therefore can be spread by an unknowing carrier.
 - General and per-disease legal standards for what combinations of symptoms and/or clinical features constitute prima facie presumed knowledge upon the contagious conagent about its infectious state, in order to mediate intent at common law, when a conagent is accused of infecting another conagent.
 - The broader, extra labour required to proactively counter-act nature's mischievous intrusions into human life and keep contagions and biohazards at bay within populated areas.
 - The broader, extra labour required to control the communication of contagions and biohazards when they do arise.
@@ -32,7 +32,7 @@ The `SovCBio` law represents an area of discretion where politicians can opportu
 - Increased access to healthcare labour and services for any class or group through government action/intervention.
 - Mandatory medication or vaccination of indepagents. Under no circumstances shall government have the authority or power to forcefully medicate any indepagent. Animals and other depagents may be forcibly medicated/vaccinated, etc, however.
 - Government-contrived eugenics/cosmetics plans and schemes.
- - Private citizens however, have the right to pursue any cosmetic modification to their own body and property as long as such modifications do not pass along to offspring.
- - In the field of genetic engineering and its peer fields, for example, this might be expressed in law as a ban on germ-line editing, while leaving somatic cell line editing free.
+  - Private citizens however, have the right to pursue any cosmetic modification to their own body and property as long as such modifications do not pass along to offspring.
+  - In the field of genetic engineering and its peer fields, for example, this might be expressed in law as a ban on germ-line editing, while leaving somatic cell line editing free.
 
 ##
