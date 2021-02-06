@@ -6,7 +6,7 @@
 
 Workplaces should clearly publish risks for positions in detail. Any damages incurred while carrying out employment, which are causally due to the nature of the task of employment, which aren't listed among the published risks are grounds for legal action.
 
-## Using the published list of employment risks to force employers to outlay capital safety.
+## Using the published list of employment risks to force employers to outlay capital on safety.
 
 > [FIXME, EXPERIMENTAL]: This section is very difficult to get right. We want to ensure that employers outlay capital on safety equipment and infrastructure to ameliorate the known risks for the tasks they assign. But we also don't want to mandate that employers must use the absolute most cutting edge method for ameliorating any known risk. The question is, by what means shall we determine when "sufficient" effort/capital outlay has been made to free the employer from liability.
 
