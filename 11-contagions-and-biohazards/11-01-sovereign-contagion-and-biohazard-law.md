@@ -6,6 +6,8 @@ Private property secures conscious agents against interference and ensures that 
 
 However, nature sets herself up as a universal antagonist that afflicts conscious life and interferes with their liberty relentlessly - and nature, being (to our knowledge) unconscious, cannot be subjected to incentive framworks since it cannot rationally grasp its own self interest. With no uncertainty though, nature is a clear, persistent, and unrepentant offender against life and property.
 
+> [Apologia]: Even if nature was conscious, ipso facto it would have proven that it has knowingly antagonized humans this whole time and that it is not amenable to reason, so the the argument still stands.
+
 When nature embodies its mischief in the form of contagions (disease, pestilence) and biohazards, the contagions themselves do not obey our laws or respond to rational disincentives either. Therefore, a perfectly well meaning, rational conscious entity who observes the principles of non-interference may become a vector of infection since the contagions which have hijacked him, do not observe those principles and cannot be reasoned with. Then, being infected with a contagion, that conagent can now infect other conagents.
 
 We cannot enforce laws against the contagion or biohazard itself. We can only enforce laws against the contagious individual, and against the conscious owning agents of natural resources who can be enlisted to consider it to be in their rational self interest to control the spread of contagions/biohazards through the law.
