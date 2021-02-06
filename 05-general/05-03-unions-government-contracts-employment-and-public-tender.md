@@ -8,7 +8,7 @@
 
 *Nothing in this section shall not be construed to mean that government employees and contractors may not unionize and pursue collective and litigative action against, or negotiation with, government. This section merely prevents the establishment of forced union obligations via legislation.*
 
-There shall be no legislation which forces any association (or dissociation) amongst individuals, or between individuals and the government (aside from court orders).
+There shall be no legislation which forces any association (or dissociation) amongst individuals or between individuals and any organization.
 
 ## Private sector union legislation:
 
