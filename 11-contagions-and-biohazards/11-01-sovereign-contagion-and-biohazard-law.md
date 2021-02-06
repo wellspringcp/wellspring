@@ -35,4 +35,17 @@ The `SovCBio` law represents an area of discretion where politicians can opportu
   - Private citizens however, have the right to pursue any cosmetic modification to their own body and property as long as such modifications do not pass along to offspring.
   - In the field of genetic engineering and its peer fields, for example, this might be expressed in law as a ban on germ-line editing, while leaving somatic cell line editing free.
 
-##
+## `SovCBio` bonds for natures owners:
+
+As outlined above, it may be necessary to recruit natural resource owners, into complying with positive injunctions for due diligence both to keep contagions/biohazards at bay, and to control their spread when they do take root among the populace. Such injunctions shall take the form of a burden imposed on the natures owner to prove that they have sufficient capitals and/or infrastructure to fulfill said injunctions.
+
+That is to say, the mechanism used by the legislature shall not be to expand the `SovCBio` branch and subsume the implementation of the measures into localized branches of the `SovCBio` branch, funded by increased taxes and spending. Rather, the reification of the injunctions shall take the form of a requirement upon natures owners to prove that they have implemented said due diligence requirements/goals, and can readily front the capitals necessary to mobilize their implementation of the due diligence requirements/goals.
+
+In other words, instead of taxing and spending and centralizing the polity's CBio response mechanism implementation into the government, the tax remains uncollected by government (but very much still imposed on the natures owners) and kept within the private sector as a sort of reserve requirement to be kept readily on hand by natures owners to be nimbly deployed.
+
+The `SovCBio` branch shall have the power to regularly audit natures owners to ensure their compliance with `SovCBio` law and to file suits of negligence against those natures owners who fail to comply, and legislatively defined penalties shall be defined for those natures owners found to be guilty.
+
+In general it is intended that the natures owner ensure that their tenancy/rental contracts with their bailees enable the natures owners to do such works and upgrades as are required to meet due diligence injunctions, and obviously all such injunctions shall come into effect after legislatively grace periods.
+
+## `SovCBio` general populace injunctions:
+
