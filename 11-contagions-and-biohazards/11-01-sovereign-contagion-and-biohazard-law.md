@@ -20,7 +20,7 @@ The `SovCBio` law represents a recognition of this fact (as stated in the "Defin
 
 ## Scope, purpose and limitations:
 
-The `SovCBio` law represents an area of discretion where politicians can opportunistically grant themselves new powers based on hazy reasoning. For that reason, we want to define clear, limiting principles around its purpose and scope. 
+The `SovCBio` law is potentially an area ofpolicy where politicians can opportunistically grant themselves new powers based on hazy reasoning. For that reason, we want to define clear, limiting principles around its purpose and scope. 
 
 `SovCBio` legislation shall concern itself solely with the following: 
 - The extra, positive injunctions of due diligence laid upon contagious conagents for the duration of their infectiousness -- the neglect of which may be made to constitute negligence at common law. Such injunctions shall fall into the following two categories:
