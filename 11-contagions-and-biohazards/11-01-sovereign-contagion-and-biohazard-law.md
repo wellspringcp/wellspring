@@ -47,7 +47,7 @@ In other words, instead of taxing and spending and centralizing the polity's CBi
 
 The `SovCBio` branch shall have the power to regularly audit natures owners to ensure their compliance with `SovCBio` law and to file suits of negligence against those natures owners who fail to comply, and legislatively defined penalties shall be defined for those natures owners found to be guilty.
 
-In general it is intended that the natures owner ensure that their tenancy/rental contracts with their bailees enable the natures owners to do such works and upgrades as are required to meet due diligence injunctions, and obviously all such injunctions shall come into effect after legislatively grace periods.
+In general it is intended that the natures owner ensure that their tenancy/rental contracts with their bailees enable the natures owners to do such works and upgrades as are required to meet due diligence injunctions, and obviously all such injunctions shall come into effect after legislatively defined grace periods.
 
 However, the legislature may also define a "general bond" which may be required to be readily capable of mobilization by natures owners in the face of urgent circumstances, in order to ensure that natures owners can comply with reasonable, urgently required new injunctions in the face of an unexpected contagion/biohazard threat.
 
