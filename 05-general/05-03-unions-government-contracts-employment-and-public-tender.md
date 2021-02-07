@@ -6,13 +6,13 @@
 
 ## Public sector union legislation:
 
-*Nothing in this section shall not be construed to mean that government employees and contractors may not unionize and pursue collective and litigative action against, or negotiation with, government. This section merely prevents the establishment of forced union obligations via legislation.*
+*Nothing in this section shall be construed to mean that government employees and contractors may not unionize and pursue collective and litigative action against, or negotiation with, government. This section merely prevents the establishment of forced union obligations via legislation.*
 
 There shall be no legislation which forces any association (or dissociation) amongst individuals or between individuals and any organization/union. The freedom both to associate and to dissociate shall not be infringed by government. 
 
 ## Private sector union legislation:
 
-*Nothing in this section shall not be construed to mean that government employees and contractors may not unionize and pursue collective and litigative action against, or negotiation with, employers. This section merely prevents the establishment of forced union obligations via legislation.*
+*Nothing in this section shall be construed to mean that government employees and contractors may not unionize and pursue collective and litigative action against, or negotiation with, employers. This section merely prevents the establishment of forced union obligations via legislation.*
 
 There shall be no legislation to force any private individuals/entities to associate or interact. The freedom both to associate and to dissociate shall not be infringed by government. The following non-exhaustive list of attempts to use government to force association/interaction shall be unenforceable:
 
