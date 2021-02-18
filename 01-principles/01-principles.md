@@ -42,7 +42,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
 
 ### Definition of Rights
 
-Rights are capabilities and nothing more. A "right" is an undertaking which an indepagent is capable of performing on its own, if left unimpeded. That is, a right is something which an indepagent can perform "by right" of its own nature/design. A right is **not** a claim on the capabilities, mind/consciouness or labour of **another** indepagent.
+There is only one fundamental right: that of the individual to its own life and by inference, its right to use its own capabilities (mental and physical) in the pursuit thereof. No indepagent has a moral claim on the life (and by extension, the capabilities) of other indepagents since no indepagent can morally claim to own another indepagent. Rights are capabilities and nothing more. A "right" is an undertaking which an indepagent is capable of performing on its own, if left unimpeded. That is, a right is something which an indepagent can perform "by right" of its own nature/design. A right is **not** a claim on the capabilities, mind/consciouness or labour of **another** indepagent. 
 
 Rights and private property law go hand in hand; rights are capabilities, and private property law ensures non-interference: to wit, that no indepagent's capabilities are used to injur or impede another indepagent's ability to exercise its rights.
 
@@ -54,7 +54,9 @@ Private Property law is that set of restrictions which stem from the recognition
 
 The private property of the individual may only be breached in the pursuit of the following exceptions:
 
-- In as much as preconagents are unfit to sensibly manage their own property: there shall be laws to designate both the automatic and explicit guardianship, trusteeship and powers of attorney to others for the unsound of mind during such time that they are unsound (pueragency, senesagency, diagnosed mental unsoundness, accident, etc).
+- In as much as preconagents are unfit to sensibly manage their own lives and property:
+  - There shall be laws to designate both the automatic and explicit guardianship, trusteeship and powers of attorney to others for the unsound of mind during such time that they are unsound (pueragency, senesagency, diagnosed mental unsoundness, accident, etc).
+  - `WS` does not abide by the notion that parents have an absolute power over their children since children are individuals as much as sui juris conagents are. Biological parents are the explicit guardians of their children owing to the fact that it was the parents' unilateral choice to bring the child into existence and the child was not consulted. Hence parents take on legal accountability for the protection of the life and property of their children until such time that they reach sui juris. There shall be laws to protect the life and property of children while they have not yet matured to sui juris.
 - In as much also, as communicable diseases and biohazards are a market failure whose urgency demands that the gradual hand of the market to reach equilibrium be bypassed for expeditious measures: communicable (and only communicable) diseases and biohazards shall be an exception to individual sovereignty, as outlined in `SovCBio` law.
 - Finally in order to resolve information asymmetries and discourage fraud: laws which force the publication of component ingredients in a product or service (but not the method thereof), and which force the prominent display of expiry dates and warnings of danger are a permissible exception to the non-negotiability of private property law. Furthermore, the government may make laws requiring corpagents to publish openly, or maintain privately (for the purpose of subpeona for evidence in trials by jury) records which are of interest to common law plaintiffs.
 - The preparedness of the nation for war to protect the private property of `WS` residents, as outlined in `SovWI` law.
