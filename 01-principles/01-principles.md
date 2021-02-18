@@ -56,7 +56,7 @@ The private property of the individual may only be breached in the pursuit of th
 
 - In as much as preconagents are unfit to sensibly manage their own lives and property:
   - There shall be laws to designate both the automatic and explicit guardianship, trusteeship and powers of attorney to others for the unsound of mind during such time that they are unsound (pueragency, senesagency, diagnosed mental unsoundness, accident, etc).
-  - `WS` does not abide by the notion that parents have an absolute power over their children since children are individuals as much as sui juris conagents are. Biological parents are the explicit guardians of their children owing to the fact that it was the parents' unilateral choice to bring the child into existence and the child was not consulted. Hence parents take on legal accountability for the protection of the life and property of their children until such time that they reach sui juris. There shall be laws to protect the life and property of children while they have not yet matured to sui juris.
+  - `WS` does not abide by the notion that parents have absolute power over their children since children are individuals as much as sui juris conagents are. Biological parents are the explicit, legally enforced guardians of their children owing to the fact that it was the parents' unilateral choice to bring the child into existence and the child was not consulted. Hence parents take on legal accountability for the protection of the life and property of their children until such time that they reach sui juris. There shall be laws to protect the life and property of children while they have not yet matured to sui juris.
 - In as much also, as communicable diseases and biohazards are a market failure whose urgency demands that the gradual hand of the market to reach equilibrium be bypassed for expeditious measures: communicable (and only communicable) diseases and biohazards shall be an exception to individual sovereignty, as outlined in `SovCBio` law.
 - Finally in order to resolve information asymmetries and discourage fraud: laws which force the publication of component ingredients in a product or service (but not the method thereof), and which force the prominent display of expiry dates and warnings of danger are a permissible exception to the non-negotiability of private property law. Furthermore, the government may make laws requiring corpagents to publish openly, or maintain privately (for the purpose of subpeona for evidence in trials by jury) records which are of interest to common law plaintiffs.
 - The preparedness of the nation for war to protect the private property of `WS` residents, as outlined in `SovWI` law.
@@ -70,7 +70,7 @@ No moral argument in any court shall stand unless it follows logically from the 
 
 ### Rights protected by `WS`
 
-WS recognizes only 4 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are sub-types of indepagents.
+WS legally recognizes only 4 fundamental rights; they only apply to indepagents. No other species' rights are recognized before WS' courts. To wit, every other species (depagents, animals and mechanimals) may be privatized as property. Pueragents and Senesagents are sub-types of indepagents.
 
 The right to:
 1. Think/associate/dissociate freely. There are no exceptions.
