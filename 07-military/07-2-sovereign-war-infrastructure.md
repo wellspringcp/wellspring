@@ -38,3 +38,5 @@ Eminent domain may only be used by the military branch ***subject to justificati
 ## Wartime interruption of service
 
 All sovereign infrastructure which is rented out to the public (such as roads and rail, or communications) shall have a clearly defined revocation clause explaining that in the event of war, such infrastructure may become unavailable for public use indefinitely, even for paying private customers. The government shall make all reasonable attempts however, to avoid having to invoke this clause by anticipating its service-level requirements for war during peacetime and specifying them to the contract awardees so that in the event of war, there will be scant need for this clause.
+
+I.e, ideally, the regular internal commerce and trade activities of the private sector should be unaffected by the advent of war to whatever extent is possible. The purpose of war is to defend and secure the private property liberty of the residents of `WS`, so that liberty should as far as is at all possible, be enjoyed by `WS` residents at all times, or else the war itself would be pointless.
