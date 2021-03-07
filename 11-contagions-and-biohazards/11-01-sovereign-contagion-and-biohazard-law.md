@@ -28,7 +28,7 @@ The `SovCBio` law is potentially an area ofpolicy where politicians can opportun
   - Injunctions against the general population for due diligence in the face of a contagion which is contagious before it triggers symptoms/clinical features and which therefore can be spread by an unknowing carrier.
 - General and per-disease legal standards for what combinations of symptoms and/or clinical features constitute presumed prima facie evidence of knowledge upon the contagious conagent about its infectious state, in order to mediate intent at common law, when a conagent is accused of infecting another conagent.
 - The broader, extra labour required to proactively counter-act nature's mischievous intrusions into human life and keep contagions and biohazards at bay within populated areas.
-- The broader, extra labour required to control the communication of contagions and biohazards when they do arise.
+- The broader, extra labour required to control the communication of contagions and biohazards when they do arise within populated areas.
 
 `SovCBio` law is not to be used for any other purpose whatsoever. An ***inexhaustive*** list of goals that `SovCBio` law is adamantly ***not*** intended to pursue is:
 
