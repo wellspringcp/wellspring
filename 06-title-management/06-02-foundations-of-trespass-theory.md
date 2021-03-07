@@ -4,7 +4,7 @@
 
 All natureses not titled may be freely traveled across by any individual. Though no individual may exercise dominion over them other than in travelling across or through them. The right to exercise dominion over any natures shall be via title purchase.
 
-It shall be assumed that natureses not encompassed or otherwise demarcated as private are unsold. Airspace may be demarcated with regularly interspersed beacons or bulletin advisories distributed in sensible places, or other such means. Radiofrequencies may be demarcated with a commonly agreed upon noise/jamming signal, or other such means.
+It shall be assumed that natureses not encompassed or otherwise demarcated as being private, are unsold/unowned. Airspace may be demarcated with regularly interspersed beacons or bulletin advisories distributed in sensible places, or other such means. Radiofrequencies may be demarcated with a commonly agreed upon noise/jamming signal, or other such means.
 
 Where the nature of a natures does not lend itself to visible demarcations being placed on the natures, bulletin advisories distributed at legislatively defined, natures-specific, reasonable locations shall suffice and individuals attempting to exercise dominion over such natureses should check such bulletin advisories or risk incurring liability.
 
