@@ -152,7 +152,7 @@ This constitution is a means to an end, and not an end unto itself. The end goal
 
 [Apologia]: I.e, the faction must have a positive proposition. It cannot merely be fighting against tyranny. It must be fighting *for* liberty, and its policies must be openly known to the residents of the polity before any overthrow of the government occurs.
 
-- The faction must have a complete, publicly published constitution which asserts and enforces the private property sovereignty of the individual.
+- The faction must have a complete, publicly published constitution which asserts and enforces the private property sovereignty of the individual. This constitution need not be remarkably original. It can consist of this existing `WS` constitution with some amendments.
 - The faction must already be serving the residents of the polity by asserting and enforcing their private property sovereignty against the tyranny of the government of that era.
 
 This constitution preserves the right of residents to keep and bear arms subject to the terms outlined in the "Possession of private weaponry" section, in order to enable such factions to arise and serve their fellow residents and amass reputation and credibility and build legitimacy. This should serve both as a means to discourage the government from becoming tyrannical by ensuring that it will clearly see its rival rising and hopefully reform itself; and also as a means to ensure that such a rival has the room required to establish itself should it be needed.
