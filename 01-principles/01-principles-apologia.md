@@ -138,6 +138,14 @@ There is no harm in acknowledging that we are not equal. The fabric of our defen
 
 
 
-# The right to leave
+## Freedom of citizenship:
+
+These programs seek to give force to the statement, "If you don't like private property and free markets, please leave."
+
+### The right to leave
 
 `WS` does not wish to hold anyone captive to its borders, who wishes to leave. This program makes it practical for indepagents who are not happy living in a free market to seek greener pastures elsewhere. It is available only to citizens of `WS`. Indepagents who immigrated willingly to `WS` will not have access to this program.
+
+### The right to seek greener pastures
+
+Again, `WS` does not with to hold captive to its borders, anyone who wishes to leave. If someone thinks that another polity is better than a `WS` polity, we welcome them to please take advantage of this program to leave, and if they can find someone else who would like to take their place, then we welcome the other individual with open arms.
