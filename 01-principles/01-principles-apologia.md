@@ -150,7 +150,7 @@ These programs seek to give force to the statement, "If you don't like private p
 
 ### The right to seek greener pastures
 
-Again, `WS` does not with to hold captive to its borders, anyone who wishes to leave. If someone thinks that another polity is better than a `WS` polity, we welcome them to please take advantage of this program to leave, and if they can find someone else who would like to take their place, then we welcome the other individual with open arms.
+Again, `WS` does not with to hold captive to its borders, anyone who wishes to leave. An individual born in a `WS` polity who prefers a different polity, is welcome to take advantage of this program to leave, and we welcome the new individual whom they swap citizenship with, with open arms.
 
 ## Individual private property sovereignty has veto power over the government
 
