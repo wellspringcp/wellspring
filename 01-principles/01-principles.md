@@ -42,7 +42,7 @@ Republic Holidays: Each of the cornerstone principles of the republic shall have
 
 ### Definition of Rights
 
-There is only one fundamental right: that of the individual to its own life and by inference, its right to use its own capabilities (mental and physical) in the pursuit thereof. No indepagent has a moral claim on the life (and by extension, the capabilities) of other indepagents and no indepagent can morally claim to own another indepagent. Rights are capabilities and nothing more. That is, a right is a capability which an indepagent can fully exercise "by right" of its own nature/design if left unimpeded. A right is **not** a claim on the capabilities, mind/consciouness or labour of **another** indepagent. 
+There is only one fundamental right: that of the individual to its own life and by inference, its right to use its own capabilities (mental and physical) in the pursuit thereof. No indepagent has a moral claim on the life (and by extension, the capabilities) of other indepagents and no indepagent can morally claim to own another indepagent. Rights are capabilities and nothing more. That is, a right is a capability which an indepagent can fully exercise on its own, "by right" of its own nature/design, if left unimpeded. A right is **not** a claim on the capabilities, mind/consciouness or labour of **another** indepagent. 
 
 Rights and private property law go hand in hand; rights are capabilities, and private property law ensures non-interference: to wit, that no indepagent's capabilities are used to injur or impede another indepagent's ability to exercise its rights.
 
