@@ -44,6 +44,8 @@ Contagions do not respect private property and do not limit their deleterious ef
 
 In the same way, the preparation for war readiness may require the government to purchase assets, geographical locations etc whose control is essential.
 
+On laws which require the maintenance of logs and records which are of interest to common law plaintiffs, the aim here is to encourage papertrails at those entities which sit between parties as a witness or service provider in order to act as a disincentive against violations of private property law. Such papertrails may be mandated by the legislature for such things as telecomms companies being required to maintain X years of text message backlog or call logs; or mail (both physical and electronic) service providers being required to preserve X years of logs.
+
 ### Rights protected by `WS`
 
 Left unimpeded, most indepagents are capable of exercising each of these rights. It is therefore their right, **by right**, to exercise them subject only to the principle of non-interference (private property law).
@@ -149,3 +151,13 @@ These programs seek to give force to the statement, "If you don't like private p
 ### The right to seek greener pastures
 
 Again, `WS` does not with to hold captive to its borders, anyone who wishes to leave. If someone thinks that another polity is better than a `WS` polity, we welcome them to please take advantage of this program to leave, and if they can find someone else who would like to take their place, then we welcome the other individual with open arms.
+
+## Individual private property sovereignty has veto power over the government
+
+The forerunner American republic was an experiment in self-governance. It was imperfect, and this constitution seeks to improve on the forerunner republic and patch up its holes. In the same way that the forerunner republic was degraded over time, so also will polities based on this constitution. This constitution is not an end unto itself - it is the blueprint for a successor experiment to follow its forerunner. It will eventually be succeeded by a better consitution which will assert and preserve individual private property sovereignty even better than this one does.
+
+As seen in the forerunner republic, the careful wording of a constitution is no guarantee against the insipient, persistent, relentless and incremental efforts by enemies of private property to subvert it and they will labour tirelessly for generations to sieze upon loopholes in the wording and open a chink in the armour of the constitution. It is therefore necessary to clarify that the end goal of this constitution is individual private property sovereignty. The wording of this constitution is merely a maze intended to frustrate the efforts of collectivists and send them off groping in myriad directions.
+
+This constitution and any government based on it are means to the end of individual private property sovereignty and therefore private property sovereignty has veto power over this constitution and the governments based on it.
+
+Regarding the overthrow of a government which infringes on private property sovereignty, the faction which proposes to do this must have a positive proposition. It cannot merely be fighting against tyranny. It must be fighting *for* liberty, and its policies must be openly known to the residents of the polity before any overthrow of the government occurs. Hence the requirement that such a faction must have a publicly published and well disemanated constitution (or amendments to this one). Such a faction must be fighting for a well-identified set of principles which are compatible with individual private property sovereignty.
