@@ -131,7 +131,9 @@ No information shall be made secret by the government unless it pertains to war,
 
 All affairs of government not concerning war secrets shall be open to attendance by the public. If there is insufficient room to host all those interested in attending, all the "seating" shall be auctioned off to the highest bidders on the `Externality Auction`. There shall be no public spending on broadcast agencies/businesses. There shall be no nationalized or government owned or subsidized media agencies. Each branch of government shall arrange to make such "seating" or other means of attendance as are required, physical or otherwise (digital, etc) available for auction.
 
-## The right to leave
+## Freedom of citizenship:
+
+### The right to leave
 
 Citizens shall have a valid claim to the "Right to leave" program which shall be effectuated by a department under the Estate branch. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The right to leave program grants:
 
@@ -143,6 +145,10 @@ Citizens shall have a valid claim to the "Right to leave" program which shall be
 - It is up to the applicant to procure any visas/authorization for residency, transit, etc required to reach and domicile themselves in their end destination.
 
 The government shall not impose obstacles that make it difficult to claim this program's benefits. Citizens shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher priorities against it, such as SovWI and SovCBio emergencies.
+
+### The right to seek greener pastures
+
+Citizens shall have a valid claim to the "Greener Pastures" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the trade partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to trade partner.
 
 ## Individual private property sovereignty has veto power over the government
 
