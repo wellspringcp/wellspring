@@ -61,12 +61,9 @@ The private property of the individual may only be breached in the pursuit of th
 - Finally in order to resolve information asymmetries and discourage fraud: laws which force the publication of component ingredients in a product or service (but not the method thereof), and which force the prominent display of expiry dates; as well as warnings of danger (e.g., warnings about epileptic siezures or safety hazards) are a permissible exception to the non-negotiability of private property law. Furthermore, the government may make laws requiring corpagents to publish openly, or maintain privately (for the purpose of subpeona for evidence in trials by jury) records which are of interest to common law plaintiffs.
 - The preparedness of the nation for war to protect the private property of `WS` residents, as outlined in `SovWI` law.
 
-> [Apologia]: Explain what types of records qualify - things like telecomms companies being required to maintain X years of text messages or call logs, or email companies maintaining X years of emails, etc.
-
 No other exceptions to the sacrosanctness of the sovereignty of the individual over his/her private property are recognized by this Constitution, including causes such as, natural disasters, non-communicable disease and climate change. Environmental protection mechanisms are specified elsewhere in this constitution.
 
 No moral argument in any court shall stand unless it follows logically from the above definition of private property with its exceptions being taken into account. No law, bye-law or regulation shall be passed or enforceable, which does not naturally follow by strict, rigid reasoning from the above definition of private property with its exceptions being taken into account.
-
 
 ### Rights protected by `WS`
 
@@ -152,13 +149,9 @@ Citizens shall have a valid claim to the "Greener Pastures" program. Under this 
 
 ## Individual private property sovereignty has veto power over the government
 
-> [Apologia]: As seen in the forerunner republic, the careful wording of a constitution is no guarantee against the insipient, persistent, relentless and incremental efforts by enemies of private property to subvert it and they will labour tirelessly for generations to sieze upon loopholes in the wording and open a chink in the armour of the constitution. It is therefore necessary to clarify that the end goal of this constitution is individual private property sovereignty. The wording of this constitution is merely a maze intended to frustrate the efforts of collectivists and send them off groping in myriad directions.
-
 This constitution is a means to an end, and not an end unto itself. The end goal is individual private property sovereignty. If at any point collectivist tyranny has arisen from within due to the neverending labours of the collectivists within the polity, it is legitimate for the residents of the polity to overthrow the political order of that day and re-establish a form of government which will again assert and enforce the private property sovereignty of the individual. At such a time the principle of legitimacy is as simple as this: the faction which meets the following two requirements shall have the right to claim legitimacy to overthrow the government and install a new government.
 
-> [Apologia]: I.e, the faction must have a positive proposition. It cannot merely be fighting against tyranny. It must be fighting *for* liberty, and its policies must be openly known to the residents of the polity before any overthrow of the government occurs.
-
-- The faction must have a complete, publicly published constitution which asserts and enforces the private property sovereignty of the individual. This constitution need not be remarkably original. It can consist of this existing `WS` constitution with some amendments.
+- The faction must have a complete, publicly published and well disemanated constitution which asserts and enforces the private property sovereignty of the individual. This constitution need not be remarkably original. It can consist of this existing `WS` constitution with some amendments.
 - The faction must already be actively serving the residents of the polity by asserting and enforcing their private property sovereignty against the tyranny of the government of that era.
 
 This constitution preserves the right of residents to keep and bear arms subject to the terms outlined in the "Possession of private weaponry" section, in order to enable such factions to arise and serve their fellow residents and amass reputation and credibility and build legitimacy. This should serve both as a means to discourage the government from becoming tyrannical by ensuring that it will clearly see its rival rising and hopefully reform itself; and also as a means to ensure that such a rival has the room required to establish itself should it be needed.
