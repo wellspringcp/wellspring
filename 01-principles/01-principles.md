@@ -148,7 +148,7 @@ The government shall not impose obstacles that make it difficult to claim this p
 
 ### The right to seek greener pastures
 
-Citizens shall have a valid claim to the "Greener Pastures" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the trade partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to trade partner.
+Citizens shall have a valid claim to the "Greener Pastures" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the trade partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to trade partner. An applicant to this program may file a joint application for both this program and the "Right to leave" program in order to benefit from the "Right to Leave" program as their means of departure to their greener pastures.
 
 ## Individual private property sovereignty has veto power over the government
 
