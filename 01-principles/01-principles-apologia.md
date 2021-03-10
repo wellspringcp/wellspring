@@ -142,7 +142,7 @@ There is no harm in acknowledging that we are not equal. The fabric of our defen
 
 ## Freedom of citizenship:
 
-These programs seek to give force to the statement, "If you don't like private property and free markets, please leave."
+We do not wish to hold anyone born within a `WS` polity captive to our borders, and we wish to make it materially plausible for persons unhappy in `WS` polities to leave, and to encourage those people to leave.
 
 ### The right to leave
 
