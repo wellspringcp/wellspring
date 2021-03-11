@@ -108,9 +108,9 @@ It is important to specifically address the followers of Judeo-Christianity and 
 
 #### Does the Judeo-Christian bible actually support equality as the foundation for rights? What does it actually say?
 
-A common bromide is that the Judeo-Christian god "created all men equal" -- curiously, this maxim appears nowhere in the Judeo-Christian bible. The Judeo-Christian moral framework does **not** say that their god created all men equal; rather that he created all men *in his image*. Those are two different statements with different ramifications. Judeo-Christian ethics is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** inadequacies clearly visible in him; not because he is your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual. "Equality" is actually a humanist ethical foundation.
+A common bromide is that the Judeo-Christian god "created all men equal" -- curiously, this maxim appears nowhere in the Judeo-Christian bible. The Judeo-Christian moral framework does **not** say that their god created all men equal; rather that he created all men *in his image*. Those are two different statements with different ramifications. Judeo-Christian ethics is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** inadequacies clearly visible in him; not because he is your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual. You are commanded to be like the Bereans - so search diligently and see whether this is so.
 
-In fact, the Judeo-Christian God proudly admits that He creates people unequally in order that when his purpose is fulfilled in a person's life, He (God) might gain even more glory in that He was able to accomplish His purpose through a flawed individual **in spite of** His flaws.
+"Equality" is actually a humanist ethical foundation. In fact, the Judeo-Christian God proudly admits that He creates people unequally in order that when his purpose is fulfilled in a person's life, He (God) might gain even more glory in that He was able to accomplish His purpose through a flawed individual **in spite of** His flaws.
 
 #### Objectivism's "Morality of life" based on the metaphysical identity of humankind is a better approximation of Judeo-Christian morality than "Equality" is.
 
@@ -131,37 +131,20 @@ We submit to the Judeo-Christian world that this framework of rights is a far st
 
 Moreover, we submit for all peoples' evaluation, the objectively observable fact that the assertion of "Equality" is simply untrue on its face to begin with.
 
-### An analysis of the two main traditional arguments for rights:
+### An appeal to non-Judeo-Christians:
 
-In this section we will show how neither "God-given rights" nor "equality" suffice as common, objective legal foundations for individual rights. A legal rights philosphy must be evident to all within a polity before all can be expected to subordinate their minds to it. Note that `WS` does not opine on whether or not a god exists; it merely points out that in a polity where multiple world views exist (including atheists), "God-given rights" cannot act as a shared legal foundation for rights.
+In this section we will show how neither "God-given rights" nor "equality" suffice as common, objective legal foundations for human rights. A legal rights philosphy must be evident to all within a polity before all can be expected to subordinate their minds to it. Note that `WS` does not opine on whether or not a god exists; it merely points out that, in a polity where multiple world views exist (including atheists):
 
-This section pits believers in both of the traditional rights foundations against a would-be violator of their rights, and they have no defense against him unless they can convince some neutral bystanders (who are willing to be persuaded) to defend their claim to rights.
+- "God-given rights" cannot act as a shared legal foundation for rights, since many people do not believe in a god, and those who do, don't agree on which god's commandments should be the objective standard for morality.
+- "Equality" cannot act as a shared legal foundation for rights, since any rational person who observes the world around them can see that humans are not in fact, equal.
 
-#### The "God-given rights" tradition:
-
-Assume that the would-be victim is a Judeo-Christian "God-given rights" believer.
-
-To convince the audience, he would say, "God created all men in his image, and in each person is the potential to become a son of god - and so god values all human lives because they are all potentially his children. When you violate a human life, you potentially deprive god of a future child, and you also disrespect the image of god inherent in that person; and god, the injured party will eventually take up his quarrel on judgmment day. Therefore, you, audience, should fear god and come to my aid."
-
-This would-be victim's rights rest entirely on whether or not the Judeo-Christian god exists. If he doesn't exist, or if a god exists but is not the Judeo-Christian god, his argument is invalid and his claim to rights has no strength. His would-be violator need only say, "Your god does not exist," and unless the would-be victim could prove that his god exists, he loses the argument.
-
-Again, note that `WS` is not opining on whether or not god does exist and would really take up the quarrel on judgment day. `WS` is seeking a framework which will produce desirable results here on earth, in this lifetime.
-
-The "God-given rights" foundation cannot serve as a common framework for asserting rights among large numbers of people who have wildly divergent world views.
-
-#### The "Equality" tradition:
-
-Let's assume the would-be victim is a wheelchair-bound cripple from birth with a mental disorder that makes his cognitive abilities less sharp than the average individual.
-
-To convince the audience, he might say, "You can have no right to violate my rights, owing to the fact that we are all equal". His assailant need only point out that as a matter of fact he and the would-be victim are not equal, and the would-be victim loses the argument.
-
-The "Equality" foundation cannot serve as a common framework for asserting rights among large numbers of people who have wildly divergent world views.
+An objective morality is the only morality which can justly govern mankind.
 
 ### A better way - a New Ideal to serve as the foundation for rights:
 
-There is no harm in acknowledging that we are not equal. The fabric of our defense of the rights of the individual will not come undone because there is an even **better** foundation for rights waiting for us.
+Our metaphysical nature as a species is a stronger bedrock and foundation for objective rights and morality than either of the traditional theories of rights - especially because it is not merely a theory, but rather a set of observable, objectively verifiable facts. There is no harm in acknowledging that we are not equal. The fabric of our defense of the rights of the individual will not come undone because there is an even **better**, objective foundation for rights waiting buttress it.
 
-
+This more solid foundation is The New Ideal - the morality of life.
 
 ## Freedom of citizenship:
 
