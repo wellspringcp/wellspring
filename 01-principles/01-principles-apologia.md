@@ -17,11 +17,15 @@ To be even more cautious, we have decided to explicitly address each of the repu
   - We disavow the view that in war, the civilian populace of an enemy nation is in effect, fair game and acceptable collateral damage. We assert that in war, the ideological and political leaders of the enemy entity should be targeted directly where possible, and where it is necessary to engage in large scale destruction in order to destroy the enemy entity, all measures should be taken to be as surgical as is **reasonable and practical** (while also being sure not to paralyze ourselves with inaction in the face of a threat of our own destruction), and **if practical**, to warn civilians to get to safety beforehand.
 - Antonin Scalia:
 
+## Interpretation.
+
+`WS` fixes a shortcoming of the forerunning republic's constitution by explicitly specifying a framework for interpretation and construction in order to ensure consistency in interpretation, since phrases such as "shall not be infringed" have tended to confuse even the most erudite of scholars.
+
 ## Symbols, celebrations and rituals.
 
 These symbolic paraphernalia are not intended to imply any collectivist/tribal/nationalist cohesion among individuals but rather to serve as exhortations to the exact opposite. Whereas other polities use mottos, watchwords, anthems, flags, coats of arms, national animals and so on to engender a sense of shared stake in the population, we use these elements to assert the individualist nature of our values and to encourage people to reject collectivist cultural maypoles.
 
-- *ReNoDem*: The American founding fathers omitted an explicit statement that the US Constitution was designed specifically to resist Democracy, and this negligence left the door open for the US Republic to be broken down into a Democracy.
+- *ReNoDem*: The founders of the forerunning republic omitted an explicit statement that the US Constitution was designed specifically to resist Democracy, and this negligence left the door open for the US Republic to be broken down into a Democracy.
 - *Magnificata*: We chose this name because we didn't want to overload the word "magna" in search engine results - ideally, people should easily be able to find information about the magna carta without dealing with overloaded results.
 - *InteGrid*: It is important to explicitly put down arguments that the legislature is supposed to be passing new laws for their own sake. Legislative stagnation is a value; not a dysvalue.
 - *Sictember*: Tyranny is not to be born with longsuffering.
@@ -36,13 +40,11 @@ The last few holidays (Exis, ReGRe and EIConI) assert positive philosophical arg
 
 Notice that it says that rights and private property law go hand in hand. It does not say that rights and "responsibilities" go hand in hand. The individual is only required at his/her own peril to ensure that their activities do not interfere with the exercise of the capabilities of others - this is a negative injunction. The individual is not beholden to any positive obligations to any other individual, except those obligations which s/he takes on voluntarily in contract. The individual is an end unto himself and not the means to any other individual or group's ends.
 
+Man is not a social animal but a contractual animal.
+
 ### Definition of Private Property
 
-`WS` recognizes and respects the sovereignty of the individual with exceptions applied for contagions/biohazards and war readiness.
-
-Contagions do not respect private property and do not limit their deleterious effects only to those actors who volitionally put themselves at risk. In order to enforce non-interference, controls on the behaviours of infected/contagious entities may be required. Biohazard may materials into the same category, though not as frequently as contagions because contagions actively seek to propagate themselves, independent of whether or not their host intends to assist them in propagation.
-
-In the same way, the preparation for war readiness may require the government to purchase assets, geographical locations etc whose control is essential.
+`WS` recognizes and respects the sovereignty of the individual with exceptions applied for individuals with cognitive and physical disabilities, communicalble contagions/biohazards, the keeping of records for common law plaintiffs, the display of warnings and cautions, and war readiness.
 
 On laws which require the maintenance of logs and records which are of interest to common law plaintiffs, the aim here is to encourage papertrails at those entities which sit between parties as a witness or service provider in order to act as a disincentive against violations of private property law. Such papertrails may be mandated by the legislature for such things as telecomms companies being required to maintain X years of text message backlog or call logs; or mail (both physical and electronic) service providers being required to preserve X years of logs.
 
@@ -63,9 +65,9 @@ This mechanism is intended to allow people to resist government overreach by mak
 
 ## Republic, not Democracy.
 
-Explicitly make it clear that `WS` is a Republic and not a Democracy in the body of the document because one of the biggest problems liberty defenders have had to contend with in the American constitution is that it is never explicitly stated that the US Constitution is **not** a Democracy. It has even become common for US politicians to call the USA a Democracy or to speak highly of Democracy. The US constitution specifically calls itself a Republic and mandates that a "Republican form of government" be guaranteed to all of the states. `WS` goes further rectifies this shortcoming of the US constitution by making it clear that it is intentionally **not** a Democracy.
+It has became common for politicians of the forerunner republic to call that republic a Democracy or to speak highly of Democracy. The forerunner polity's constitution specifically calls itself a Republic and mandates that a "Republican form of government" be guaranteed to all of its states. `WS` goes further and rectifies this shortcoming of the forerunner constitution by making it clear that not only is `WS` a Republican constitution, but further, that it is intentionally **not** a Democracy.
 
-`WS` rejects rule by whim, in all of its forms. Here are some examples of rule by whim:
+`WS` rejects rule by whim, in all of its forms. `WS` is founded upon rule of law. Here are some examples of rule by whim:
 
 - Democracy
 : Rule of some defined majority. In a democracy the changing whims of some defined majority **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that controlling majority occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of that defined majority.
@@ -74,9 +76,7 @@ Explicitly make it clear that `WS` is a Republic and not a Democracy in the body
 - Monarchy
 : Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
 
-`WS` is founded upon rule of law.
-
-### The need for change
+### The need for change in a Republic.
 
 > [Incomplete]: Finish this section
 
@@ -98,15 +98,31 @@ In a republic, changes to law may sometimes come rapidly where the values of an 
 
 ### Why we must graduate past "Equality" as our foundation for rights:
 
-A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for bigoted groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool and style themselves a voice of reason and truth against a mainstream current of lies.
-
 Equality is a false doctrine which destroys liberty. In graduating past "equality", we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct.
+
+A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for bigoted groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool and style themselves a voice of reason and truth against a mainstream current of lies.
 
 ### Special appeal to Judeo-Christian believers.
 
-It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their code of values when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate from the "equality" doctrine.
+It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their bible's code of morality when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate from the "equality" doctrine toward a "morality of life" based on objectively verifiable facts.
+
+#### Does the Judeo-Christian bible actually support equality as the foundation for rights? What does it actually say?
 
 A common bromide is that the Judeo-Christian god "created all men equal" -- curiously, this maxim appears nowhere in the Judeo-Christian bible. The Judeo-Christian moral framework does **not** say that their god created all men equal; rather that he created all men *in his image*. Those are two different statements with different ramifications. Judeo-Christian ethics is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** inadequacies clearly visible in him; not because he is your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual. "Equality" is actually a humanist ethical foundation.
+
+In fact, the Judeo-Christian God proudly admits that He creates people unequally in order that when his purpose is fulfilled in a person's life, He (God) might gain even more glory in that He was able to accomplish His purpose through a flawed individual **in spite of** His flaws.
+
+#### Objectivism's "Morality of life" based on the metaphysical identity of humankind is a better approximation of Judeo-Christian morality than "Equality" is.
+
+The Judeo-Christian frameworks of rights asserts the sanctity of human life, stemming from the assertion that humans are created in God's image, and that God has a plan for each human life, and this breaks down in the following way:
+
+- The reverence for humankind's "rights" in Judeo-Christianity start from its assertion about the metaphysical nature of humankind as a species: that every human is an instance of the image of God, and that, God's image being in him/her, that life is sacred.
+- Judeo-Christianity then says that humankind, made in God's image, have value to God because He has a purpose for each human; therefore even if a human appears to be deficient to you, you must hold his life sacred because his life has value to God, and you don't know God's purpose for him.
+- In order for a human to fulfill God's purpose for their life, they require certain minimum freedoms to act in pursuit of that purpose, without interference from other individuals. I.e, they require the enforcement of non-interference (aka, private property law).
+
+The Objectivist framework of rights *also* stems from the metaphysical identity of mankind as a species. Objectivist rights state that mankind's nature as a species necessarily implies the definite course of action which promotes the life and flourishing of a human - there is a definite set of actions which preserve/promote human life, and a definite set of actions which destroy it and these can be confirmed by objective facts. Objectivism's rights framework enshrines the right to life itself as the fundamental right, and all actions necessary for the sustenance and flourishing of human life are encompassed and implied in that single right. Moreover, all actions which destroy human life are immoral and these can be confirmed objectively as well.
+
+We submit to the Judeo-Christian world that this framework of rights is a far stronger approximation of their own God's justification for their rights, than the justification given by the "Equality" framework. Moreover, we submit for all peoples' evaluation, the objectively observable fact that the assertion of "Equality" is simply untrue on its face to begin with.
 
 ### An analysis of the two main traditional arguments for rights:
 
