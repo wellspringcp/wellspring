@@ -118,11 +118,18 @@ The Judeo-Christian frameworks of rights asserts the sanctity of human life, ste
 
 - The reverence for humankind's "rights" in Judeo-Christianity start from its assertion about the metaphysical nature of humankind as a species: that every human is an instance of the image of God, and that, God's image being in him/her, that life is sacred.
 - Judeo-Christianity then says that humankind, made in God's image, have value to God because He has a purpose for each human; therefore even if a human appears to be deficient to you, you must hold his life sacred because his life has value to God, and you don't know God's purpose for him.
-- In order for a human to fulfill God's purpose for their life, they require certain minimum freedoms to act in pursuit of that purpose, without interference from other individuals. I.e, they require the enforcement of non-interference (aka, private property law).
+- Furthermore, a human life requires a definite course of action, since there is an objectively verifiable course of action which preserves/promotes human life, and objectively verifiable actions which injure/destroy human life, and Judeo-Christianity commands that one love his neighbour as himself -- or, that one objectively treat one's neighbour in such a way as to ensure that one doesn't engage in courses of action which injure/destroy one's neighbour's life, in the same way that one might do so for oneself.
+- In order for a human to fulfill God's purpose for their life, they require freedom both to act for the preservation/promotion of their own life, and freedom to act in pursuit of God's purpose, without interference from other humans or from kings and governments.
 
-The Objectivist framework of rights *also* stems from the metaphysical identity of mankind as a species. Objectivist rights state that mankind's nature as a species necessarily implies the definite course of action which promotes the life and flourishing of a human - there is a definite set of actions which preserve/promote human life, and a definite set of actions which destroy it and these can be confirmed by objective facts. Objectivism's rights framework enshrines the right to life itself as the fundamental right, and all actions necessary for the sustenance and flourishing of human life are encompassed and implied in that single right. Moreover, all actions which destroy human life are immoral and these can be confirmed objectively as well.
+The Objectivist framework of rights breaks down in the following, comparable way:
 
-We submit to the Judeo-Christian world that this framework of rights is a far stronger approximation of their own God's justification for their rights, than the justification given by the "Equality" framework. Moreover, we submit for all peoples' evaluation, the objectively observable fact that the assertion of "Equality" is simply untrue on its face to begin with.
+- The Objectivist framework of rights *also* stems from the metaphysical identity of mankind as a species: that humankind as a species has a set of metaphyically common properties, attributes and requirements for life which can be observed and confirmed as objective facts. There is a definite course of action which preserves/promotes human life/flourishing (and that these are moral), and there are observable, objectively verifiable courses of action which destroy it (and that these are immoral).
+- Objectivism then says that we can make objective judgments about which actions preserve/promote human life and which destroy it and that human morality consists of a code of action governed by objective knowledge of the definite course of action that preserves/promotes human life.
+- In order for a human to pursue his/her requirements for life/flourishing, they require freedom to act in pursuit of that life and flourishing, without interference from other humans or from kings and governments.
+
+We submit to the Judeo-Christian world that this framework of rights is a far stronger approximation of their own God's justification for their rights, than the justification given by the "Equality" framework.
+
+Moreover, we submit for all peoples' evaluation, the objectively observable fact that the assertion of "Equality" is simply untrue on its face to begin with.
 
 ### An analysis of the two main traditional arguments for rights:
 
