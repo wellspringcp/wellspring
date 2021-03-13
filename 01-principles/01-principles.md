@@ -94,7 +94,7 @@ The rule of law (i.e., "Republicanism") is that form of government which equally
 
 `WS`, being a Republic, enforces the Rule of Law; which is that the law applies equally to all and no individual is above the law and every individual has an equal claim to the enforcement of their sovereignty over their private property. To give force to this principle, a `WS` government is permitted to provide redistributive and subsidy programs to pursue the following goal only:
 
-- Access to legal representation services for plaintiffs and defendants who can't afford representation. When an individual suffers a loss, their financial position should not be a major concern when deciding whether or not to seek redress in court.
+- Access to legal representation services for plaintiffs and defendants who can't afford representation. When an individual suffers a loss, their financial position should not be their primary concern when deciding whether or not to seek redress in court.
   - This shall not be construed to antagonize private legal service providers.
   - This shall not be construed as a justification to attempt to equalize disparities in outcome caused by differences in the quality and skill of legal representatives.
 
