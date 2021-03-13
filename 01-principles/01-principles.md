@@ -94,15 +94,15 @@ The rule of law (i.e., "Republicanism") is that form of government which equally
 
 ## A word on "Equality"
 
-Without any repentance, be it clear and unambiguous that it the **only** form of equality which `WS` values is equality of the **applicability of laws** (aka, "Rule of Law", or "Republicanism"). `WS` explicitly does **not** value equality of *opportunity* or equality of *outcome* as legislative goals. This shall not be construed in any way to prohibit **private sector** efforts to create equality of opportunity or equality of outcome within the **private sector** via private sector mechanisms. Government shall not pursue equality of opportunity or outcome in any area through law, bye-law or any form of policy.
+`WS`, being a Republic, enforces the Rule of Law; which is that the law applies equally to all and no individual is above the law and every individual has an equal claim to the enforcement of their sovereignty over their private property. To give force to this principle, a `WS` government is permitted to provide redistributive and subsidy programs to pursue the following goals:
 
-However, the gov't **shall** pursue equality of the enforcement of the laws on **all** conagents as this is the entire meaning of Republicanism - aka "The rule of law". Consequently, government may pursue equality of opportunity in **only** two areas: it may provide mechanisms and redistributive programs to ensure that private property enforcement through the police and courts is as easily accessible to the poor as to the rich. When an indepagent suffers a private property violation, the financial costs should not be a limiting factor in whether or not they decide pursue redress in court.
+- Equality of police coverage of all geographical areas within `WS`'s jurisdiction for the physical protection of life, liberty and property.
+- Equality of court coverage of all geographical areas within `WS`'s jurisdiction for the efficient dispatch of court cases.
+- Access to legal representation services for plaintiffs and defendants who can't afford representation. When an individual suffers a loss, their financial position should not be a major concern when deciding whether or not to seek redress in court.
+  - This shall not be construed to antagonize private legal service providers.
+  - This shall not be construed as a justification to attempt to equalize disparities in outcome caused by differences in the quality and skill of legal representatives.
 
-Any politician introducing a bill which would seek to pursue either of the following:
-- Equality of opportunity (outside of equality of access to the courts/police).
-- Equality of outcome.
-
-...Shall become an outlaw after 1 hour upon being judged so to have done.
+Government shall pass no law, bye-law or other form of policy seeking to redistribute/subsidize in order to pursue "equality", whether equality of opportunity or outcome, with the sole exception of those goals stated above.
 
 ## Role of Government
 
