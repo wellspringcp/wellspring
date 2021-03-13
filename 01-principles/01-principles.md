@@ -94,15 +94,13 @@ The rule of law (i.e., "Republicanism") is that form of government which equally
 
 ## A word on "Equality"
 
-`WS`, being a Republic, enforces the Rule of Law; which is that the law applies equally to all and no individual is above the law and every individual has an equal claim to the enforcement of their sovereignty over their private property. To give force to this principle, a `WS` government is permitted to provide redistributive and subsidy programs to pursue the following goals:
+`WS`, being a Republic, enforces the Rule of Law; which is that the law applies equally to all and no individual is above the law and every individual has an equal claim to the enforcement of their sovereignty over their private property. To give force to this principle, a `WS` government is permitted to provide redistributive and subsidy programs to pursue the following goal only:
 
-- Equality of police coverage of all geographical areas within `WS`'s jurisdiction for the physical protection of life, liberty and property.
-- Equality of court coverage of all geographical areas within `WS`'s jurisdiction for the efficient dispatch of court cases.
 - Access to legal representation services for plaintiffs and defendants who can't afford representation. When an individual suffers a loss, their financial position should not be a major concern when deciding whether or not to seek redress in court.
   - This shall not be construed to antagonize private legal service providers.
   - This shall not be construed as a justification to attempt to equalize disparities in outcome caused by differences in the quality and skill of legal representatives.
 
-Government shall pass no law, bye-law or other form of policy seeking to redistribute/subsidize in order to pursue "equality", whether equality of opportunity or outcome, with the sole exception of those goals stated above.
+Government shall pass no law, bye-law or other form of policy seeking to redistribute/subsidize in order to pursue "equality", whether equality of opportunity or outcome, with the sole exception of the goal stated above.
 
 ## Role of Government
 
