@@ -112,11 +112,7 @@ No regulatory committee or administrative agency (not even supposedly "independe
 
 ## Courts
 
-Courts are nationalized because private property law should enjoy a uniform, undisputed monopoly.
-
-Courts may be franchised to provide greater coverage. All courts without exception shall be lex-libertas courts.
-
-> [Experimental] Appellate courts shall have larger (in number) juries than lower courts.
+A polity with competing bodies of law is effectively a polity where the residents live under different rules. In `WS`, private property law shall enjoy an undisputed monoply in legislation. To this end, the court system is a nationalized monopoly. This shall not be construed to antagonize private legal settlements over civil disputes.
 
 ## Open governance
 
