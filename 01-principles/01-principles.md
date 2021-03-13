@@ -75,9 +75,7 @@ The right to:
 3. Contract/trade freely. The exceptions to this right are those outlined in the Contract Law. 
 4. Act/labour/move freely. The exception is where action violates others' private property as defined by this Constitution. This right may be abridged in respect of the exceptions outlined in this constitution's definition of private property, but only in as much as is necessary to achieve such ends and no further.
 
-No other right is recognized before a `WS` court.
-
-> [Experimental] Laws which force other persons' labour shall be unenforceable. E.g, laws to force a medical/insurance worker to labour for others (I.e, no right to healthcare). This shall not be construed to invalidate equitable legal remedies.
+No other right is recognized before a `WS` court. Nothing in this section shall be construed to invalidate equitable legal remedies.
 
 ### Those things declared "unenforceable" by `WS`
 
