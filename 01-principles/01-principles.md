@@ -82,8 +82,6 @@ No other right is recognized before a `WS` court. Nothing in this section shall 
 The defense, "forceful resistance of the unenforceable", even to lethality, shall form a perfect defense in every 
 n court where the injury is inflicted against one attempting to enforce a thing deemed "unenforceable" by this constitution.
 
-> [Experimental] If in the act of defending an outlaw, a person harms another, the defendant shall have no defense.
-
 ## Republic, not Democracy
 
 The rule of law (i.e., "Republicanism") is that form of government which equally subjects **all** conagents to a publicly published body of law (constitution + legislation) which all conagents can read, understand and make preparations to govern **themselves** by. It differs from other forms of government in that every other form of government is rule by whim - whether rule by whim of a single individual or rule by whim of a group or collection of groups.
