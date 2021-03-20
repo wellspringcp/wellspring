@@ -6,7 +6,7 @@ We have been very careful to ensure that no charges of original sin can be broug
 
 We would like to emphatically assert that the principles espoused in `WS` are to be taken as stated. If a particular principle is sourced from an intellectual leader who also espouses other ideas that run counter to those expressed in this constitution, it is to be understood that `WS` disavows those other ideas categorically and unreservedly. We would like to unambiguously state that the goal of WS is to create polities that express and live out the idea of individualism -- that every person is judged before the law not by the colour of their skin (or their sex, or any other immutable/irrelevant characteristic) but by the content of their character and their actual actions in practice.
 
-To be even more cautious, we have decided to explicitly address each of the reputations of the people we have referenced in `WS`, here, and explicitly disavow any ideas they professed which antagonize people/groups on the basis of immutable/irrelevant attributes:
+To be even more cautious, we have decided to explicitly address each of the reputations of the intellectuals we may have referenced in `WS`, here, and explicitly disavow any ideas they professed (which we were aware of) which antagonize people/groups on the basis of immutable/irrelevant attributes. If there are other statements made by intellectuals we've referenced which are anti-individualistic which we have missed, then the spirit of these disavowals should make it clear that we disavow those too.
 
 ## Disavowals:
 
