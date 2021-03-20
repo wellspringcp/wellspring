@@ -24,17 +24,17 @@ In response to the chorus of historical examples (mainly from the USA's constitu
 
 > [Note: This section requires expertise beyond my own and should be written by someone more knowledgeable, who can express these arguments succinctly, yet back them up with hard-punching references to facts.]
 
-- Slavery
+- **Slavery**
 : Main points: (1) Slavery was an area where property rights needed to be extended to afro-americans, and then subsequently, diligently enforced. The solution to slavery was to extend and enforce property rights -- not to abolish private property altogether. (2) Wellspring will not make this mistake -- WS extends property rights to **all** residents from day one. (3) When the polity truly desires changes, they will demand them of their politicians even using force if necessary -- and this is what happened in the Civil War, the outcome of which was the 13th, 14th and 15th amendments. If you argue that "Well, they had to use guns and fight a war just to get those changes", we reply by pointing out that the ability to take up arms against the government and the politicians and to demand change was built into the constitituion intentionally for precisely this purpose.
-- LGBT+ rights
+- **LGBT+ rights**
 : Main points: (1)... (2) `WS` ensures it will not make this mistake to begin with.
-- Womens' rights
+- **Womens' rights**
 : Main points: (1) The womens' political rights movement happened pretty rapidly and actually was a good example of how quickly change can happen in a republic when it is justified and desired by the overwhelming majority. (2) And again, `WS` is ensuring that we don't repeat this mistake to begin with.
 
 ...And here are some arguments we will pre-empt by showing that we have also considered the rights of groups of entities which do not yet even exist, but may exist in the future:
-- Artificial Intelligences
+- **Artificial Intelligences**
 : Main points: (1) We have anticipated the advent of full AGI, and have written this constitution in such a manner as to ensure that they will have full private property sovereignty when they are introduced into everyday life.
-- Extra-terrestrials
+- **Extra-terrestrials**
 : Main points: (1) We've also gone ahead and anticipated the (almost absurd) potential for future tourists, residents and immigrants from outside of Earth and ensured that the language of `WS` will ensure that their private property sovereignty is protected as fully as any AGI or human.
 
 We've tried very hard to essentially ensure that any fully conscious entity of at least human intelligence which comes into the jurisdiction of a `WS` polity will not need to struggle and fight for its right to life -- aka, its right to private property sovereignty. We've endeavoured to ensure the peaceful coexistence of all conscious agents within the borders of a `WS` polity.
