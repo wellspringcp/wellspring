@@ -1,4 +1,4 @@
-# Wellspring: Principles apologia:
+# Wellspring: Principles apologia: In defense of republicanism:
 
 This section is speaking of the form of government known as a "Republic" and not about the political party in the USA known as the "Republican Party". Unless we explicitly state that we are talking about something else, we mean by the terms "republic/republican/republicanism" nothing more than the form of government which uses the separation of powers to pit competing interests into a gridlock and thereby to curtail the ability for one interest group to dominate and rule -- this gridlock serves to ensure that the polity is ruled by the constitutional document -- that is, that the polity is ruled by a publicly published constitutional law, and not by the whim of any interest group.
 
