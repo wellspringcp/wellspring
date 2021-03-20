@@ -76,24 +76,6 @@ It has became common for politicians of the forerunner republic to call that rep
 - Monarchy
 : Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
 
-### The need for change in a Republic.
-
-> [Incomplete]: Finish this section
-
-In a republic, changes to law may sometimes come rapidly where the values of an overwhelming majority demand those changes; otherwise they come after level headed consideration. In response to the chorus of historical examples (mainly from the USA's constitutional history) purporting to show that the intentionally inflexible nature of Republics denies individual sovereignty to oppressed groups. Allow us to address some of those arguments.
-- Slavery
-:
-- LGBT+ rights
-:
-- Womens' rights
-:
-
-...And here are some arguments we will pre-empt by showing that we have also considered the rights of groups of entities which do not yet even exist, but may exist in the future:
-- Artificial Intelligences
-:
-- Extra-terrestrials
-:
-
 ## A word on "Equality"
 
 ### Why we must graduate past "Equality" as our foundation for rights:
