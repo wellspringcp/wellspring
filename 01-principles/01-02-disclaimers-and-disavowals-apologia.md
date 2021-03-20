@@ -2,7 +2,7 @@
 
 ## The goal behind these disavowals:
 
-We have been very careful to ensure that no charges of original sin can be brought against `WS` by extracting only the good ideas from various intellectuals while painstakingly dissociating the project from the reputations and shortcomings of each of them. There are scant few ideological icons who are untainted by identitarianism or some other form of exclusionary bias that serves to turn potential individualists away from individualism.
+We have been very careful to ensure that no charges of original sin can be brought against `WS` by extracting only the good ideas from various intellectuals while painstakingly dissociating the project from the reputations and shortcomings of these intellectuals. There are scant few ideological icons who are untainted by identitarianism or some other form of exclusionary bias that serves to turn potential individualists away from individualism.
 
 We would like to emphatically assert that the principles espoused in `WS` are to be taken as stated. If a particular principle is sourced from an intellectual leader who also espouses other ideas that run counter to those expressed in this constitution, it is to be understood that `WS` disavows those other ideas categorically and unreservedly. We would like to unambiguously state that the goal of WS is to create polities that express and live out the idea of individualism -- that every person is judged before the law not by the colour of their skin (or their sex, or any other immutable/irrelevant characteristic) but by the content of their character and their actual actions in practice.
 
