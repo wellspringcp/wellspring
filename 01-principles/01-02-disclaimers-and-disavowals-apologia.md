@@ -11,7 +11,8 @@ To be even more cautious, we have decided to explicitly address each of the repu
 ## Disavowals:
 
 ### Aristotle:
-  - We disavow his views on slavery, etc.
+> [NOTE: This requires someone better acquainted with the subject than myself.]
+  - We disavow his theory of Natural Slavery.
 ### Ayn Rand:
   - We disavow her views on the European settlers' treatment of the Native Americans, and we disavow the following statement she made on Native Americans in 1974 during a question and answer segment after her talk at West Point, New York: "*I do not believe that they had any right to live in a country merely because they were born here and acted and lived like savages. ... And since the Indians did not have any property rights -- they didn't have the concept of property: they didn't even have a settled society, they were predominantly nomadic tribes -- they were a primitive, tribal culture ... if so they didn't have any right to the land and there was no reason for anyone to grant them rights which they had not conceived and were not using.*", and we disavow it for the following reasons:
      - The rights of the individual stem not from its cognitive recognition or awareness of the concept of private property rights, but from his/her metaphysical identity as a member of a species which is capable of consciousness, capable of understanding and rationally governing itself by private property law. Whether or not an such an individual has conceived of the idea of private property sovereignty, its sovereignty remains its right until and unless it violates the sovereignty of another such individual.
