@@ -20,7 +20,7 @@ If indeed, the implementations of `WS` follow through on this intent, then legis
 
 The laws of Democracies and some other forms of government change quickly and impulsively with the whim of the governing class. In a republic, changes to law may sometimes come rapidly where the values of an overwhelming majority demand those changes; but most of the time they come only after level headed consideration. Republics intentionally resist impulsive and oppressive change. Republics **do not** resist transformative change if it is justified, well reasoned and well legislated. Republics are not against major, or even transformative change intrinsically -- they are against impulsive and/or oppressive changes.
 
-In response to the chorus of historical examples (mainly from the USA's constitutional history) purporting to show that the intentionally inflexible nature of Republics ends up denying justified changes, (such as changes to extend individual sovereignty to oppressed groups), we would like to set up arguments in response to the most pertinent attacks:
+In response to the chorus of historical examples (mainly from the USA's constitutional history) purporting to show that the intentionally inflexible nature of Republics ends up denying justified changes, (such as changes to extend individual sovereignty to groups to whom it was denied), we would like to set up arguments in response to the most pertinent attacks:
 
 > [Note: This section requires expertise beyond my own and should be written by someone more knowledgeable, who can express these arguments succinctly, yet back them up with hard-punching references to facts.]
 
