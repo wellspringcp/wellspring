@@ -12,7 +12,7 @@ A constitution founded on the principles of private property sovereignty for **a
 
 Most of the transformative changes to the constitution of the forerunning republic were required because private property sovereignty (ownership of the oneself and one's produce, both cognitive and physical) was intentionally **denied** to various classes of people. If the forerunning republic had not made the mistake of denying private property protection to various groups (African Americans, Native Americans, etc), and if their property rights were enforced from day one, none of the later fallout, tension and indeed, the violent conflicts, would have been necessary.
 
-**The Wellspring constitution seeks to ensure that we will absolutely not repeat this mistake which was made by the forerunner republic. Wellspring explicitly and conscientiously seeks from day one, to ensure that all individuals' private property sovereignty is enforced.**
+*The Wellspring constitution seeks to ensure that we will absolutely not repeat this mistake which was made by the forerunner republic. Wellspring explicitly and conscientiously seeks from day one, to ensure that all individuals' private property sovereignty is enforced.*
 
 If indeed, the implementations of `WS` follow through on this intent, then legislation will almost always consist of nothing more than a simple **clarification** of how private property reasoning applies to new phenomena and technologies, irrespective of how far off into the future we peer.
 
