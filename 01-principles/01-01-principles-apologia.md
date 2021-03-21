@@ -61,7 +61,7 @@ It has became common for politicians of the forerunner republic to call that rep
 
 ## A word on "Equality":
 
-On the "no justification to attempt to equalize disparities in outcome" point: by design, `WS` includes the following mechanisms to ensure that disparities in outcome caused by differences in the skill of legal representation are kept to their minimum (we do not claim that they will be zero):
+On the "no justification to attempt to equalize disparities in outcome" point: by design, `WS` includes the following mechanisms to ensure that disparities in outcome caused by differences in the skill of legal representation are kept to their plausible minimum (we do not claim that they will be zero):
 - `WS` Grants a heavy tax discount to all legal representation insurance/subscription schemes to ensure they're always in abundant supply (and therefore, highly affordable).
 - `WS`'s legislative process is designed to ensure that the laws on the books are both few in number and predictable and easy to understand (since they should all be strict inferences from private property sovereignty as their premise).
   -  For this reason, pro-se representation should be feasible and practical.
