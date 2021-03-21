@@ -59,6 +59,17 @@ It has became common for politicians of the forerunner republic to call that rep
 - Monarchy
 : Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
 
+## A word on "Equality":
+
+On the "no justification to attempt to equalize disparities in outcome" point: by design, `WS` includes the following mechanisms to ensure that disparities in outcome caused by differences in the skill of legal representation are kept to their minimum (we do not claim that they will be zero):
+- `WS` Grants a heavy tax discount to all legal representation insurance/subscription schemes to ensure they're always in abundant supply (and therefore, highly affordable).
+- `WS`'s legislative process is designed to ensure that the laws on the books are both few in number and predictable and easy to understand (since they should all be strict inferences from private property sovereignty as their premise).
+  -  For this reason, pro-se representation should be feasible and practical.
+
+By design, public legal representation is not likely to become the widespread norm, and even if it does, the alternative options (including pro-se representation) should always be practical, feasible options. The provision of public legal representation is solely a windfall for the most unfortunate.
+
+## Role of government:
+
 ## Freedom of citizenship:
 
 We do not wish to hold anyone born within a `WS` polity captive to our borders, and we wish to make it materially plausible for persons unhappy in `WS` polities to leave, and to encourage those people to leave.
