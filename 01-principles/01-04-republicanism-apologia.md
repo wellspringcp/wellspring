@@ -14,7 +14,7 @@ Most of the transformative changes to the constitution of the forerunning republ
 
 **The Wellspring constitution seeks to ensure that we will absolutely not repeat this mistake which was made by the forerunner republic. Wellspring explicitly and conscientiously seeks from day one, to ensure that all individuals' private property sovereignty is enforced.**
 
-If indeed, the implementations of `WS` follow through on this intent, then legislation will always consist of nothing more than a simple **extension** of private property reasoning to new phenomena and technologies, irrespective of how far off into the future we peer.
+If indeed, the implementations of `WS` follow through on this intent, then legislation will almost always consist of nothing more than a simple **clarification** of how private property reasoning applies to new phenomena and technologies, irrespective of how far off into the future we peer.
 
 ### In the forerunner republic, changes were needed -- wouldn't Wellspring be the same?
 
