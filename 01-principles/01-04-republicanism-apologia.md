@@ -30,10 +30,10 @@ In response to the chorus of historical examples (mainly from the USA's constitu
   - When the polity truly desires changes, they will demand them of their politicians even using force if necessary -- and this is what happened in the Civil War, the outcome of which was the 13th, 14th and 15th amendments. If you argue that "Well, they had to use guns and fight a war just to get those changes", we reply by pointing out that the ability to take up arms against the government and the politicians and to demand change was built into the constitituion intentionally for precisely this purpose.
   - The civil war is a story which depicts not the depravity and resistance of Americans to abolition, but the general tendency toward respect for the sovereignty of the individual: it's not often pointed out, but the north had, by some sources, 10 times the economic and productive power, and a much larger army, than the south. The majority of the force of the civil war was on the side of abolition and the south was vastly outnumbered, outgunned and under-resourced. This points to the idea that the majority of Americans were at least sufficiently pro-abolition, that when forced to make the choice, they preferred abolition over the continuance of slavery.
 - **LGBT+ rights**
-: Main points:
+:
   - I don't know enough about the development and buildup to LGBT+ rights, and would appreciate assistance in drafting this point.
 - **Womens' rights**
-: Main points:
+:
   - The womens' political rights movement happened pretty rapidly and actually was a good example of how quickly change can happen in a republic when it is justified and desired by the overwhelming majority.
 
 ...And here are some arguments we will pre-empt by showing that we have also considered the rights of groups of entities which do not yet even exist, but may exist in the future:
