@@ -38,8 +38,8 @@ In response to the chorus of historical examples (mainly from the USA's constitu
 
 ...And here are some arguments we will pre-empt by showing that we have also considered the rights of groups of entities which do not yet even exist, but may exist in the future:
 - **Artificial Intelligences**
-: Main points: (1) We have anticipated the advent of full AGI, and have written this constitution in such a manner as to ensure that they will have full private property sovereignty when they are introduced into everyday life.
+: We have anticipated the advent of full AGI, and have written this constitution in such a manner as to ensure that they will have full private property sovereignty when they are introduced into everyday life.
 - **Extra-terrestrials**
-: Main points: (1) We've also gone ahead and anticipated the (almost absurd) potential for future tourists, residents and immigrants from outside of Earth and ensured that the language of `WS` will ensure that their private property sovereignty is protected as fully as any AGI or human.
+: We've also gone ahead and anticipated the (almost absurd) potential for future tourists, residents and immigrants from outside of Earth and ensured that the language of `WS` will ensure that their private property sovereignty is protected as fully as any AGI or human.
 
 We've tried very hard to essentially ensure that any fully conscious entity of at least human intelligence which comes into the jurisdiction of a `WS` polity will not need to struggle and fight for its right to life -- aka, its right to private property sovereignty. We've endeavoured to ensure the peaceful coexistence of all conscious agents within the borders of a `WS` polity.
