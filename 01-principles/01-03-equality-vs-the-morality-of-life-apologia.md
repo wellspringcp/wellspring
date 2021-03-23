@@ -4,6 +4,8 @@ Wellspring is a constitution meant to govern humans who wish not only to live, b
 
 We do not wish to hold captive to our borders, any individual who wishes to live otherwise. If your theory of humankind differs from ours, we welcome you to seek greener pastures in any of the almost two-hundred odd polities which exist to govern humankind as something other than a rational creature.
 
+_Additionally, if you are a Judeo-Christian believer or a secularist, we make special appeals to you further down in this document which we hope you will find it edifying to read._
+
 ## The metaphysically characteristic nature of humankind - the featherless biped?
 - Humankind is the rational creature.
 - Validate this somehow.
