@@ -6,7 +6,7 @@ We do not wish to hold captive to our borders, any individual who wishes to live
 
 *Additionally, if you are a Judeo-Christian believer or a secularist, we make special appeals to you further down in this document which we hope you will find it edifying to read.*
 
-## What is the metaphysically characteristic nature of humankind? the featherless biped, the social animal or the rational creature?
+## The metaphysically characteristic nature of humankind:
 - Humankind is the rational creature.
 - Validate this somehow.
 
