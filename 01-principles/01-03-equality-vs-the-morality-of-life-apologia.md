@@ -4,7 +4,7 @@ Wellspring is a constitution meant to govern humans who wish not only to live, b
 
 We do not wish to hold captive to our borders, any individual who wishes to live otherwise. If your theory of humankind differs from ours, we welcome you to seek greener pastures in any of the almost two-hundred odd polities which exist to govern humankind as something other than a rational creature.
 
-_Additionally, if you are a Judeo-Christian believer or a secularist, we make special appeals to you further down in this document which we hope you will find it edifying to read._
+*Additionally, if you are a Judeo-Christian believer or a secularist, we make special appeals to you further down in this document which we hope you will find it edifying to read.*
 
 ## The metaphysically characteristic nature of humankind - the featherless biped?
 - Humankind is the rational creature.
@@ -14,7 +14,7 @@ _Additionally, if you are a Judeo-Christian believer or a secularist, we make sp
 
 ### Morality for all living things generally:
 
-Morality is a code of behaviour for a particular species of creature which describes the set of actions which promote the life of the creature based on objectively observed facts about its nature. Morality examines and bases itself on the objectively observed facts about (1) the requirements for a creature's survival as well as (2) the holistic total of the essential nature of that creature.
+Morality is a code of behaviour for a particular species of creature which describes the set of actions which promote the life of the creature based on objectively observed facts about its nature. Morality examines and bases itself on the objectively observed facts about (1) the requirements for a creature's survival as well as (2) the holistic total of the essential nature of that creature -- i.e, its *metaphysical identity*.
 
 - A bird requires food to survive. One can tie down a bird's wings and feed it and enable it to survive; but for it to not only live, but to live **as a bird** (i.e, holistically), it must be able to exercise the characteristic capabilities which are bestowed on it by the nature of its species. Until the bird is able to embrace the holistic total of its characteristic nature such as flight, it is living as something less than a bird.
 - Likewise a human requires food to survive. One can impound humans, nourish them and thereby enable them to survive; but for humans not only to live, but to live **as humans**, they must be allowed to exercise the characteristically human capabilities which humankind possesses by the nature of our species. Until an individual is able to embrace the holistic total of its nature as a rational creature and make full use of its rational faculty, it is living as something **less than** a human.
