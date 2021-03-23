@@ -2,18 +2,28 @@
 
 Wellspring is a constitution meant to govern humans who wish not only to live, but to live **as humans**. Or, in order to anticipate the advent of artificial general intelligence, Wellspring is a constitution intended to govern rational creatures which wish not only to live, but to live as **rational** creatures.
 
-We do not wish to hold captive to our borders, any individual who wishes to live otherwise. If your theory of humankind differs from ours, we welcome you to seek greener pastures in any of the two-hundred odd polities which exist to govern humankind as something other than a rational creature.
+We do not wish to hold captive to our borders, any individual who wishes to live otherwise. If your theory of humankind differs from ours, we welcome you to seek greener pastures in any of the almost two-hundred odd polities which exist to govern humankind as something other than a rational creature.
 
 ## The metaphysically characteristic nature of humankind - the featherless biped?
 - Humankind is the rational creature.
+- Validate this somehow.
 
 ## On "morality":
-- Morality is a code of behaviour which describes the set of actions which promote the survival and florishing of the particular living thing to be governed by it.
-- Morality examines the objective facts about the (1) requirements for a creature's survival, as well as (2) the totality of the essential nature of that creature.
-  - A bird requires food to survive. One can tie down a bird's wings and feed it and enable it to survive; but for it to not only live, but to live **as a bird**, it must be able to exercise the characteristic capabilities which are bestowed on it by the nature of its species.
-  - Likewise a human requires food to survive. One can impound humans, nourish them and thereby keep enable them to survive; but for humans not only to live, but to live **as humans**, they must be allowed to exercise the characteristically human capabilities which humankind possesses by the nature of our species.
+
+### Morality for all living things generally:
+
+Morality is a code of behaviour for a particular species of creature which describes the set of actions which promote the life of the creature based on objectively observed facts about its nature. Morality examines and bases itself on the objectively observed facts about (1) the requirements for a creature's survival as well as (2) the holistic total of the essential nature of that creature.
+
+- A bird requires food to survive. One can tie down a bird's wings and feed it and enable it to survive; but for it to not only live, but to live **as a bird** (i.e, holistically), it must be able to exercise the characteristic capabilities which are bestowed on it by the nature of its species. Until the bird is able to embrace the holistic total of its characteristic nature such as flight, it is living as something less than a bird.
+- Likewise a human requires food to survive. One can impound humans, nourish them and thereby enable them to survive; but for humans not only to live, but to live **as humans**, they must be allowed to exercise the characteristically human capabilities which humankind possesses by the nature of our species. Until an individual is able to embrace the holistic total of its nature as a rational creature, it is living as something **less than** a human.
+
+Morality consists of a code of behaviour to enable a species to live successfully as **what it is**. Notice that morality does not reference life in a social context -- morality pertains to the code of behaviour which a creature must follow in order to live successfully irrespective of its proximity to other creatures. In fact, a creature's observance of the moral code that sustains its life is **most crucial** when it has no assistance on hand. When there is no physician to heal you, your adherence to a moral code becomes even more essential.
+
+### Morality specific to rational creatures such as humans:
 
 ## On "rights":
+
+Rights arise when a creature, having a certain objectively required moral code, must pursue that moral code in the presence of other creatures. Rights are the claims  one may make to engage in the actions essential to meet one's moral requirements when one is operating in a social context.
 
 ## A word on "Equality"
 
