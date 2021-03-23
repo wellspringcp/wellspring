@@ -21,6 +21,8 @@ Morality consists of a code of behaviour to enable a species to live successfull
 
 ### Morality specific to rational creatures such as humans:
 
+For the remainder of this document we will leave off discussing the philosophy of the morality of all species broadly, and narrow our scope to the philosophy of the morality and rights of rational creatures such as humans.
+
 ## On "rights":
 
 Rights arise when a creature, having a certain objectively required moral code, must pursue that moral code in the presence of other creatures. Rights are the claims  one may make to engage in the actions essential to meet one's moral requirements when one is operating in a social context.
