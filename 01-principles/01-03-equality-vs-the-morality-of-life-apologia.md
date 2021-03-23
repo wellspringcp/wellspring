@@ -1,3 +1,16 @@
+# Wellspring: Apologia: "Equality" vs "Metaphysical identity" as the foundation for rights.
+
+## The metaphysically characteristic nature of humankind - the featherless biped?
+- Humankind is the rational creature.
+
+## On "morality":
+- Morality is a code of behaviour which describes the set of actions which promote the survival and florishing of the particular living thing to be governed by it.
+- Morality examines the objective facts about the (1) requirements for a creature's survival, as well as (2) the totality of the essential nature of that creature.
+  - A bird requires food to survive. One can tie down a bird's wings and feed it and enable it to survive; but for it to not only live, but to live **as a bird**, it must be able to exercise the characteristic capabilities which are bestowed on it by the nature of its species.
+  - Likewise a human requires food to survive. One can impound humans, nourish them and thereby keep enable them to survive; but for humans not only to live, but to live **as humans**, they must be allowed to exercise the characteristically human capabilities which humankind possesses by the nature of our species.
+
+## On "rights":
+
 ## A word on "Equality"
 
 ### Why we must graduate past "Equality" as our foundation for rights:
