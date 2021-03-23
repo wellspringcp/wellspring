@@ -1,5 +1,9 @@
 # Wellspring: Apologia: "Equality" vs "Metaphysical identity" as the foundation for rights.
 
+Wellspring is a constitution meant to govern humans who wish not only to live, but to live **as humans**. Or, in order to anticipate the advent of artificial general intelligence, Wellspring is a constitution intended to govern rational creatures which wish not only to live, but to live as **rational** creatures.
+
+We do not wish to hold captive to our borders, any individual who wishes to live otherwise. If your theory of humankind differs from ours, we welcome you to seek greener pastures in any of the two-hundred odd polities which exist to govern humankind as something other than a rational creature.
+
 ## The metaphysically characteristic nature of humankind - the featherless biped?
 - Humankind is the rational creature.
 
