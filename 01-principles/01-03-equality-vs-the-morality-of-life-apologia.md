@@ -23,11 +23,25 @@ Morality consists of a code of behaviour to enable a species to live successfull
 
 ### Morality specific to rational creatures such as humans:
 
+This section ultimately must develop the point that morality for a rational being consists of the use of reason, and that will flow into the next section on rights.
+
 For the remainder of this document we will narrow our scope to the philosophy of the morality and rights of rational creatures specifically, such as humans.
+- Humans have objective requirements for survival.
+- Humans' holistic identity is that they are the rational creature - to live as anything less is to live as less than human.
+- Rationality is the means by which humans must meet both their objective requirements for survival and their flourishing - rationality is the only means for humans to pursue the code of behaviour which promote their life -- indeed, rationality is the essence of morality for a human.
+- A human who refuses to use their rational faculty will either live by predating off another human who does, or it will die. That is, it will either act as a predator on another human who has chosen to act morally, or it will die.
 
 ## On "rights":
 
-Rights arise when a creature, having a certain objectively required moral code, must pursue that moral code in the presence of other creatures. Rights are the claims  one may make to engage in the actions essential to meet one's moral requirements when one is operating in a social context.
+The notion of "rights" arises when a creature, having a certain objectively required moral code to satisfy, must pursue that moral code in the presence of other creatures. Rights are the claims one may make to engage in the actions essential to meet one's moral requirements when one is operating in a social context. For a rational creature, this translates to the statement that rights are the claims it may make to engage in the actions which apply its rationally acquired knowledge to meet its requirements for life and flourishing **qua rational being**. Anything less would be to live as less than a rational being -- as **less than human**. This has several main corollaries:
+
+- To hold a rational being back from applying its reason to its life is to oppose its very life and flourishing and reduce it to less than human.
+- An objective fact about humankind is that we have limbs capable of exerting brute force and predating on other rational beings; but it's also an objective fact that we have a rational brain capable of directing these same limbs to labour to produce instead of to predate on those who do produce.
+- A rational being's pursuit of its morality **qua rational being** consists of scientifically observing the objective facts about reality and learning knowledge of how to terraform nature to produce its needs for a holistic life -- in other words, a rational being pursues its requirements for life not as a predator or a brute, but through productivity.
+- <Trader principle>.
+- Ergo finally, due to the metaphysical nature of rational beings as rational beings, which must live as such, the moral code which preserves and promotes rational life **demands rationality**; and the right to pursue that moral code in a social context **demands productivity**.
+
+A right therefore, cannot consist of a claim to predate on other rational beings -- whether on their minds, their bodies or their produce. A right for a rational creature consists solely of a right to exercise one's own capabilities toward the moral end of one's own life **qua rational being**, within a social context.
 
 ## A word on "Equality"
 
@@ -60,7 +74,7 @@ The Judeo-Christian frameworks of rights asserts the sanctity of human life, ste
 
 The Objectivist framework of rights breaks down in the following, comparable way:
 
-- The Objectivist framework of rights *also* stems from the metaphysical identity of mankind as a species: that humankind as a species has a set of metaphyically common properties, attributes and requirements for life which can be observed and confirmed as objective facts. There is a definite course of action which preserves/promotes human life/flourishing (and that these are moral), and there are observable, objectively verifiable courses of action which destroy it (and that these are immoral).
+- The Objectivist framework of rights *also* stems from the metaphysical identity of humankind as a species: that humankind as a species has a set of metaphyically common properties, attributes and requirements for life which can be observed and confirmed as objective facts. There is a definite course of action which preserves/promotes human life/flourishing (and that these are moral), and there are observable, objectively verifiable courses of action which destroy it (and that these are immoral).
 - Objectivism then says that we can make objective judgments about which actions preserve/promote human life and which destroy it and that human morality consists of a code of action governed by objective knowledge of the definite course of action that preserves/promotes human life.
 - In order for a human to pursue his/her requirements for life/flourishing, they require freedom to act in pursuit of that life and flourishing, without interference from other humans or from kings and governments.
 
