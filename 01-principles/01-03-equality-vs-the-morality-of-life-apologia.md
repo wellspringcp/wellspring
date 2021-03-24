@@ -25,13 +25,16 @@ Morality consists of a code of behaviour to enable a species to live successfull
 
 ### Morality specific to rational creatures such as humans:
 
-This section ultimately must develop the point that morality for a rational being consists of the use of reason, and that will flow into the next section on rights.
+> [Note: If we keep this section, then it ultimately must develop the point that morality for a rational being consists of the use of reason, and that will flow into the next section on rights. However, developing this point requires us to talk about man being tabula rasa, and then point out that his mind is given to him but its content is not -- and this would put us at odds with the Kantians etc, and I feel as if this is not a necessary area argument we need to develop. If we develop this argument (showing that morality for a rational being is nothing less than rationality itself), we will provide the link to enable the user to understand why we equate morality with rationality in the next section.]
+> [But even if we don't, we've already explained that morality consists of a creature living as what it is, holistically,and to deny a human their full flourishing as a rational being is to treat them as less than human. For the average reader this should be sufficient. For the highly ideologically interested reader, s/he can easily find out how Objectivism properly establishes the link between morality and rationality. It may not be necessary for us to discuss it here.]
+
+- Humans are born tabula rasa - their rational faculty is given to them but knowledge is not. Infants lack knowledge of even the most basic threats to their lives, and are drawn as much to a flame as to a nourishing meal.
+- Humans meet their requirements for survival and all other needs for their flourishing by applying their powers of reason to the natural world, discovering the laws that govern nature, and harnessing nature to produce their needs. The essential and defining attribute of humankind is that it is the rational creature and its primary tool for survival is its reason.
+- Rationality in other words, is **both** the means by which humans both discover the behaviours which promote their life (i.e, the objective facts which make up their **moral code**), as well as the means by which they pursue them.
+- Morality for a rational creature consists of the rational study of its environment, and the taking of action to harness nature to promote its life (i.e, moral action). Indeed, rationality is the essence of morality for a human.
+- A human who refuses to use their rational faculty will either live by predating off another human who does, or it will die. That is, it will either act as a predator on another human who has chosen to act morally, or it will die.
 
 For the remainder of this document we will narrow our scope to the philosophy of the morality and rights of rational creatures specifically, such as humans.
-- Humans have objective requirements for survival.
-- Humans' holistic identity is that they are the rational creature - to live as anything less is to live as less than human.
-- Rationality is the means by which humans must meet both their objective requirements for survival and their flourishing - rationality is the only means for humans to pursue the code of behaviour which promote their life -- indeed, rationality is the essence of morality for a human.
-- A human who refuses to use their rational faculty will either live by predating off another human who does, or it will die. That is, it will either act as a predator on another human who has chosen to act morally, or it will die.
 
 ## On "rights":
 
