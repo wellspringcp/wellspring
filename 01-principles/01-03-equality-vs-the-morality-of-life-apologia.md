@@ -47,15 +47,11 @@ A rational creature which refuses to exercise its rationality to be productive, 
 
 **Private property law is moral law** and rights, which are claims to moral actions, require the concomitant protections of private property law. They go hand in hand.
 
-## A word on "Equality"
+## The Morality of Life vs "Equality" and "God Given Rights":
 
-### Why we must graduate past "Equality" as our foundation for rights:
+The two foundations on which we have based individual rights heretofore have been "Equality" and "Divine commandment". Prior to the industrial revolution, it would have been impossible for philosophers to grasp the crucial role of reason in humankind's survival: indeed even Aristotle missed it in his time. Sir Francis Bacon  deduced that "knowledge is power". And Objectivism completed that thought by observing that reason is essential to human life -- i.e, that reason is essential to humankind's discovery and pursuit of, its moral code.
 
-> [TODO:] Find a way to fit this in: "We have rights because of our metaphysical identity as the rational creature. Our species is capable of grasping and acting in accordance with rational laws -- i.e, we are capable of self-governance -- and that is why unless proven otherwise, we have a right to self-determination. 
-
-In graduating past "equality" as the foundation for individual rights, we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct.
-
-A fool could see with the naked eye no two humans are equal and in fact often because people desperately assert it as being true when it is plainly false, it creates room for bigoted groups like racial-nationalists and so on to claim that they have "special wisdom" as a recruitment tool and style themselves a voice of reason and truth against a mainstream current of lies.
+In graduating past "equality" and "divine commandment" as the foundation for individual rights, we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct.
 
 ### Special appeal to Judeo-Christian believers.
 
