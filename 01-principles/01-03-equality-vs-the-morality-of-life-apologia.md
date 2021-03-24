@@ -53,17 +53,17 @@ The two foundations on which we have based individual rights heretofore have bee
 
 In graduating past "equality" and "divine commandment" as the foundation for individual rights, _we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct_, grounded in an objective morality based on verifiable facts about human biology and the real world.
 
-### Special appeal to Judeo-Christian believers.
+## Special appeal to Judeo-Christian believers.
 
 It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their bible's code of morality when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate from the "equality" doctrine toward a "morality of life" based on objectively verifiable facts.
 
-#### Does the Judeo-Christian bible actually support equality as the foundation for rights? What does it actually say?
+### Does the Judeo-Christian bible actually support equality as the foundation for rights? What does it actually say?
 
 A common bromide is that the Judeo-Christian god "created all men equal" -- curiously, this maxim appears nowhere in the Judeo-Christian bible. The Judeo-Christian moral framework does **not** say that their god created all men equal; rather that he created all men *in his image*. Those are two different statements with different ramifications. Judeo-Christian ethics is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** inadequacies clearly visible in him; not because he is your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual. You are commanded to be like the Bereans - so search diligently and see whether this is so.
 
 "Equality" is actually a humanist ethical foundation. In fact, the Judeo-Christian God **proudly admits that He creates people unequally** in order that when his purpose is fulfilled in a person's life, He (God) might gain even more glory in that He was able to accomplish His purpose through a flawed individual **in spite of** his flaws.
 
-#### Objectivism's "Morality of life" based on the metaphysical identity of humankind is a better approximation of Judeo-Christian morality than "Equality" is.
+### Objectivism's "Morality of life" based on the metaphysical identity of humankind is a better approximation of Judeo-Christian morality than "Equality" is.
 
 The Judeo-Christian frameworks of rights asserts the sanctity of human life, stemming from the assertion that humans are created in God's image, and that God has a plan for each human life, and this breaks down in the following way:
 
@@ -82,7 +82,7 @@ We submit to the Judeo-Christian world that this framework of rights is a far st
 
 Moreover, we submit for all peoples' evaluation, the objectively observable fact that the assertion of "Equality" is simply untrue on its face to begin with.
 
-### An appeal to non-Judeo-Christians:
+## An appeal to secularists:
 
 In this section we will show how neither "God-given rights" nor "equality" suffice as common, objective legal foundations for human rights. A legal rights philosphy must be evident to all within a polity before all can be expected to subordinate their minds to it. Note that `WS` does not opine on whether or not a god exists; it merely points out that, in a polity where multiple world views exist (including atheists):
 
@@ -90,10 +90,4 @@ In this section we will show how neither "God-given rights" nor "equality" suffi
 - "Equality" cannot act as a shared legal foundation for rights, since any rational person who observes the world around them can see that humans are not in fact, equal.
 
 An objective morality is the only morality which can justly govern mankind.
-
-### A better way - a New Ideal to serve as the foundation for rights:
-
-Our metaphysical nature as a species is a stronger bedrock and foundation for objective rights and morality than either of the traditional theories of rights - especially because it is not merely a theory, but rather a set of observable, objectively verifiable facts. There is no harm in acknowledging that we are not equal. The fabric of our defense of the rights of the individual will not come undone because there is an even **better**, objective foundation for rights waiting buttress it.
-
-This more solid foundation is The New Ideal - the morality of life.
 
