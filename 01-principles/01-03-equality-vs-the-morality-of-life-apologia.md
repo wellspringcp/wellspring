@@ -49,45 +49,28 @@ A rational creature which refuses to exercise its rationality to be productive, 
 
 ## The Morality of Life vs "Equality" and "God Given Rights":
 
-The two foundations on which we have based individual rights heretofore have been "Equality" and "Divine commandment". Prior to the industrial revolution, it would have been impossible for philosophers to grasp the crucial role of reason in humankind's survival: indeed even Aristotle missed it in his time. Sir Francis Bacon  deduced that "knowledge is power". And Objectivism completed that thought by observing that reason is essential to human life -- i.e, that reason is essential to humankind's discovery and pursuit of, its moral code.
+The two foundations on which we have based individual rights heretofore have been "Equality" and "Divine commandment". Prior to the industrial revolution, it would have been impossible for philosophers to grasp the crucial role of reason in humankind's survival: indeed even Aristotle missed it in his time. Sir Francis Bacon deduced that "knowledge is power". The Philosopher of the Second Enlightenment completed that thought by observing that reason is essential to human life -- i.e, that reason is essential to humankind's discovery and pursuit of, its moral code.
 
 In graduating past "equality" and "divine commandment" as the foundation for individual rights, _we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct_, grounded in an objective morality based on verifiable facts about human biology and the real world.
 
-## Special appeal to Judeo-Christian believers.
+## Special appeal to Judeo-Christian believers:
 
-It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their bible's code of morality when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate from the "equality" doctrine toward a "morality of life" based on objectively verifiable facts.
+It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their bible's code of morality when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate toward the Morality of Life based on objectively verifiable facts.
 
-### Does the Judeo-Christian bible actually support equality as the foundation for rights? What does it actually say?
+### Does the Judeo-Christian bible actually teach that "All men are created equal"? What does it actually teach?
 
-A common bromide is that the Judeo-Christian god "created all men equal" -- curiously, this maxim appears nowhere in the Judeo-Christian bible. The Judeo-Christian moral framework does **not** say that their god created all men equal; rather that he created all men *in his image*. Those are two different statements with different ramifications. Judeo-Christian ethics is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** inadequacies clearly visible in him; not because he is your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual. You are commanded to be like the Bereans - so search diligently and see whether this is so.
+A common bromide is that the Judeo-Christian God "created all men equal" -- curiously, this maxim appears nowhere in the Judeo-Christian bible. The Judeo-Christian moral framework does **not** say that the Judeo-Christian God created all men equal; rather that he created all men *in his image*. Those are two different statements with different ramifications. Judeo-Christian ethics is modeled not on equality as the impetus for morals, but on the contrary, it states that you should treat your neighbour as yourself because he was made in God's image, and has value in the eyes of his creator **in spite of** physiological inadequacies you may clearly see in him; not because he was created your equal. Judeo-Christian believers treat the disadvantaged with respect because their god has a purpose for every individual.
 
 "Equality" is actually a humanist ethical foundation. In fact, the Judeo-Christian God **proudly admits that He creates people unequally** in order that when his purpose is fulfilled in a person's life, He (God) might gain even more glory in that He was able to accomplish His purpose through a flawed individual **in spite of** his flaws.
 
-### Objectivism's "Morality of life" based on the metaphysical identity of humankind is a better approximation of Judeo-Christian morality than "Equality" is.
+Christians are commanded to be like the Bereans - so search diligently and see whether this is so. Jews are commanded to reject any doctrine not based on the torah and the witness of the prophets (Isa 8:20). Is "equality" a scriptural notion, or a humanist one?
 
-The Judeo-Christian frameworks of rights asserts the sanctity of human life, stemming from the assertion that humans are created in God's image, and that God has a plan for each human life, and this breaks down in the following way:
+### The "Morality of life" based on the metaphysical identity of humankind is a better approximation of Judeo-Christian morality than "Equality" is.
 
-- The reverence for humankind's "rights" in Judeo-Christianity start from its assertion about the metaphysical nature of humankind as a species: that every human is an instance of the image of God, and that, God's image being in him/her, that life is sacred.
-- Judeo-Christianity then says that humankind, made in God's image, have value to God because He has a purpose for each human; therefore even if a human appears to be deficient to you, you must hold his life sacred because his life has value to God, and you don't know God's purpose for him.
-- Furthermore, a human life requires a definite course of action, since there is an objectively verifiable course of action which preserves/promotes human life, and objectively verifiable actions which injure/destroy human life, and Judeo-Christianity commands that one love his neighbour as himself -- or, that one objectively treat one's neighbour in such a way as to ensure that one doesn't engage in courses of action which injure/destroy one's neighbour's life, in the same way that one might do so for oneself.
-- In order for a human to fulfill God's purpose for their life, they require freedom both to act for the preservation/promotion of their own life, and freedom to act in pursuit of God's purpose, without interference from other humans or from kings and governments.
+Since `Wellspring` is a political document which aims to integrate residents holding multiple world views peacefully, it takes no position on whether or not the Judeo-Christian God did create our rational, ordered universe and endow humankind with the rational faculty; we merely observe that the rational, ordered universe is here, and that humankind has the ability to grasp facts about both the universe and human biological nature.
 
-The Objectivist framework of rights breaks down in the following, comparable way:
+We welcome Judeo-Christian believers to posit (within their private sector religious communities) that the objective facts that we observe were set in motion by the Judeo-Christian God.  Subsequent to that statement, the Morality of Life is not antagonistic to Judeo-Christianity at all; and `WS` will never, by its structure and design, intrude on religious freedom except where the observance of a religion leads to an intrusion on the rights of another individual.
 
-- The Objectivist framework of rights *also* stems from the metaphysical identity of humankind as a species: that humankind as a species has a set of metaphyically common properties, attributes and requirements for life which can be observed and confirmed as objective facts. There is a definite course of action which preserves/promotes human life/flourishing (and that these are moral), and there are observable, objectively verifiable courses of action which destroy it (and that these are immoral).
-- Objectivism then says that we can make objective judgments about which actions preserve/promote human life and which destroy it and that human morality consists of a code of action governed by objective knowledge of the definite course of action that preserves/promotes human life.
-- In order for a human to pursue his/her requirements for life/flourishing, they require freedom to act in pursuit of that life and flourishing, without interference from other humans or from kings and governments.
+## Special appeal to secularists:
 
-We submit to the Judeo-Christian world that this framework of rights is a far stronger approximation of their own God's justification for their rights, than the justification given by the "Equality" framework.
-
-Moreover, we submit for all peoples' evaluation, the objectively observable fact that the assertion of "Equality" is simply untrue on its face to begin with.
-
-## An appeal to secularists:
-
-In this section we will show how neither "God-given rights" nor "equality" suffice as common, objective legal foundations for human rights. A legal rights philosphy must be evident to all within a polity before all can be expected to subordinate their minds to it. Note that `WS` does not opine on whether or not a god exists; it merely points out that, in a polity where multiple world views exist (including atheists):
-
-- "God-given rights" cannot act as a shared legal foundation for rights, since many people do not believe in a god, and those who do, don't agree on which god's commandments should be the objective standard for morality.
-- "Equality" cannot act as a shared legal foundation for rights, since any rational person who observes the world around them can see that humans are not in fact, equal.
-
-An objective morality is the only morality which can justly govern mankind.
-
+Secularists have long been seeking a moral framework which would enable politics to graduate past the mysticism of God-given rights. The Morality of Life is the objective morality which will peacefully integrate myriad individuals with very different views on morality thanks to its objective nature.
