@@ -38,10 +38,10 @@ The notion of "rights" arises when a creature, having a certain objectively requ
 - To hold a rational being back from applying its reason to its life is to oppose its very means of supporting its life; and therefore ultimately to oppose its life **qua rational being**, and reduce it to less than human.
 - An objective fact about humankind is that we have limbs capable of exerting brute force and predating on other rational beings; but it's also an objective fact that we have a rational brain capable of directing these same limbs to labour to produce instead of to predate on those who do produce.
 - A rational being's pursuit of its morality **qua rational being** consists of scientifically observing the objective facts about reality and learning knowledge of how to terraform nature to produce its needs for a holistic life -- in other words, a rational being pursues its requirements for life not as a predator or a brute, but through productivity.
-- When a rational being has need for the produce of another rational entity, rationality, and therefore morality, demands that it engage in mutually voluntary **trade** -- that it exchange the produce of its own rational efforts (cognitive or physical) for the produce of the other.
+- When a rational being has need for the produce of another rational entity: rationality, and therefore morality, demands that it engage in mutually voluntary **trade** -- that it exchange the produce of its own rational efforts (cognitive or physical) for the produce of the other.
 - Ergo finally, due to the metaphysical nature of rational beings as rational beings, which must live as such, the moral code which preserves and promotes rational life **demands rationality**; and the right to pursue that moral code in a social context **demands productivity**.
 
-A right therefore, cannot consist of a claim to predate on other rational beings (which would amount to treating the victim as less than human) -- whether on their minds, their bodies or their produce. A right for a rational creature consists solely of a right to exercise one's own capabilities toward the moral end of one's own life **qua rational being**, within a social context.
+A right therefore, cannot consist of a claim to predate on other rational beings (which would amount to treating both the victim and oneself as less than human) -- whether on their minds, their bodies or their produce. A right for a rational creature consists solely of a right to exercise one's own capabilities toward the moral end of one's own life **qua rational being**, within a social context.
 
 A rational creature which refuses to exercise its rationality to be productive, but prefers to predate and be brutish has voluntarily chosen to be a predator and a brute -- and the entire justification of private property law is that it preserves the life of rational beings to live qua rational being, and to free them from the predations of those who choose to live as less than rational beings. I.e, private property law is the set of restrictions which free individuals who are acting in line with an objective moral code, from the predations of the immoral.
 
@@ -55,7 +55,7 @@ In graduating past "equality" and "divine commandment" as the foundation for ind
 
 ## Special appeal to Judeo-Christian believers:
 
-It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their bible's code of morality when absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate toward the Morality of Life based on objectively verifiable facts.
+It is important to specifically address the followers of Judeo-Christianity and convince them of an error they have accepted as being part of their bible's code of morality when it absolutely **isn't** - we offer an olive branch to the (not insignificant) following of Judeo-Christianity to hopefully make it easier for them to graduate toward the Morality of Life based on objectively verifiable facts.
 
 ### Does the Judeo-Christian bible actually teach that "All men are created equal"? What does it actually teach?
 
