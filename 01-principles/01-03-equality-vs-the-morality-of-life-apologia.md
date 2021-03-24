@@ -26,10 +26,11 @@ Morality consists of a code of behaviour to enable a species to live successfull
 
 ### Morality specific to rational creatures such as humans:
 
-- Humans are born tabula rasa - their rational faculty is given to them but knowledge is not. Infants lack knowledge of even the most basic threats to their lives, and are drawn as much to a flame as to a nourishing meal. Yet humans must somehow follow the definite set of behaviours required by their nature in order to survive; or in fewer words, humans must somehow discover morality.
-  - Humans meet their requirements for survival and all other needs for their flourishing by applying their powers of reason to the natural world, discovering the laws that govern nature, and harnessing nature to produce their needs. The essential and defining attribute of humankind is that it is the rational creature and its primary tool for survival is its reason.
-  - Rationality in other words, is **both** the means by which humans both discover the behaviours which promote their life (i.e, the objective facts which inform their **moral code**), as well as the means by which they pursue them.
-  - The moral code for a rational creature then, consists of the rational study of its environment, and the taking of action to harness nature to promote its life (i.e, moral action). Indeed, rationality is the essence of the moral code for humans.
+Humans are born tabula rasa - their rational faculty is given to them but knowledge is not. Infants lack knowledge of even the most basic threats to their lives, and are drawn as much to a flame as to a nourishing meal. Yet humans must somehow follow the definite set of behaviours required by their nature in order to survive; or in fewer words, humans must somehow discover morality.
+
+- Humans meet their requirements for survival and all other needs for their flourishing by applying their powers of reason to the natural world, discovering the laws that govern nature, and harnessing nature to produce their needs. The essential and defining attribute of humankind is that it is the rational creature and its primary tool for survival is its reason.
+- Rationality in other words, is **both** the means by which humans both discover the behaviours which promote their life (i.e, the objective facts which inform their **moral code**), as well as the means by which they pursue them.
+- The moral code for a rational creature then, consists of the rational study of its environment, and the taking of action to harness nature to promote its life (i.e, moral action). Indeed, rationality is the essence of the moral code for humans.
 
 A human who refuses to use their rational faculty will either live by predating off another human who does, or it will die. That is, it will either act as a predator on another human who has chosen to act morally, or it will die.
 
