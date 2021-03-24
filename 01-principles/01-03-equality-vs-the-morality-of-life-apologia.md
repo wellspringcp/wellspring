@@ -51,7 +51,7 @@ A rational creature which refuses to exercise its rationality to be productive, 
 
 The two foundations on which we have based individual rights heretofore have been "Equality" and "Divine commandment". Prior to the industrial revolution, it would have been impossible for philosophers to grasp the crucial role of reason in humankind's survival: indeed even Aristotle missed it in his time. Sir Francis Bacon  deduced that "knowledge is power". And Objectivism completed that thought by observing that reason is essential to human life -- i.e, that reason is essential to humankind's discovery and pursuit of, its moral code.
 
-In graduating past "equality" and "divine commandment" as the foundation for individual rights, _we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct_.
+In graduating past "equality" and "divine commandment" as the foundation for individual rights, _we will not destroy individual rights, but instead cement them immovable, impregnable and sacrosanct_, grounded in an objective morality based on verifiable facts about human biology and the real world.
 
 ### Special appeal to Judeo-Christian believers.
 
