@@ -26,7 +26,7 @@ Morality consists of a code of behaviour to enable a species to live successfull
 
 ### Morality specific to rational creatures such as humans:
 
-Humans are born tabula rasa - their rational faculty is given to them but knowledge is not. Infants lack knowledge of even the most basic threats to their lives, and are drawn as much to a flame as to a nourishing meal. Yet humans must somehow follow the definite set of behaviours required by their nature in order to survive; or in fewer words, humans must somehow discover morality.
+Humans are born tabula rasa - their rational faculty is given to them but knowledge is not. Infants lack knowledge of even the most basic threats to their lives, and are drawn as much to a flame as to a nourishing meal. Yet humans must somehow follow the definite set of behaviours required by their nature in order to survive; or in fewer words, humans must somehow **discover** the objective facts that constitute their moral code.
 
 - Humans meet their requirements for survival and all other needs for their flourishing by applying their powers of reason to the natural world, discovering the laws that govern nature, and harnessing nature to produce their needs. The essential and defining attribute of humankind is that it is the rational creature and its primary tool for survival is its reason.
 - Rationality in other words, is **both** the means by which humans both discover the behaviours which promote their life (i.e, the objective facts which inform their **moral code**), as well as the means by which they pursue them.
