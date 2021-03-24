@@ -63,7 +63,7 @@ A common bromide is that the Judeo-Christian God "created all men equal" -- curi
 
 "Equality" is actually a humanist ethical foundation. In fact, the Judeo-Christian God **proudly admits that He creates people unequally** in order that when his purpose is fulfilled in a person's life, He (God) might gain even more glory in that He was able to accomplish His purpose through a flawed individual **in spite of** his flaws.
 
-Christians are commanded to be like the Bereans - so search diligently and see whether this is so. Jews are commanded to reject any doctrine not based on the torah and the witness of the prophets (Isa 8:20). Is "equality" a scriptural notion, or a humanist one?
+Christians are commanded to be like the Bereans - so "search and see whether this is so". Jews are commanded to reject any doctrine not based on the torah and the witness of the prophets (Isa 8:20). Is "equality" a scriptural notion, or a humanist one?
 
 ### The "Morality of life" based on the metaphysical identity of humankind is a better approximation of Judeo-Christian morality than "Equality" is.
 
