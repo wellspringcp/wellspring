@@ -110,7 +110,7 @@ No regulatory committee or administrative agency (not even supposedly "independe
 
 ## Courts
 
-A polity with competing bodies of law is effectively a polity where the residents live under different rules. In `WS`, private property law shall enjoy an undisputed monoply in legislation. To this end, the court system is a nationalized monopoly. This shall not be construed to antagonize private legal settlements over civil disputes.
+All courts shall be common law courts. All trials shall be trial by jury unless the parties on both sides of the advocacy agree to waive the right to trial by jury. Magistrates shall not usurp the power of decision from the jury in a jury trial.
 
 ## Open governance
 
