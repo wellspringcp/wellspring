@@ -35,12 +35,13 @@ On laws which require the maintenance of logs and records which are of interest 
 
 Left unimpeded, most indepagents are capable of exercising each of these rights. It is therefore their right, **by right**, to exercise them subject only to the principle of non-interference (private property law).
 
-Here are examples of things which are **not** the exercise of rights, but rather impositions of obligations on **other** indepagents -- i.e., they impede the free exercise of the rights of some **other** indepagent:
+On the right to freely associate/dissociate: one could argue that restraining orders should have been listed here as an exception but implicit in the request for a restraining order is the acknowledgment that at least one party (the plaintiff) wishes to dissociate from the other so restraining orders aren't an exception, but part of the rule. 
+
+Here are two examples of things which are **not** the exercise of rights, but rather impositions of obligations on **other** indepagents -- i.e., they impede the free exercise of the rights of some **other** indepagent:
 - A "right to healthcare".
 : A claim to a "right to healthcare" amounts to a claim on the ability to compel a healthcare worker to perform medical labour on the indepagent claiming the right, *even if the healthcare worker does not voluntarily agree to be bound by the claim*.
 - A "right to housing".
 : A claim to a "right to housing" amounts to a claim on the labour of a construction worker to perform labour for the benefit of the indepagent claiming the right, or a claim to sieze the existing housing property owned by another indepagent, *even if the construction worker or landlord does not voluntarily agree to be bound by the claim*.
-- And so on.
 
 ### Those things declared "unenforceable" by `WS`
 
@@ -59,9 +60,9 @@ It has became common for politicians of the forerunner republic to call that rep
 - Monarchy
 : Rule of kings. In a Monarchy, the changing whims of some defined royal lineage **is** the law. Irrespective of what may be written down in the law books at any given time, if a shift in the mind of that royal lineage occurs, the laws on the books will soon follow. The law is what inhabits the minds (i.e., the whim) of some royal lineage.
 
-## A word on "Equality":
+### The rule of law:
 
-On the "no justification to attempt to equalize disparities in outcome" point: by design, `WS` includes the following mechanisms to ensure that disparities in outcome caused by differences in the skill of legal representation are kept to their plausible minimum (we do not claim that they will be zero):
+On the "no justification to attempt to equalize disparities in outcome" point: by design, `WS` includes the following mechanisms to ensure that disparities in outcome caused by differences in the skill of legal representation are kept to their plausible minimum (we do not claim that they will be zero: rather, we point out that even among public lawyers, there are also disparities in skill which would produce the same outcome):
 - `WS` Grants a heavy tax discount to all legal representation insurance/subscription schemes to ensure they're always in abundant supply (and therefore, highly affordable).
 - `WS`'s legislative process is designed to ensure that the laws on the books are both few in number and predictable and easy to understand (since they should all be strict inferences from private property sovereignty as their premise).
   -  For this reason, pro-se representation should be feasible and practical.
@@ -70,13 +71,17 @@ By design, public legal representation is not likely to become the widespread no
 
 ## Role of government:
 
+## Courts:
+
+## Open governance:
+
 ## Freedom of citizenship:
 
-We do not wish to hold anyone born within a `WS` polity captive to our borders, and we wish to make it materially plausible for persons unhappy in `WS` polities to leave, and to encourage those people to leave.
+We do not wish to hold anyone born within a `WS` polity captive to our borders, and we wish to make it materially plausible for persons unhappy in `WS` polities to leave, and to encourage those people to leave. Overwhelmingly, collectivists born within the forerunner republic argued that they had no choice but to transform it  into a collectivist polity because they didn't have the material means to leave it - we empathize with those individuals who felt this way, and provide these mechanisms to make it materially practical for them to pursue the life they prefer outside of `WS`'s jurisdiction. In return, we ask that they actually make use of these programs and not attempt to subvert `WS` polities.
 
 ### The right to leave
 
-`WS` does not wish to hold anyone captive to its borders, who wishes to leave. This program makes it practical for indepagents who are not happy living in a free market to seek greener pastures elsewhere. It is available only to citizens of `WS`. Indepagents who immigrated willingly to `WS` will not have access to this program.
+`WS` does not wish to hold anyone captive to its borders, who wishes to leave. This program makes it practical for indepagents who are not happy living in a free market to establish a life elsewhere. It is available only to citizens of `WS`. Indepagents who immigrate willingly to `WS` will not have access to this program.
 
 ### The right to seek greener pastures
 
