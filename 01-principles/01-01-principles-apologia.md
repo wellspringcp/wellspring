@@ -79,11 +79,11 @@ By design, public legal representation is not likely to become the widespread no
 
 We do not wish to hold anyone born within a `WS` polity captive to our borders, and we wish to make it materially plausible for persons unhappy in `WS` polities to leave, and to encourage those people to leave. Overwhelmingly, collectivists born within the forerunner republic argued that they had no choice but to transform it  into a collectivist polity because they didn't have the material means to leave it - we empathize with those individuals who felt this way, and provide these mechanisms to make it materially practical for them to pursue the life they prefer outside of `WS`'s jurisdiction. In return, we ask that they actually make use of these programs and not attempt to subvert `WS` polities.
 
-### The right to leave
+### The right to leave program:
 
 `WS` does not wish to hold anyone captive to its borders, who wishes to leave. This program makes it practical for indepagents who are not happy living in a free market to establish a life elsewhere. It is available only to citizens of `WS`. Indepagents who immigrate willingly to `WS` will not have access to this program.
 
-### The right to seek greener pastures
+### The citizenship swap program:
 
 Again, `WS` does not with to hold captive to its borders, anyone who wishes to leave. An individual born in a `WS` polity who prefers a different polity, is welcome to take advantage of this program to leave, and we welcome the new individual whom they swap citizenship with, with open arms.
 
