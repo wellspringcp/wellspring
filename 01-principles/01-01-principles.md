@@ -128,16 +128,18 @@ The accomodation funds shall be disbursed for a legislatively defined period. `W
 
 - One way travel to a destination chosen by the applicant.
   - Should the applicant desire to relocate again to a different domicile location during the legislatively defined period, no new transportation coverage shall be offered or granted; however the accomodations funds will continue being paid according to the original schedule.
-- Coverage of accomodations lasting for a legislatively defined period. The level of comfort afforded shall be subject to legislation.
+- Coverage of accomodations for the applicant and those **direct** dependents whom they will take with them, lasting for a legislatively defined period. The level of comfort afforded shall be subject to legislation.
   - The coverage shall be given in monetary form.
   - There is no requirement that the applicant spend the money on accomodations; merely that they leave the jurisdiction.
-- It is up to the applicant to procure any visas/authorization for residency, transit, work permits, etc required to reach and domicile themselves in their end destination, and the `WS` government shall render only whatever assistance is the reasonable custom as part of ordinary immigrations procedure.
+- It is up to the applicant to procure any visas/authorization for residency, transit, work permits, etc required to reach and domicile themselves and those direct dependents whom they will take with them, in their end destination, and the `WS` government shall render only whatever assistance is the reasonable custom as part of ordinary immigrations procedure.
 
-The government shall not impose obstacles that make it difficult to claim this program's benefits. Citizens shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher priorities against it, such as `SovWI` and `SovCBio` emergencies.
+The government shall not impose obstacles that make it difficult to claim this program's benefits. Citizens shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher budgeting priorities against it, such as `SovWI` and `SovCBio` emergencies.
 
 ### The citizenship swap program:
 
-Citizens shall have a valid claim to the "Citizenship swap" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the swap-partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to their swap-partner. An applicant to this program may file a joint application for both this program and the "Right to leave" program in order to use the "Right to Leave" program as their material means of departure to, and settlement within, their preferred new domicile (which need not be the polity of their newly acquired citizenship).
+Citizens shall have a valid claim to the "Citizenship swap" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the swap-partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to their swap-partner. _Loss of `WS` citizenship doesn't eliminate the right to reside within `WS`_.
+
+An applicant to this program may file a joint application for both this program and the "Right to leave" program in order to use the "Right to Leave" program as their material means of departure to, and settlement within, their preferred new domicile (which need not be the polity of their newly acquired citizenship).
 
 ## Individual private property sovereignty has veto power over the government
 
