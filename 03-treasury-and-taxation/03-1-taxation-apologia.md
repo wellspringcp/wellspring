@@ -14,7 +14,7 @@ The difference between the denial of access to the courts for tax evasion and ou
 
 We cannot allow people to opt out of funding the courts and army because this would compromise the monpoly enjoyed by private property law, and without any room for negotiation, private property law must enjoy an undisputed monopoly in legislation within `WS` polities. At the end of the day, when a conagent enters the jurisdiction of `WS`, it accepts at minimum, without any offer of redress, to be governed by private property law. If it prefers not to accept this, then it is not compelled to come.
 
-As a caution to residents of `WS` polities, since taxation cannot be avoided or made voluntary (beyond the Right to Leave) because private property law must enjoy an unchallenged monopoly, conagents should be wary to carefully control the tax rate and to guard against any attempts by the legislature to expand taxation beyond the individual income tax because the politicians will definitely try.
+As a caution to residents of `WS` polities, since taxation cannot be avoided or made voluntary (beyond the Right to Leave) because private property law must enjoy an unchallenged monopoly, conagents should be wary to carefully control the tax rate and to guard against any attempts by the legislature to expand taxation beyond the individual income tax because the politicians will certainly try.
 
 ### Upper limit on taxation:
 
