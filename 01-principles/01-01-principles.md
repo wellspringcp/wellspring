@@ -137,7 +137,7 @@ The government shall not impose obstacles that make it difficult to claim this p
 
 ### The citizenship swap program:
 
-Citizens shall have a valid claim to the "Citizenship swap" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the swap-partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to their swap-partner. _Loss of `WS` citizenship doesn't eliminate the right to reside within `WS`_.
+Citizens shall have a valid claim to the "Citizenship swap" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the swap-partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to their swap-partner. _Loss of `WS` citizenship doesn't implicitly eliminate the right to reside within `WS`_.
 
 An applicant to this program may file a joint application for both this program and the "Right to leave" program in order to use the "Right to Leave" program as their material means of departure to, and settlement within, their preferred new domicile (which need not be the polity of their newly acquired citizenship).
 
