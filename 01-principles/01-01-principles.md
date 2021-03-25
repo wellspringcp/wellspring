@@ -122,7 +122,9 @@ All affairs of government not concerning war secrets shall be open to attendance
 
 ### The right to leave program:
 
-Citizens shall have a valid claim to the "Right to leave" program which shall be effectuated by a department under the Estate branch. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The accomodation funds shall be disbursed for a legislatively defined period. The right to leave program grants:
+Citizens shall have a valid claim to the "Right to leave" program which shall be effectuated by a department under the Estate branch. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship.
+
+The accomodation funds shall be disbursed for a legislatively defined period. `WS` recommends that this legislatively defined period cover the reasonable common period of study in an undergraduate tertiary level institution -- generally 3 or 4 years. The right to leave program grants:
 
 - One way travel to a destination chosen by the applicant.
   - Should the applicant desire to relocate again to a different domicile location during the legislatively defined period, no new transportation coverage shall be offered or granted; however the accomodations funds will continue being paid according to the original schedule.
