@@ -120,22 +120,22 @@ All affairs of government not concerning war secrets shall be open to attendance
 
 ## Freedom of citizenship:
 
-### The right to leave
+### The right to leave program:
 
-Citizens shall have a valid claim to the "Right to leave" program which shall be effectuated by a department under the Estate branch. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The right to leave program grants:
+Citizens shall have a valid claim to the "Right to leave" program which shall be effectuated by a department under the Estate branch. Citizens who claim the Right to Leave shall not be allowed to return until they have paid back the debt incurred to effectuate the program on their behalf. While the ex-citizen is outside of the jurisdiction of `WS`, they shall not be chargeable for the debt. Upon leaving the jurisdiction as the final step of the Right to Leave program, the citizen loses citizenship. The accomodation funds shall be disbursed for a legislatively defined period. The right to leave program grants:
 
 - One way travel to a destination chosen by the applicant.
-  - Should the applicant desire to relocate to a different domicile location during the 2 years, no new transportation coverage shall be offered or granted; however the accomodations funds will continue being paid according to the original schedule.
-- 2 years' coverage of accomodations. The level of comfort afforded shall be subject to the legislature.
+  - Should the applicant desire to relocate again to a different domicile location during the legislatively defined period, no new transportation coverage shall be offered or granted; however the accomodations funds will continue being paid according to the original schedule.
+- Coverage of accomodations lasting for a legislatively defined period. The level of comfort afforded shall be subject to legislation.
   - The coverage shall be given in monetary form.
   - There is no requirement that the applicant spend the money on accomodations; merely that they leave the jurisdiction.
-- It is up to the applicant to procure any visas/authorization for residency, transit, etc required to reach and domicile themselves in their end destination.
+- It is up to the applicant to procure any visas/authorization for residency, transit, work permits, etc required to reach and domicile themselves in their end destination, and the `WS` government shall render only whatever assistance is the reasonable custom as part of ordinary immigrations procedure.
 
-The government shall not impose obstacles that make it difficult to claim this program's benefits. Citizens shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher priorities against it, such as SovWI and SovCBio emergencies.
+The government shall not impose obstacles that make it difficult to claim this program's benefits. Citizens shall be freely allowed to leave. Notwithstanding, government may suspend the program at times where it becomes difficult to balance other higher priorities against it, such as `SovWI` and `SovCBio` emergencies.
 
-### The right to seek greener pastures
+### The citizenship swap program:
 
-Citizens shall have a valid claim to the "Greener Pastures" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the trade partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to trade partner. An applicant to this program may file a joint application for both this program and the "Right to leave" program in order to benefit from the "Right to Leave" program as their means of departure to their greener pastures.
+Citizens shall have a valid claim to the "Citizenship swap" program. Under this program, an individual possessing citizenship of a `WS` polity shall have the right to trade their citizenship with a citizen of another, non-`WS` polity. If the government of the polity of the swap-partner agrees to the trade, then upon successfully completing the application process, the applicant `WS` citizen shall lose citizenship of `WS`, and their citizenship shall be transferred to their swap-partner. An applicant to this program may file a joint application for both this program and the "Right to leave" program in order to use the "Right to Leave" program as their material means of departure to, and settlement within, their preferred new domicile (which need not be the polity of their newly acquired citizenship).
 
 ## Individual private property sovereignty has veto power over the government
 
