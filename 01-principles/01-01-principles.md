@@ -2,7 +2,7 @@
 
 ## Prologue
 
-This constitution is a broad template of sorts which is meant to be adapted and adopted by a new era of nations. Its name is `Wellspring` -- it aims to be a wellspring from which oases of reason, reality and individualism will flourish in a world of coercion and collectivism.
+This constitution is a broad template of sorts which is meant to be adapted and adopted by a new era of nations. Its name is `Wellspring` -- it aims to be a wellspring from which oases of reason and individualism will flourish in a world of coercion and collectivism.
 
 Wellspring, hereafter "`WS`", exists to improve upon the mistakes of the forerunner American republic and form a more perfect union. `WS` is intended to establish a free market, minarchist, constitutional republic (i.e., emphatically **not** a democracy) with a strong bias against wealth redistribution.
 
@@ -88,11 +88,11 @@ The rule of law (i.e., "Republicanism") is that form of government which equally
 
 `WS` rejects all forms of rule by whim, including rule by whim of a majority (i.e., "Democracy"). `WS` establishes a republic. The separation of powers in a republic pits contending interests against one another in an intentional gridlock, ensuring that any legislative changes which **do** get past the gridlock are those with extremely broad consensus. A republic's constitution most importantly, resists **impulsive** changes and protects minorities against the tyranny of majorities (i.e, "Democracy") by identifying rival minority and majority interests and giving them representation in government, so as to impose intentional political gridlock using the separation of powers.
 
-## A word on "Equality"
+### The rule of law:
 
 `WS`, being a Republic, enforces the Rule of Law; which is that the law applies equally to all and no individual is above the law and every individual has an equal claim to the enforcement of their sovereignty over their private property. To give force to this principle, a `WS` government is permitted to provide redistributive and subsidy programs to pursue the following goal only:
 
-- Access to legal representation services for plaintiffs and defendants who can't afford representation. When an individual suffers a loss, their financial position should not be their primary concern when deciding whether or not to seek redress in court.
+- Access to legal representation services for plaintiffs and defendants who can't afford representation. When an individual suffers a private property violation, their financial position should not be their primary concern when deciding whether or not to seek redress in court.
   - This shall not be construed to antagonize or invalidate private legal service providers, whether private prosecutors or defenders.
   - This shall not be construed as a justification to attempt to equalize disparities in outcome caused by differences in the quality and skill of legal representation.
 
