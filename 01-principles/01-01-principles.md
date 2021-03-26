@@ -10,7 +10,7 @@ Wellspring, hereafter "`WS`", exists to improve upon the mistakes of the forerun
 
 ### Disclaimer:
 
-This project was developed entirely independently of any think tank, political action group or other ideological organization by an extremely small collection of motivated individuals. This project does not represent the views of **any** of the ideological figures or intellectuals whose work it may reference or incorporate. In particular, to make it completely clear: this is **not**, for example, an "Objectivist" constitution nor is it in any tenuous way linked to the "Ayn Rand Institute"; nor is it the product of any school of thought such as "The Austrian School of Economics" or any other ideological entity.
+This project was developed entirely independently of any think tank, political action group or other ideological organization by an extremely small collection of passionate individuals. This project does not represent the views of **any** of the ideological figures or intellectuals whose work it may reference or incorporate. In particular, to make it completely clear: this is **not**, for example, an "Objectivist" constitution nor is it in any tenuous way linked to the "Ayn Rand Institute"; nor is it the product of any school of thought such as "The Austrian School of Economics" or any other ideological entity.
 
 It was produced entirely independently of any institution. No institution/movement was aware of it while it was being crafted, and no institution/movement endorsed or funded its creation. Whether or not any particular movement/institution/school of thought will endorse this constitution in the future is unknown to its creators.
 
