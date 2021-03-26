@@ -4,7 +4,7 @@
 
 > [Apologia]: This section needs a re-do very badly. It is not satisfactory at all.
 
-In `WS`, private possession of arms is intended to keep pace with the known and provable (by balance of probability of evidence) defensive or offensive capabilities of politicians. I.e, the purpose of private weaponry is not to overthrow the government, but to individually overpower politicians and bring them to heel when outlawed.
+In `WS`, private possession of arms is intended to keep pace with the known and provable (by balance of probability of evidence) defensive or offensive capabilities of politicians.
 
 We can accomplish this by any of the following:
 1. Allowing politicians freedom to possess (or rent/hire) unlimited weapons and defenses, and then allowing private individuals to sue to establish the minimum level of private weapons capability required to, without failure, subdue a politician.
