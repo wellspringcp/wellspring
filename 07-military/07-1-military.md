@@ -75,7 +75,7 @@ Any damages caused by an individual acting under `Paramart` law incur liability 
 
 The police force operates under the common law and not under the `Paramart` law.
 
-> [Apologia]: For example, if a soldier is ordered to secure a perimeter and in doing so he must vacate a business, and subdue and forcibly remove a pregnant woman who is being an obstacle, the suit will proceed against the military branch. The military branch will pay all compensation.
+> [Apologia]: For example, if a soldier is ordered to secure a perimeter and in doing so he must vacate a business, and subdue and forcibly remove a civilian who is being an obstacle, the suit will proceed against the military branch. The military branch will pay all compensation.
 
 > [Apologia]: Internally the military branch is free to acquit the soldier if martial law allowed him to act in that manner. Or the military is free to charge him and conduct a martial law trial.
 
