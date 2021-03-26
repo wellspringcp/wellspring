@@ -1,5 +1,7 @@
 # Wellspring: Foundations of Natures trespass theory:
 
+> [TODO: Think about capture law and claim law and how these pertain here.]
+
 ## Demarcation and labeling:
 
 All natureses not titled may be freely traveled across by any individual. Though no individual may exercise dominion over them other than in travelling across or through them. The right to exercise dominion over any natures shall be via title purchase.
