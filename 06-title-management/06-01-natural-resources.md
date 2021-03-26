@@ -2,6 +2,8 @@
 
 Natural resources as defined by this Constitution includes all naturally occurring assets, from airspace and electromagnetic waves to land to waterways (not an exhaustive list).
 
+>[NOTE: We need to think about capture law and laws of claim how they fit in here]
+
 ## Original ownership and allocation:
 
 All natural resources are originally assigned to the custodianship of the government. The government shall grant title to such resources to the indepagent which wins the bid for it on the externality auction. Such title shall not subsquently be unilaterally withdrawn by the government after it is given out. The government shall however maintain a registry of all such title owners and all transfers of title shall be registered with the government. A title holder may voluntarily relinquish title to an allocated natural resource back to the government at any time.
