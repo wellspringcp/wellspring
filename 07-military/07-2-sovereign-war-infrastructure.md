@@ -14,11 +14,11 @@ This section of the `WS` outlines the guiding principles which constrain the ran
 
 `SovWI` policy may be used to erect military fortifications, military supply lines and military communications infrastructure; to reserve military flight routes; to build military academies, military training grounds, and military bases. `SovWI` infrastructure should attempt to be as minimal as possible preferring to procure natureses and rent them out under binding agreements upon the tenant to build the required infrastructure; or if the government must build the infrastructure itself, to provide backbones and not fully built infrastructure.
 
-Under the auspices of `SovWI`, the military branch is the only one authorized to undertake infrastructure projects ***subject to justification under*** the published war readiness plan. This shall not be construed to prevent the Estate branch from procuring natureses to effectuate the estate requirements of the non-military branches of government.
+Under the auspices of `SovWI`, the military branch is the only one authorized to undertake non-trivial infrastructure projects ***subject to justification under*** the published war readiness plan. This shall not be construed to prevent the Estate branch from procuring natureses to effectuate the estate requirements of the non-military branches of government.
 
 ### Specific injunctions and scope limitations
 
-Mechanisms for environmental protection are outlined elsewhere in this constitution, and `SovWI` law is not to be overloaded for that purpose.
+*Mechanisms for environmental protection are outlined elsewhere in this constitution, and `SovWI` law is not to be overloaded for that purpose.*
 
 `SovWI` projects are *NOT* to be undertaken for any reason other than war readiness, and if they are permanent installations, they are *only* to cover such works as cannot be quickly erected as needed as war approaches. This may be used as a legal rule of thumb for the courts and the plebiscite. Obviously this will and should bias utopia's military toward agility in preparation for war. A *non-exhaustive* list of things that `SovWI` shall **not** be overloaded for includes:
 
