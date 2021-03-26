@@ -4,8 +4,6 @@
 
 > [Apologia]: This section needs a re-do very badly. It is not satisfactory at all.
 
-The `WS` population has a need to be able to capture outlaws. The purpose of the outlawing penalty is ultimately to make outlaws subject to the dominion of their fellows according to their fellows' whims. If a politician or other person who has been outlawed has access to formidable armaments or defenses, this would render outlawing ineffective as a deterrent and punishment.
-
 In `WS`, private possession of arms is intended to keep pace with the known and provable (by balance of probability of evidence) defensive or offensive capabilities of politicians. I.e, the purpose of private weaponry is not to overthrow the government, but to individually overpower politicians and bring them to heel when outlawed.
 
 We can accomplish this by any of the following:
