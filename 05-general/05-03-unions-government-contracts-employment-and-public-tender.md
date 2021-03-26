@@ -21,4 +21,4 @@ There shall be no legislation to force any private individuals/entities to assoc
 
 # Government contracts and public tender:
 
-> [Experimental]: When the govt wishes to procure labour it shall bid at a competitive market price. The labourer shall have the right to walk away from a poorly remunerated govt job without notice. This should incentivize govt to overcompensate with generous salaries to retain contractors, and to structure contracts carefully to ensure ongoing supervision of deliverables.
+All government contracts shall be listed on the public Externality Exchange auction unless by their nature, doing so would violate the `SovWI` War Secret legislation. Government may impose extra interview steps or qualification rounds in the process of public tender in order to satisfy other requirements, but all such extra qualification rounds must be publicly published beforehand; and the initial pool of applicants shall be those obtained via the Externality Exchange auction listing.
