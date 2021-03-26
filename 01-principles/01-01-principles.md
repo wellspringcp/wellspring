@@ -2,9 +2,19 @@
 
 ## Prologue
 
+### Purpose:
+
 This constitution is a broad template of sorts which is meant to be adapted and adopted by a new era of nations. Its name is `Wellspring` -- it aims to be a wellspring from which oases of reason and individualism will flourish in a world of coercion and collectivism.
 
 Wellspring, hereafter "`WS`", exists to improve upon the mistakes of the forerunner American republic and form a more perfect union. `WS` is intended to establish a free market, minarchist, constitutional republic (i.e., emphatically **not** a democracy) with a strong bias against wealth redistribution.
+
+### Disclaimer:
+
+This project was developed entirely independently of any think tank, political action group or other ideological organization by an extremely small collection of motivated individuals. This project does not represent the views of **any** of the ideological figures or intellectuals whose work it may reference or incorporate. In particular, to make it completely clear: this is **not**, for example, an "Objectivist" constitution nor is it in any tenuous way linked to the "Ayn Rand Institute"; nor is it the product of any school of thought such as "The Austrian School of Economics" or any other ideological entity.
+
+It was produced entirely independently of any institution. No institution/movement was aware of it while it was being crafted, and no institution/movement endorsed or funded its creation. Whether or not any particular movement/institution/school of thought will endorse this constitution in the future is unknown to its creators.
+
+_Any journalist or writer who attempts to tie this constitution to any political movement or institution is **engaging in libel** against that movement/institution_ unless that movement/institution has explicitly released an official endorsement of this constitution.
 
 ## Interpretation
 
