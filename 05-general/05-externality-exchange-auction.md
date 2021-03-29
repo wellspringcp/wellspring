@@ -18,4 +18,4 @@ When a natural disaster does occur, the Judicial branch and police shall rapidly
 
 These active emergency government measures shall gradually be phased out as the disaster area is restored to regular working order. 
 
-Conagents living in a particular natures area should take knowledge of the climate and weather patterns in that area and should both pay for insurance against natural disasters common to that area, and build their domiciles appropriately to meet the challenges of that area. Government shall not subsidize the costs of construction and development in areas where rational actors would not otherwise build/settle/operate.
+Conagents living in a particular natures area should take knowledge of the climate and weather patterns in that area and should both pay for insurance against natural disasters common to that area, and build their domiciles appropriately to meet the challenges of that area. Government shall not subsidize the costs of construction and development in areas where independent actors would not otherwise build/settle/operate.
