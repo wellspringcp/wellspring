@@ -19,9 +19,11 @@ Upon judgment proceeding for the employees:
 
 ## Making employers provide safe work environments:
 
-Employers are expected to provide work places which demonstrate a **good faith** effort to ensure that any hazards which may reasonably arise from the nature/configuration of the particular environment/equipment/tools/supplies provided by the employer are ameliorated. Employers may demonstrate such good faith efforts by providing, for each of the hazards occasioned by the particular nature/configuration of the environment/equipment/tools/supplies, a method of using the environment/equipment/tools/supplies which:
+Employers are expected to provide work places which demonstrate a **good faith** effort to ensure that any hazards which may reasonably arise from the nature/configuration of the particular environment/equipment/tools/supplies provided by the employer are ameliorated. Employers may demonstrate such good faith efforts by providing, for each of the hazards occasioned by the particular nature/configuration of the environment/equipment/tools/supplies, a method of using the environment/equipment/tools/supplies which: 
 
-- Basically the same as NAHA.
+- When diligently followed/deployed by the employees ameliorates the hazard.
+- Is resourced by the employer sufficiently so as to make it practical for the employees to follow/deploy.
+- Can readily be demonstrated by the employer to be maintained in an operational state or on standby, ready to be deployed in a timely manner, depending on the type of hazard under consideration.
 
 ### Cause of action: "Unameliorated Hazard":
 
