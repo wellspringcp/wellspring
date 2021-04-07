@@ -2,7 +2,7 @@
 
 ## Making landlords/building owners keep their buildings healthy:
 
-When a tenant of a structure or natures identifies something in the nature of the structure or the natures, which does in fact cause harm to the individuals resident in the structure or natures, such a tenant shall have a claim against the landlord in the form of a cause of action before the courts known as the "Unameliorated Tenancy Hazard".
+When a tenant of a structure or natures identifies something in the nature of the structure or the natures, which does in fact cause harm to the individuals resident in the structure or natures, such a tenant shall have a claim against the landlord in the form of a cause of action before the courts known as the "Unameliorated Tenancy Hazard", if the landlord has not in fact provided a **good faith** method of ameliorating the hazard, or has not maintained said method at the ready, well resourced and in good repair.
 
 ## Cause of action: Unameliorated Tenancy Hazard:
 
@@ -14,7 +14,7 @@ Good faith here refers to the following properties of the methods proposed by th
 - That such a method of ameliorating the harm exists.
 - That such a method can be deployed without itself imposing a Non-Ameliorable Harmful Activity (`NAHA`) as defined elsewhere in this constitution.
 
-### Limitations on liability:
+### Liability:
 
 This cause of action shall be available for:
 - Harms and hazards imposed on the natural resource or structure by nature itself.
