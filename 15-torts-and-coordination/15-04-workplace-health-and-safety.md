@@ -46,4 +46,4 @@ The burden of proof shall lie with the employer to show that they have in fact p
 
 Upon judgment proceeding for the plaintiff(s), the defendant may also source and nominate their own options for ameliorating the hazard and these options shall also be subjected to the good faith criteria. Should the litigants be unable to come to a settlement over which method(s) should be deployed, a legislatively defined procedure shall be used to settle the dispute and guide the jury to arrive at the final decision on behalf of the litigants.
 
-The plaintiffs implicitly agree to a renegotiation of the employees' terms of employment, in line with the requirements to effectuate the finally decided method, including changes to duties, hours, compensation, etc, as decided by the jury through the legislatively defined dispute settlement procedure.
+The plaintiffs implicitly agree to a renegotiation of the employees' terms of employment, in line with the requirements to effectuate the finally decided method, including changes to duties, hours, compensation, etc, as decided by mutual agreement or by the jury through the legislatively defined dispute settlement procedure.
