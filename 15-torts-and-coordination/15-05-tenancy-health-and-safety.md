@@ -27,7 +27,7 @@ This cause of action shall not be available for:
 
 ### Finding options and settling the dispute:
 
-The landlord may also propose methods for ameliorating the harm which shall be subjected to the same good faith criteria. Should both sides of the advocacy not be able to come to an agreement over which method(s) shall be deployed, a legislatively defined process shall be used to settle the dispute and guide the jury to arrive at the final decision on behalf of the litigants.
+Should judgment proceed in favour of the plaintiff, the landlord may also propose methods for ameliorating the harm which shall be subjected to the same good faith criteria. Should both sides of the advocacy not be able to come to an agreement over which method(s) shall be deployed, a legislatively defined process shall be used to settle the dispute and guide the jury to arrive at the final decision on behalf of the litigants.
 
 ### Declaratory relief: Nature still reigns over humankind:
 
