@@ -25,6 +25,6 @@ This cause of action shall not be available for:
   - Such harms and hazards caused by the tenant's manipulation or use shall in fact form the basis of liability for the tenant in tort.
      - Tenants seeking to do engage in potentially harmful manipulations or uses should procure agreement from their landlord in writing.
 
-## Defense: Nature still reigns over humankind:
+### Declaratory relief: Nature still reigns over humankind:
 
 Should judgment proceed in favour of the defendant, an additional declaratory relief shall be granted if the plaintiff was unable to show that a good faith method of ameliorating the harm existed. And the judgment now being on record, it may inform the residents of the area that the particular harm complained of is a hazard that comes with the territory, which has no human solution as yet, and must be factored into the decision of tenants in that environment; until such time that a good faith method is demonstrated before the courts.
