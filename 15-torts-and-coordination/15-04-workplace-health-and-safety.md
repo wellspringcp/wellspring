@@ -29,7 +29,7 @@ Employers are expected to provide work places which demonstrate a **good faith**
 
 Should any of the published hazards for a job description not have a good faith method provided by the employer which ameliorates the hazard, any and all of the employees (whether or not their particular job description incurs the alleged hazard) shall have standing to file suit against the employer under the cause of action, "Unameliorated Workplace Hazard".
 
-Upon judgment proceeding for the employees:
-- Both sides of the advocacy shall present a set of options for methods to ameliorate the hazard.
+Upon judgment proceeding for the plaintiff(s):
+- Both sides of the advocacy shall present a set of good faith options for methods to ameliorate the hazard.
 - Should both sides not be able to come to a mutually agreed upon settlement, a legislatively defined procedure shall be held and a jury shall issue the verdict on which method shall be adopted as the **good faith** method (where good faith is not necessarily "state of the art").
 - The employer shall have a grace period within which to provide such protections as are determined to be in good faith by mutually agreed upon settlement or by the legislatively defined process of dispute resolution.
