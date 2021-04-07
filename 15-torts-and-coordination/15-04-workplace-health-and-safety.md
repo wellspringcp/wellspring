@@ -31,5 +31,5 @@ Should any of the published hazards for a job description not have a good faith 
 
 Upon judgment proceeding for the employees:
 - Both sides of the advocacy shall present a set of options for methods to ameliorate the hazard.
-- Should both sides not be able to come to a mutually agreed upon settlement, a subsequent trial shall be held and a jury shall issue the verdict on which method shall be adopted as the **good faith** method (where good faith is not necessarily "state of the art").
-- The employer shall have a grace period within which to provide such protections as are determined to be in good faith by mutually agreed upon settlement or by jury.
+- Should both sides not be able to come to a mutually agreed upon settlement, a legislatively defined procedure shall be held and a jury shall issue the verdict on which method shall be adopted as the **good faith** method (where good faith is not necessarily "state of the art").
+- The employer shall have a grace period within which to provide such protections as are determined to be in good faith by mutually agreed upon settlement or by the legislatively defined process of dispute resolution.
