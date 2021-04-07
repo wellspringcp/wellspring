@@ -29,6 +29,8 @@ This cause of action shall not be available for:
 
 Should judgment proceed in favour of the plaintiff, the landlord may also propose methods for ameliorating the harm which shall be subjected to the same good faith criteria. Should both sides of the advocacy not be able to come to an agreement over which method(s) shall be deployed, a legislatively defined process shall be used to settle the dispute and guide the jury to arrive at the final decision on behalf of the litigants.
 
+The plaintiffs implicitly agree to a renegotiation of the terms of tenancy, in line with the requirements to effectuate the finally decided method, including changes to rent pricing etc, as decided by mutual agreement or by the jury through the legislatively defined dispute settlement procedure.
+
 ### Declaratory relief: Nature still reigns over humankind:
 
 Should judgment proceed in favour of the defendant, an additional declaratory relief shall be granted if the plaintiff was unable to show that a good faith method of ameliorating the harm existed. And the judgment now being on record, it may inform the residents of the area that the particular harm complained of is a hazard that comes with the territory, which has no human solution as yet, and must be factored into the decision of tenants in that environment; until such time that a good faith method is demonstrated before the courts.
