@@ -11,7 +11,7 @@ When a tenant of a structure or natures identifies something in the nature of th
 The burden of proof lies with the plaintiff to prove that harm does in fact occur, and that there exists at least one good faith method of ameliorating the hazard, as judged by the jury. The plaintiff must also source pricing commitments for the supply and implementation of the method of amelioration. In sourcing these pricing commitments, the plaintiff also implicitly agrees to any changes in the rental agreement necessary to effectuate the method, including changes in rent price.
 
 Good faith here refers to the following properties of the methods proposed by the plaintiff:
-- That such a method of ameliorating the harm exists.
+- That such a method of ameliorating the harm exists and that it actually ameliorates the harm complained of.
 - That such a method can be deployed without itself imposing a Non-Ameliorable Harmful Activity (`NAHA`) as defined elsewhere in this constitution.
 
 ### Liability:
@@ -24,6 +24,10 @@ This cause of action shall not be available for:
 - Harms and hazards caused by the tenant's manipulation or use of the natures to cause it to yield the harmful result, if it would otherwise not have yielded the harmful result in its plain, unmolested state (e.g., oil spill, natural gas, etc).
   - Such harms and hazards caused by the tenant's manipulation or use shall in fact form the basis of liability for the tenant in tort.
      - Tenants seeking to do engage in potentially harmful manipulations or uses should procure agreement from their landlord in writing.
+
+### Finding options and settling the dispute:
+
+The landlord may also propose methods for ameliorating the harm which shall be subjected to the same good faith criteria. Should both sides of the advocacy not be able to come to an agreement over which method(s) shall be deployed, a legislatively defined process shall be used to settle the dispute and guide the jury to arrive at the final decision on behalf of the litigants.
 
 ### Declaratory relief: Nature still reigns over humankind:
 
