@@ -1,4 +1,4 @@
-# Wellspring: Ingestible substance safety:
+# Wellspring: Food and Ingestible Substance Sanitation:
 
 In order to ensure that all food and ingestible substance production, warehousing/storage and distribution/vending is done in a sanitary manner, we provide a legal mechanism to enable customers to inspect the facilities used to produce and/or store and distribute ingestible substances. Where evidence of unsanitary operation is found, we provide remedies to enforce sanitary behaviour.
 
