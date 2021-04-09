@@ -1,4 +1,4 @@
-# Wellspring: Food and Ingestible Substance Sanitation:
+# Wellspring: Ingestible substance safety:
 
 In order to ensure that all food and ingestible substance production, warehousing/storage and distribution/vending is done in a sanitary manner, we provide a legal mechanism to enable customers to inspect the facilities used to produce and/or store and distribute ingestible substances. Where evidence of unsanitary operation is found, we provide remedies to enforce sanitary behaviour.
 
@@ -10,11 +10,11 @@ This warrant is a transferrable, vendable legal instrument. It is intentional th
 
 ### Standing and burden of proof:
 
-Any employee working for a company that produces, warehouses or distributes/vends an ingestible substance shall have standing to seek a warrant against that producer/warehouser/distributor/vendor. The burden of proof required to obtain this warrant shall be legislatively defined.
+Any employee working for an employer that produces, warehouses or distributes/vends an ingestible substance shall have standing to seek a warrant against that producer/warehouser/distributor/vendor. The burden of proof and other requirements needed to obtain this warrant (including affidavits, etc) shall be legislatively defined.
 
 ### Powers:
 
-This warrant grants the possessor the power to enter into the premises of a facility and search all areas and equipment/machinery which are used to store the materials for and/or produce an ingestible substance which is offered for sale; and to enlist the aid of law enforcement toward this end if need be. The executor of the warrant may gather such evidence as proves an unsanitary production/storage process. The executor of the warrant may take with himself/herself such witnesses and equipment as are determined necessary by the court to procure relevant evidence, subject to such limitations as are defined by the legislature to allow the facility to protect trade secrets.
+This warrant grants the possessor the power to enter into the premises of a facility and search all areas and equipment/machinery which are used to store the materials for and/or produce an ingestible substance which is offered for sale; and to enlist the aid of law enforcement toward this end if need be. The executor of the warrant may gather such evidence as proves an unsanitary production/storage process. The executor of the warrant may take with itself such witnesses and equipment as are determined necessary by the court to procure relevant evidence, subject to such limitations as are defined by the legislature to allow the facility to protect trade secrets.
 
 This mechanism may also be invoked to gather evidence of the use of input ingredients which have not been published by a producer in the ingredient list, and seek an injunction against such a producer to publish the use of such ingredients.
 
@@ -33,7 +33,7 @@ The plaintiff must show according to a legislatively defined burden of proof:
 
 ### Relief:
 
-Upon favourable judgment for the plaintiff, the plaintiff shall have redress in the form of legislatively defined injunctions and penalties against the defendant, including the levying of fines by the government (which the plaintiff shall receive a percentage of) and injunctions to suspend production of the product until such time that the defendant can show cause to resume production (i.e, the defendant must address the sanitation problem or publish the unpublished ingredient). At such time the defendant may sue the government to overturn the injunctions and resume operation.
+Upon favourable judgment for the plaintiff, the plaintiff shall have redress in the form of legislatively defined injunctions and penalties against the defendant, including the levying of fines by the government (which the plaintiff shall receive a percentage of) and injunctions to suspend production of the product until such time that the defendant can show cause to resume production (i.e, the defendant must address the sanitation problem or publish the unpublished ingredient). At such time the defendant may sue the government to lift the injunctions and resume operation.
 
 ### Defense:
 
