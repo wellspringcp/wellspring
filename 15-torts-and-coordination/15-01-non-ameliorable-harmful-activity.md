@@ -16,7 +16,7 @@ Any employee working for an employer shall have standing to seek a warrant again
 
 ### Powers:
 
-This warrant grants the executor the power to enter into the relevant premises of employment and search/sieze such evidence as is necessary to prove the conduct of Non-Ameliorable Activity which may be harmful to a 3rd party. The executor of the warrant may take with itself such witnesses and equipment as are determined necessary by the court to procure relevant evidence, subject to such limitations as are defined by the legislature to allow the facility to protect trade secrets.
+This warrant grants the executor the power to enter into the relevant premises of employment and search/sieze such evidence as is necessary to prove the conduct of Non-Ameliorable Activity which may be harmful to a 3rd party. The executor of the warrant may take with itself such witnesses and equipment as are determined necessary by the court to procure relevant evidence, subject to such limitations as are defined by the legislature to allow the employer to protect trade secrets, unless such trade secrets are themselves relevant evidence.
 
 Upon finding sufficient evidence, the executor has recourse in the courts to a cause of action known as the "Non-Ameliorable Harmful Activity".
 
