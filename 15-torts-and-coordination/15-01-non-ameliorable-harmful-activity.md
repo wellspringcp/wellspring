@@ -26,7 +26,7 @@ Upon finding sufficient evidence, the executor has recourse in the courts to a c
 
 Any ongoing activities being undertaken by a conagent which fulfill the following criteria:
 
-- A 3rd party here refers to any indepagent which has not consented to be exposed to the possible harm complained of, or the private property thereof.
+- A 3rd party here refers to any indepagent which has not consented to be exposed to the possible harm complained of, or the private property such an indepagent.
 - The activity concerns itself with entities, substances and/or processes whose properties are in fact, capable of causing harm to a 3rd party.
 - The conagent is undertaking these activities in such a manner as to cause those entities, substances and/or processes to exhibit their capability to cause harm to a 3rd party.
 
