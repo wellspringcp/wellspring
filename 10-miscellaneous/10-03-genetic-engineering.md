@@ -2,7 +2,9 @@
 
 ## Somatic cell editing:
 
-Somatic cells can be edited without restriction, as long as the activity does not constitute a Non-Ameliorable Harmful Activity (`NAHA`) as defined elsewhere in this constitution.
+Somatic cells may be modified for non-cosmetic purposes without restriction, as long as the activity does not constitute a Non-Ameliorable Harmful Activity (`NAHA`) as defined elsewhere in this constitution.
+
+Somatic cells may be edited for cosmetic purposes without restriction as long as the subject of the modification is sui juris and the activity does not constitute a `NAHA`.
 
 ## Germ line editing:
 
