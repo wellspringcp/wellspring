@@ -14,7 +14,7 @@ Any employee working for an employer that produces, warehouses or distributes/ve
 
 ### Powers:
 
-This warrant grants the possessor the power to enter into the premises of a facility and search all areas and equipment/machinery which are used to store the materials for and/or produce an ingestible substance which is offered for sale; and to enlist the aid of law enforcement toward this end if need be. The executor of the warrant may gather such evidence as proves an unsanitary production/storage process. The executor of the warrant may take with itself such witnesses and equipment as are determined necessary by the court to procure relevant evidence, subject to such limitations as are defined by the legislature to allow the facility to protect trade secrets.
+This warrant grants the possessor the power to enter into the premises of a facility and search all areas and equipment/machinery which are used to store the materials for and/or produce an ingestible substance which is offered for sale; and to enlist the aid of law enforcement toward this end if need be. The executor of the warrant may gather such evidence as proves an unsanitary production/storage process. The executor of the warrant may take with itself such witnesses and equipment as are determined necessary by the court to procure relevant evidence, subject to such limitations as are defined by the legislature to allow the facility to protect trade secrets, unless such trade secrets are themselves relevant evidence.
 
 This mechanism may also be invoked to gather evidence of the use of input ingredients which have not been published by a producer in the ingredient list, and seek an injunction against such a producer to publish the use of such ingredients.
 
