@@ -12,7 +12,7 @@ This warrant is a transferrable, vendable legal instrument. It is intentional th
 
 ### Standing and burden of proof:
 
-Any employee working for an employer shall have standing to seek a warrant against that employer, following their sworn affidavits of meeting sufficient proof.  The burden of proof and other requirements needed to obtain this warrant (including affidavits, etc) shall be legislatively defined.
+Any employee working for an employer shall have standing to seek a warrant against that employer. The burden of proof and other requirements needed to obtain this warrant (including affidavits, etc) shall be legislatively defined.
 
 ### Powers:
 
