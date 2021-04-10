@@ -40,7 +40,7 @@ The burden lies with the plaintiff to show that a `NAHA` has been committed; the
 
 The defendant shall have a good defense if it can prove, concerning the harms which could allegedly be caused to 3rd parties by those entities, processes and/or substances, being utilized in the manner that they are being used, any of the following:
 
-#### Standard defenses:
+#### Standard defense:
 
 - That the defendant has a method of containing the 3rd party harms such that no harm can come to 3rd parties without their knowing volition, and that the defendant is carrying out said activities under the auspices of that method.
 - That the defendant has informed said 3rd parties of the harm and they have consented to be exposed to the harm (volenti non fit injuria).
