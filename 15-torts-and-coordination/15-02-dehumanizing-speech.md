@@ -5,6 +5,8 @@
 
 > [Apologia]: If we had gone the "portray as less than human" route, we would have to reason about what constitutes a statement that has the effect of portraying someone in a particular light, etc, etc. Very difficult. We would have to deconstruct and then fix in a definition, why slurs are harmful, etc, etc. Very difficult. I think it's best to just let the action lie for statements made about biologically innate attributes.
 
+> [Apologia]: This entire mechanism is experimental and I'm frankly not sure whether or not it will make it into the final version.
+
 It shall be a defense if the statement being made about the person is factually true; for example, if a person is crippled, then making the statement that s/he is a cripple incurs no liability.
 
 This form of liability only applies to biologically innate attributes.
