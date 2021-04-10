@@ -83,9 +83,8 @@ Where the defense supplied by a defendant is that the activity is in such a remo
 - The undertaker of the `NAHA` in such a remote facility must:
   - Provide to the `SovCBIO` branch, a full plan and blueprint of the facility which discloses at minimum, the locations and known properties/nature of all dangerous entities/processes/substances.
   - Fully disclose, to the `SovCBIO` branch, any leakage or escape of the entities/processes/substances **immediately** in the event of a leak or escape.
-- The undertaker of the `NAHA` in such a facility must:
-  - Consent to a full public disclosure of the location of the facility.
-  - Consent to an on-site presence of an ambassadorship from the `SovCBIO` branch.
+  - Agree to a full public disclosure of the location of the facility.
+  - Accept the on-site presence of an ambassadorship from the `SovCBIO` branch.
   - File up to date reports with the `SovCBIO` ambassadorship on the nature of the activities being undertaken and routinely update these reports every time those activities change; and file routine reports at a legislatively defined rate of regularity (this constitution suggests once every 3 months).
 
 These requirements are to be met until such time that a method of fully reversing the effects of the entities/processes/substances is discovered. When such a method is discovered, the undertaker of the `NAHA` activities shall, after demonstrating before the courts that the method is in fact efficacious, no longer be subject to the requirements of these `SovCBIO` obligations.
