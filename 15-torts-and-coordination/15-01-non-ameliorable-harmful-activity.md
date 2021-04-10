@@ -52,11 +52,11 @@ The defendant shall have a good defense if it can prove, concerning the harms wh
 
 ### Relief:
 
-Upon judgment proceeding in favour of the plaintiff, 
+Upon judgment proceeding in favour of the plaintiff, the plaintiff shall have redress in the form of legislatively defined injunctions and penalties against the defendant, including the levying of fines by the government (which the plaintiff shall receive a percentage of) and injunctions to suspend the carrying out of the activities complained of until such time that the defendant can show cause to resume them (i.e, the defendant must demonstrate that 3rd party harms are no longer unameliorable). At such time the defendant may sue the government to lift the injunctions and resume operation.
 
-### Overthrowing an injunction produced by this cause of action:
+### Lifting an injunction produced by this cause of action:
 
-If an actor who was previously bound by an injunction to suspend a `NAHA` finds a way to ameliorate the 3rd party harms (as outlined in the "Defense" section of this file) capable of arising from its activity, then the actor may sue to lift the relevant injunctions and resume operation.
+If an actor who was previously bound by an injunction to suspend a `NAHA` finds a way to ameliorate the 3rd party harms (as outlined in the "Defense" section of this file) capable of arising from its activity, then the actor may show cause/sue to lift the relevant injunctions and resume operation.
 
 ## Limitations:
 
@@ -64,7 +64,7 @@ If an actor who was previously bound by an injunction to suspend a `NAHA` finds 
 
 No government agency or government employee, while acting in their capacity **as an agent of the government**, shall have standing to bring a `NAHA` complaint before the courts. Only private sector entities or conagents acting in their private capacity shall have standing to invoke this cause of action.
 
-> [Apologia, Note]: There needs to also be some kind of framework for protecting 3rd party neighbours from dereliction of duty in maintaining property. Things like lack of maintenance leading to vermin, etc.
+> [Apologia, Note]: There needs to also be some kind of framework for protecting 3rd party neighbours from dereliction of duty in maintaining property. Things like lack of maintenance leading to the proliferation of vermin, etc.
 
 ### Explicit limitation of liability to the immediate actor(s):
 
