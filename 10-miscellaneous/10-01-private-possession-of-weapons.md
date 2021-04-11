@@ -8,16 +8,16 @@ Implicit in the right to life is the right to defend one's life against initiati
 - The weapon is has intercontinental range, or range that extends beyond the borders of the `WS` polity.
 - The weapon, is capable of mass, indiscriminate destruction.
 
-Ergo, any weapons which are denied to the police and military by the "Weaponry denied to the police and military" section below, is also denied to the
+Ergo, any weapons which are denied to the police and military by the "Weaponry denied to the police and military" section below, are also denied to the private residents of a `WS` polity.
 
 ## Weaponry denied to the police and military:
 
 The government shall never arm the police and/or military with weapons which have the following characteristics:
 - Weapons which harness biological entities/organisms to cause harm to individuals; commonly known as "biological weapons".
-- Weapons which harness an ability to modify/write to the consciousness (whether the data/memory, goals and/or algorithms/logic) of a conscious agent.
+- Weapons which harness an ability to **modify/write** to the consciousness (whether the data/memory, goals and/or algorithms/logic) of a conscious agent.
   - This shall not be construed to infringe on the rights of private conagents to volitionally use brain-computer interfaces and other similar technologies on their own consciousness, or on the consciousnesses of other consenting conagents.
 
-The use, **by the government**, of technologies that grant the ability to read from the consciousness (whether the data/memory, goals and/or algorithms/logic) of a conscious agent are to be subject to those constraints outlined elsewhere in this constitution (_Chapter 08, Courts_) without exception.
+The use, **by the government**, of technologies that grant the ability to **read** from the consciousness (whether the data/memory, goals and/or algorithms/logic) of a conscious agent are to be subject to those constraints outlined elsewhere in this constitution (_Chapter 08, Courts_) without exception.
 
 ## The "recreational nuke" controversy:
 
