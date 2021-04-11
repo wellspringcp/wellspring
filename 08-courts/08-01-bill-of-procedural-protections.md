@@ -25,5 +25,6 @@ This is not a bill of rights. This is a bill of procedural protections before th
 10. The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
 11. The powers not delegated to the `WS` government by this constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.
 12. The Judicial power of `WS` shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
+14. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
 
 ## Procedural protections:
