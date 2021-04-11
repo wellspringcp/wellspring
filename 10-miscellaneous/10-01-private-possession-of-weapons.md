@@ -1,6 +1,6 @@
-# Wellspring miscellaneous constitutional laws:
+# Wellspring: Private Possession of Weapons
 
-## Possession of private weaponry
+# Residents must have access to any weapons the police/military can use.
 
 Implicit in the right to life is the right to defend one's life against initiations of force by other conagents. Therefore `WS` categorically denies to the legislature the power to make any laws which infringe on the residents' **pre-existing** right to keep and bear **all** weapons _which are in use by the police and military_. In particular:
 - Any weapon which is in use by the police force **must** be freely and **liberally** available for purchase, distribution and use by the residents of a `WS` polity without exception.
