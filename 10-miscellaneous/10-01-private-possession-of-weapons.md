@@ -15,6 +15,7 @@ Ergo, any weapons which are denied to the police and military by the "Weaponry d
 The government shall never arm the police and/or military with weapons which have the following characteristics:
 - Weapons which harness biological entities/organisms to cause harm to individuals; commonly known as "biological weapons".
 - Weapons which harness an ability to modify/write to the consciousness (whether the data, goals or algorithms/logic) of a conscious agent.
+  - This shall not be construed to infringe on the rights of private conagents to volitionally use brain-computer interfaces and other similar technologies on their own consciousness, or on the consciousnesses of other consenting conagents.
 
 ## The "recreational nuke" controversy:
 
