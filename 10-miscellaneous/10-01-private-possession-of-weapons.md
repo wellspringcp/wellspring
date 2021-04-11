@@ -5,8 +5,8 @@
 Implicit in the right to life is the right to defend one's life against initiations of force by other conagents. Therefore `WS` categorically denies to the legislature the power to make any laws which infringe on the residents' **pre-existing** right to keep and bear **all** weapons _which are in use by the police and military_. In particular:
 - Any weapon which is in use by the police force **must** be freely and **liberally** available for purchase, distribution and use by the residents of a `WS` polity without exception.
 - Any weapon which is in use by the military **must** be freely and **liberally** available for purchase, distribution and use by the residents of a `WS` polity, unless that weapon which meets **all** of the following criteria:
-- The weapon is has intercontinental range, or range that extends beyond the borders of the `WS` polity.
-- The weapon, is capable of mass, indiscriminate destruction.
+  - The weapon is has intercontinental range, or range that extends beyond the borders of the `WS` polity.
+  - The weapon, is capable of mass, indiscriminate destruction.
 
 Ergo, any weapons which are denied to the police and military by the "Weaponry denied to the police and military" section below, are also denied to the private residents of a `WS` polity.
 
