@@ -14,7 +14,7 @@ When employees identify an alleged hazard which arises from carrying out their j
 
 #### Burden of proof:
 
-The burden of proof shall lie with the plaintiffs to prove that the harm complained of does in fact constitute a harm.
+The burden of proof shall lie with the plaintiffs to prove that the alleged hazard complained of does in fact constitute a potential or actual harm.
 
 Upon judgment proceeding for the employees:
 - They shall have redress in the form of declaratory relief, that the alleged hazard is in fact a hazard.
@@ -23,16 +23,16 @@ Upon judgment proceeding for the employees:
 
 ## Making employers provide safe work environments:
 
-Employers are expected to provide work places which demonstrate a **good faith** effort to ensure that any hazards which may reasonably arise from the nature/configuration of the particular environment/equipment/tools/supplies provided by the employer are ameliorated.
+Employers are expected to provide work places which demonstrate a **good faith** effort to ensure that any published hazards which may reasonably arise from the nature/configuration of the particular environment/equipment/tools/supplies provided by the employer are ameliorated.
 
-For any hazard occasioned by the particular nature/configuration of the environment/equipment/tools/supplies provided by the employer, a good faith method of ameliorating said hazard is one which:
+Should any of the published hazards for a job description not have a good faith method provided by the employer, any and all of the employees (whether or not their particular job description incurs the alleged hazard) shall have standing to file suit against the employer under the cause of action, "Unameliorated Workplace Hazard".
+
+For any published hazard occasioned by the particular nature/configuration of the environment/equipment/tools/supplies provided by the employer, a good faith method of ameliorating said hazard is one which:
 
 - When diligently followed/deployed by the employees ameliorates the hazard.
 - Where the method is already deployed:
   - Is resourced by the employer sufficiently so as to make it practical for the employees to follow/deploy.
   - Can readily be demonstrated by the employer to be maintained in an operational state or on standby, ready to be deployed in a timely manner, depending on the type of hazard under consideration.
-
-Should any of the published hazards for a job description not have a good faith method provided by the employer, any and all of the employees (whether or not their particular job description incurs the alleged hazard) shall have standing to file suit against the employer under the cause of action, "Unameliorated Workplace Hazard".
 
 ## Cause of action: "Unameliorated Workplace Hazard":
 
@@ -42,12 +42,14 @@ The plaintiffs shall nominate at least one good faith method to ameliorate the h
 
 The burden of proof shall lie with the employer to show that they have in fact provided a good faith method of ameliorating the hazard.
 
+>[Apologia]: You cannot prove a negative, so requiring the employee to prove the absence of a good-faith method is a logical fallacy.
+
 ### Finding options and settling the dispute:
 
 Upon judgment proceeding for the plaintiff(s), the defendant may also source and nominate their own options for ameliorating the hazard and these options shall also be subjected to the good faith criteria. Should the litigants be unable to come to a settlement over which method(s) should be deployed, a legislatively defined procedure shall be used to settle the dispute and guide the jury to arrive at the final decision on behalf of the litigants.
 
 The plaintiffs implicitly agree to a renegotiation of the employees' terms of employment, in line with the requirements to effectuate the finally decided method, including changes to duties, hours, compensation, etc, as decided by mutual agreement or by the jury through the legislatively defined dispute settlement procedure.
 
-### Declaratory relief: Risky job:
+### Declaratory relief: Inherently Risky job:
 
-Should judgment proceed in favour of the defendant, an additional declaratory relief shall be granted if the plaintiff was unable to show that a good faith method of ameliorating the hazard exists. The judgment now being on record, it should inform current and future employees that the particular harm complained of is a risk that comes with the job, which has no human solution as yet, and must be factored into the decision of employees in that environment; until such time that a good faith method is demonstrated before the courts.
+Should judgment proceed in favour of the defendant, an additional declaratory relief shall be granted if the plaintiff was unable to show that a good faith method of ameliorating the hazard exists. The judgment now being on record, it should inform current and future employees that the particular harm complained of is an inherent risk that comes with the particular job description(s), which has no human solution as yet, and must be factored into the decision of employees in that environment; until such time that a good faith method is demonstrated before the courts.
