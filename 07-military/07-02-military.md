@@ -41,6 +41,7 @@ In cases where a `casus belli` is an asset in a foreign polity:
 The legislature shall define processes both for nominating and declaring foreign or domestic political entities as Identified Hostile Political Entities. No political entity which adheres to **all** of the following core points of policy **in practice (not merely on paper)** may be nominated as an `IHPE`:
 - Private property law.
 - Military isolationism.
+- A commitment to never *initiate* the use of force, duress or fraud.
 
 Additionally, merely existing as a political entity which does not conform to these **in practice (not merely on paper)** does not suffice for being nominated and/or declared an `IHPE`. Such a political entity must specifically pose either a distant, or a clear and present threat to the persons and private property of `WS` residents. `WS` residents should be vigilant in ensuring that this list of core criteria is changed only after very well reasoned deliberation.
 
